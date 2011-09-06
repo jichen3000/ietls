@@ -20,6 +20,25 @@ Listening Tracing:
       still account for = still+account
       UK's socitey = UK's+oci
         
-        
-        
+场景
+  租房
+    费用：
+      water
+      electric
+      Internet
+      cable TV
+      laundry
+      insurance
+      property/estate management
+  
+常用人名：
+  Sarah
+  Peter
+  Janet
+  Johns
+  David
+  Kervin
+  
+surname = family name = last name
+give name = first name
         
