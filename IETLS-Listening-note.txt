@@ -1,3 +1,9 @@
+审题技巧：
+  1、找关键词 名词（人名、专有名词），数字等 不太会替换的词
+    注意并列的关系。有并列的，直接用上一个出现的词，作为定位词
+  2、找限定词 特殊的形容词、副词、动词。但要注意一般是转换为相同意义的词
+  3、进行相关的猜测，词的类型
+  
 Listening Tracing:
   IETLS 2, Test 2, Section 4.
     word: 
@@ -22,23 +28,107 @@ Listening Tracing:
         
 场景
   租房
+    房间类型：
+      最常用的：garden, garage, balcony
+      living, sitting, kitchen, bathroom, terrace, attick阁楼, toilet
+      restroom（公共厕所）
+      twin room两张床 double room 大床 studio room 类似于单身公寓
     费用：
+      laundry
+	  gas
       water
       electric
       Internet
       cable TV
-      laundry
       insurance
       property/estate management
+	  题型：including、小数字、或表示费用的词charge, fee, bill, rental。
+	支付方式：
+	  in cash, by cradit card, by cheque
+	  题型：pay in every month
+  多长时间支付：
+    weekly, monthly
+    题型：on ... basis
+  消防通道：
+    fire/emergent door/exit/entrance
+    
+    
+  学校：
+    宿舍：accommonadation、dormitory, residential(house, college, hall)
+    Main Hall
+    
+  银行：
+    current, deposit, saving
+  
+    reference check 背景调查
+  时间：
+    on 具体的日期，某一天或是星期几。 on Wednesday.
+	at 几点 at 5.00 PM
+	in 年份
+	two weeks' notic 注意一定要加所有格， 或用tow-week notice. tow-week做形容词。 two-year old
+	表示一段时间 between, during, maximum, minimum
   
 常用人名：
   Sarah
   Peter
   Janet
   Johns
+  John
+  Jone
+  Michael
   David
-  Kervin
+  Kevin
+  Jane
+  Edison
+  Richard
+  Wendy
   
 surname = family name = last name
 give name = first name
-        
+  
+  old 年龄大 eld辈分大
+  far farther farthest 距离远 further furthest 抽象距离远的
+  little less least
+  fore former formest 之前的
+  
+The same thing goes to be sb.
+Dr john has six nurse. The same thing goes to be Dr colin.
+
+I'm sick of you. 我受够你了。 分手时用。
+
+sunblock
+tan
+
+名词变为形容词时，重音有移动：
+  parent  pa'rental
+  instrument  instru'mental
+  tutor  tu'torial
+  analyse  a'nalysis  ana'lytical
+  
+Junction 十字路口
+
+路名后跟的：
+  Street, Lane, Road, Avenue, Square, Drive
+  
+data = statistics
+
+单复数意义的变化
+  custom 顾客  customs 海关
+  arm arms 武器
+  green greens 绿色蔬菜
+  look looks 外表
+  
+单词结尾o的变复数
+  黑人英雄回应土豆蕃茄
+  negro, hero, echo, potato, tomato
+  
+  
+preferred occurred 过去双写加ed.
+    
+0的表示
+  zero, o, not, nill, null
+  
+相似音
+  vocation 职业, vacation假期
+  temple, tempo
+  co-operation corporation.
