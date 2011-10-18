@@ -26,8 +26,36 @@ Listening Tracing:
       still account for = still+account
       UK's socitey = UK's+oci
         
-场景
+场景scenarious
+  学校
+    接机 meet you at ariport
+    register
+      letter of enrollment 入学通知书
+      recommendation 介绍信
+      driving license
+    Acdemic Service 学院服务中心
+    curriculum 课程
+    schedule
+    undergraduate 大学生
+    postgraduate 研究生
+    Fresh Sophomore Junior Senior
+    term session 学期
+    Financial Service 财务中心
+    tuition 学费 scholaship 奖学金 grants 助学金
+    student id
+    valid
+    orientation 入学介绍典礼
+    tutor 辅导员
+    director 系主任
+    dean 院长
+    宿舍：accommonadation、dormitory, residential(house, college, hall)
+    Main Hall
   租房
+    house agent
+    area
+      city center, downtown, urban
+      rural, outskirts
+    Landload    
     房间类型：
       最常用的：garden, garage, balcony
       living, sitting, kitchen, bathroom, terrace, attick阁楼, toilet
@@ -51,15 +79,38 @@ Listening Tracing:
     题型：on ... basis
   消防通道：
     fire/emergent door/exit/entrance
-    
-    
-  学校：
-    宿舍：accommonadation、dormitory, residential(house, college, hall)
-    Main Hall
+  旅游：
+    subway, railway, tube
+    Voyage, Ferry 渡轮 Cruise 邮轮    
+    Security/Customs check 安检
+    boarding check 登机牌
+    luggage/baggage reclaim提取
+    waiting hall/room
+    airhostess 空姐
+    aisle seat 走廊位置 middle seat, window seat
+    cuisine 小吃
+    beverage 饮料总称
+    refreshment 点心
+    industrious 勤劳的
+    respectively 各自
+    touch 火把
+    compass 指南针
+    sunblock, sun-burnt
+    tan 太阳晒的黑， fair 白的
+    Place of interest 名胜古迹
+    coach = bus, minibus, doable-decker bus
+    Do in Rome as the Roman does!
     
   银行：
     current, deposit, saving
-  
+    withdraw 取钱
+    overdraw 透支
+    interest free 免息
+    transfer 转账
+    figure 数字的小写 1000
+    word 数字的大写
+    select选择 joint 联合
+    loan 贷款
     reference check 背景调查
   时间：
     on 具体的日期，某一天或是星期几。 on Wednesday.
@@ -95,9 +146,8 @@ The same thing goes to be sb.
 Dr john has six nurse. The same thing goes to be Dr colin.
 
 I'm sick of you. 我受够你了。 分手时用。
-
-sunblock
-tan
+take a seat 请座
+go dutch AA制
 
 名词变为形容词时，重音有移动：
   parent  pa'rental
