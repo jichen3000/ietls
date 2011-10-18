@@ -1,0 +1,6 @@
+  sp -> sb  sport, spell
+  st -> sd  study, street
+  sk -> sg  skill, school, score, scale
+  
+  /w/ 嘴唇向两边分开
+  /v/ 上面的牙齿咬下嘴唇
