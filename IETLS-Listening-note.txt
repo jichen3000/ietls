@@ -110,14 +110,20 @@ Listening Tracing:
     figure 数字的小写 1000
     word 数字的大写
     select选择 joint 联合
-    loan 贷款
     reference check 背景调查
+    服务 loan internet insurance investment
   时间：
     on 具体的日期，某一天或是星期几。 on Wednesday.
-	at 几点 at 5.00 PM
-	in 年份
-	two weeks' notic 注意一定要加所有格， 或用tow-week notice. tow-week做形容词。 two-year old
-	表示一段时间 between, during, maximum, minimum
+    at 几点 at 5.00 PM
+    in 年份
+    two weeks' notic 注意一定要加所有格， 或用tow-week notice. tow-week做形容词。 two-year old
+    表示一段时间 between, during, maximum, minimum
+  天气：
+    windy
+    sunny
+    cooler
+    warm
+    cloudy
   
 常用人名：
   Sarah
@@ -182,3 +188,17 @@ preferred occurred 过去双写加ed.
   vocation 职业, vacation假期
   temple, tempo
   co-operation corporation.
+  
+连音规则：
+  1.基本规则
+    前辅后元
+  2.词尾的r
+    原本不发音的，和后面的词结合会发音
+  3.辅音连读中的省音
+    前词结尾和后词开头都有的会省略
+  4.爆破
+    前面以爆破结束时，有可能不发音
+    爆破音 p, b, t, d, k, g
+    后面为摩擦音 s, z, f, v, math, the, sheep, 3 
+    爆擦音 t+sheep, d+3, tr, dr
+    m,n 为轻微爆破
