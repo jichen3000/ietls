@@ -1,0 +1,57 @@
+小作文
+  chart：
+    1. line chart
+    2. bar chart
+    3. pie chart
+    4. table
+    5. process/flow
+    6. map(describe)
+  注意客观描述，不要主观解释和猜测
+  
+大作文
+  1. arguement/debate
+  2. effects/solutions
+  
+  arguement分段：
+    1. 背景、观点（2-3句）
+    2. 论据（反对的，但行数少）
+    3. 论据（支持的，行数要比反对的多）
+    4. 结论。
+    注意在论据阶段也可以是支持的论据中包含反对的论据。
+  effects分段：
+    1. background
+    2. effects
+    3. solutions
+    4. conclustion
+    
+    
+语法：
+  从句：名词性从句，定语从句，状语从句
+  名词性从句：主语从句，宾语从句，表语从句，同谓语从句
+    连接词：
+      1、that，无意义（注意宾语从句中可以省略）
+      2、whether or not, if
+      3、wh(what, which, who, whom, whose), (when, where, why, how).
+    同谓语从句
+      1、抽象名词后，fact, question, issue
+      2、 注意和定语从句的区别。that在定语从句中充当成分。
+    宾语从句的转换：
+      we want to know when we can arrive?
+      we want to know when to arrive?
+      wh + to do.
+  定语从句：先行词 + 关系代词
+  that可省略的情况
+    1、定语从句中做宾语，注意它充当成份，从句的宾语
+    2、在宾语从句中，它不充当成分，that只是连接词
+  非谓语动词可作后置定语，可以和定语从句转换
+    doing
+    done 被动
+    to do 未发生的
+    Gcaron dixide which aggravates the global warning should be controled.
+    Gcaron dixide aggravating the global warning should be controled.
+    The problems which are caused by use of mobile planes could totally cannot be resolved.
+    The problems caused by use of mobile planes could totally cannot be resolved.
+    The meeting that is going to be held could be delayed.
+    The meeting to be held could be delayed.
+  
+    

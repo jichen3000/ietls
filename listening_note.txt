@@ -124,7 +124,36 @@ Listening Tracing:
     cooler
     warm
     cloudy
-  
+  学校的场所
+    Computer Laboratory
+    Director's Office
+    Library
+    Storeroom
+    Self Access Room
+    Student Common Room 休息室(tea coffee)
+    Staff Room
+  Club的场所
+    Arts Studio
+    Football Pitch 足球场
+    Tennis Courts 场地
+    Dance Studio
+    Fitness Room
+    Reception
+    Squash Courts 壁球场
+  essay
+
+  地名
+    London Arms
+    Park View Hotel
+    
+  食品
+    French Onion Soup
+    vegetarian food
+    Lentil Curry 小扁豆
+    Roast Dinner 烤
+    Plum Pudding 李子
+    Apple Pie
+   
 常用人名：
   Sarah
   Peter

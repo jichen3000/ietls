@@ -1,0 +1,40 @@
+ 
+
+阅读
+  步骤：
+    1、read the instruction
+    2. underline the keywords
+    3、有条件的对题目空格进行分析
+    4、根据keyword，寻找答案。 注意同义转换
+    
+  keywords:
+    1、专有名词 人名、地名
+    2、数字  日期、货币
+    3、特殊形容词
+    4、特殊动词
+    
+  Skimming
+    1、句子
+    2、段落 抓住主题句，首句和尾句
+    3、文章  结构、风格
+  Scanning
+    找答案， reading intensively
+    
+  技巧 could,might 表示委婉的一般对。 表示绝对的一般是错的。
+  
+  十类题型：
+    1. sentence completion
+    2. Summary  ++
+    3. TURE|FALSE|NOT GIVEN ++
+    4. List of Heading ++
+    5. Multiple Choice ++ 单选
+    6. Picking From a list 多选
+    7. Classification
+    8. Mathing ++
+    9. Note|Table|Flow Chart completion
+    10. Short Answer questions
+    
+    Matching的技巧：
+      1、在文中找位置
+      2、在答案中划keywords
+      3、答案就在keywords的两句之内
