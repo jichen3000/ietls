@@ -18,27 +18,56 @@
   read IT　＿＿, 答案会在听稿中前置 catelogs of IT
   Instructor's ____
  
-Listening Tracing:
-  IETLS 2, Test 2, Section 4.
-    word: 
-      1. be used to doing: 习惯于
-      2. used to: in the habit
-      3. account for: give reasons for
-      percentage
-      bear in mind（加从名）: 记住，考虑到
-      my own view ( is that)
-      intelligent 聪明的
-      a fairly small country
-      wool and timber 羊毛，木材
-      fertile soil
-      pasture 牧场
-      solidarity
-      amongst
-    speak:
-      helpful background
-      we are = we're
-      still account for = still+account
-      UK's socitey = UK's+oci
+选择题
+  基础：
+    长看选项，短看题
+    关键字为名字，然后是活用词
+    
+  正确答案特征：
+    1. 重现
+    2. 同反近义词
+      2.1. 同根词
+        2.1.1. 国籍
+        2.1.2. 重音，词性的变化会导致重新的变化
+        2.1.3. 加减乘除
+        2.1.4. 相似但意思完全不同
+          respect-respective adj. 分别的，各自的
+          industrious adj. 勤勉的 diligent
+          succession n. 连续；继位
+      2.2. 举例说明
+      2.3. 解释说明
+      2.4. 数字转换
+      2.5. 同义词
+        Approach-method
+        assistant-help
+        travel to-go to
+    3.句式的转换
+      双重否定-肯定
+      主动-被动
+      因果关系词的变化
+  错误答案特征：
+    1. 未出现
+    2. 忽视限定
+      struggle, manage to, try to, will, have/has already, current, original, previous, 以及时态
+    3. 数词的活用， 序数词-基数词
+    4. 主观臆断 feel, think
+    5. 比较级的选项
+    6. 并列关系 A and B, C or D
+    7. 绝对性的词汇 only, all, must
+    
+  猜答案的原则：
+    1. 顺序原则，最后的。
+    2. 同义相斥
+    3. 相似区分
+    4. 陌生词原则
+    5. 最近答案原则
+    6. 范围大的
+    
+  多项选择题：
+    Twin原则
+    
+配对题：
+  以不变应万变
         
 场景scenarious
   学校
@@ -167,7 +196,28 @@ Listening Tracing:
     Roast Dinner 烤
     Plum Pudding 李子
     Apple Pie
-   
+  地图
+    Junction 十字路口 = cross/crossroad = intersection
+    traffic light
+    block
+
+    North west西北
+    South east东南
+    
+    Now you are stand is at the south entrance(南端) of Libary Road.
+    
+    right opposite
+    in the back of
+    in the front of
+    at the cornor of A and B. 在A和B的拐角处。
+    
+    parallel
+    go pass 路过
+    go through 穿过
+    go up 向北
+    go down 向南
+    
+    
 常用人名：
   Sarah
   Peter
@@ -204,10 +254,8 @@ go dutch AA制
   tutor  tu'torial
   analyse  a'nalysis  ana'lytical
   
-Junction 十字路口
 
-路名后跟的：
-  Street, Lane, Road, Avenue, Square, Drive
+
   
 data = statistics
 
@@ -227,10 +275,6 @@ preferred occurred 过去双写加ed.
 0的表示
   zero, o, not, nill, null
   
-相似音
-  vocation 职业, vacation假期
-  temple, tempo
-  co-operation corporation.
   
 连音规则：
   1.基本规则
@@ -245,7 +289,241 @@ preferred occurred 过去双写加ed.
     后面为摩擦音 s, z, f, v, math, the, sheep, 3 
     爆擦音 t+sheep, d+3, tr, dr
     m,n 为轻微爆破
+连读：
+  in 1980
+  leave it alone
+  no objection
+  blue earring 耳环
+  poor area
+  next year
+  end of term
+  for instance
+  rush hour
+  
+音变
+  t+j = t
+  s+j = s
+  d+j = d
+  z+j = z
+  
+爆破  
+  a keep-fit studio
+  old clothes
+  foot bridge
+  internet addiction
+  wet lands
+  red blouse
+  
+近音干扰
+  sour  sore
+  smile smell
+  acid  arid
+  sauce south
+  after eating  after reading
+  town hall   town house
+  real  rear
+  vocation 职业, vacation假期
+  temple, tempo
+  co-operation corporation.
 
+英美音的区别
+  Neither
+  either
+  record
+  cupboard
+  cassette
+  garage
+  laboratory
+  adult
+  ordinarily
+  secretary
+  dictionary
+  
+数字转换
+  a quarter = 15 minutes = 3 months
+  in the 1900s = in the 20th century
+  fortnight = 14 days = 2 weeks
+  couple = 2 
+  dozen = 12
+  score = 20
+  a decade = 10 years
+  under a week = 5/6 days
+  
+数字表达-纯数字
+  account number
+  credit card number
+  fax number
+  telephone number
+数字表达-中英文混合
+  passport
+  driving license
+  license plate number 车牌
+  student id
+  membership number
+  medical card number
+  flight number
+0 = oh, zero, nought
+分数， 小数point
+
+地址
+  路名后跟的：Street, Lane, Road, Avenue, Square, Drive
+  flat/apartment 数字+数字+字母
+  数字+字母+路名
+  路名：
+    West Street
+    Forest Street
+    College Dining Room
+    Lake Avenue
+    Church Road
+    New Street
+    Gold Street
+    North Avenue
+    Central Avenue
+    Hill Road
+    Eagle Road
+    Station Avenue
+    Bank Street
+    University Drive
+    Long Road
+    Bridge Road
+    
+地理背景知识
+  UK
+    London
+    Scotland
+    England
+    North Ireland
+    Manchester
+    Wales
+    Sheffield
+    Edinburgh 爱丁堡
+    Birmingham
+    Leeds
+    Liverpool
+    Coventry 考文垂
+  Australia
+    Sydney
+    Melbourne 墨尔本
+    Brisbane 布里斯班
+    Canberra 堪培拉（澳大利亚的首都）
+    Queensland 昆士兰
+    Victoria 维多利亚
+    New South Wales 新南威尔士州
+    Adelaide 阿德莱德
+    Perth 珀斯
+  Canada
+    Vancouver 温哥华
+    Toronto 多伦多
+    British Columbia 不列颠哥伦比亚
+    Quebec 魁北克
+    Ontario 安大略湖
+    Ottawa 渥太华（加拿大首都）
+  America
+    Los Angeles
+    Philadelphia 费城
+    Chicago
+    San Francisco
+    Washington
+
+国籍
+  ish: 
+    British, 
+    Polish-Poland, 
+    Swedish-Sweden
+    Danish-Denmark
+    Irish-Ireland
+    Turkish-Turkey
+  an:
+    American
+    Candian
+    Australian
+    Russian
+    German
+  ese:
+    Chinese
+    Japanese
+    Vietnamese
+  other:
+    New Zealander - New Zealand
+    French - France
+    Swiss - Switzerland
+    Greek - Grace
+    Dutch - Holland
+    Thai - Thailand
+
+单位
+  Kilometer/km
+  Meter/m
+  Centimeter/cm
+  Mile/ml
+  Foot/feet
+  Litre/l
+  Milliter/m
+  Kilogram/kg
+  Gram/g
+  Pound/p
+  Ton
+  Square meter
+  Hectare/ha 公顷
+  Acre 英亩
+  1 dollar = 100 cents
+  1 pound = 100 pence
+  Fahrenheit/F 度
+  Centigrade, Celsius/C
+  
+
+评价词：
+  Positive:
+    Advantages, merits, positive effects of, great/terrific, plus
+  Negative:
+    disadvatages, demerits, negative effects of, terrible/awful, minus
+  Neutral:
+    so-so, ok, good, general
+    
+词性的变化：
+  'analyst-ana'lytical adj.分析的；解析的
+  'benefit-'beneficial
+  'cash-ca'shier
+  'employer-employ'ee
+  'industry-in'dustrial
+  'instrment-instru'mental
+  'interest-'interesting
+  'linguist-lin'guistics
+  'magic-ma'gician
+  'music-mu'sician
+  'parent-pa'rental
+  'photo-pho'tography
+  'tutor-tu'torial
+  'vegetable-vage'tarian
+  bi'ologist-bio'logical
+  e'conomy-e'conomist
+  eco'nomics-eco'nomist
+  'library-li'brarian
+  mathe'matics-mathema'tician
+  pre'fer-'preference
+  
+Listening Tracing:
+  IETLS 2, Test 2, Section 4.
+    word: 
+      1. be used to doing: 习惯于
+      2. used to: in the habit
+      3. account for: give reasons for
+      percentage
+      bear in mind（加从名）: 记住，考虑到
+      my own view ( is that)
+      intelligent 聪明的
+      a fairly small country
+      wool and timber 羊毛，木材
+      fertile soil
+      pasture 牧场
+      solidarity
+      amongst
+    speak:
+      helpful background
+      we are = we're
+      still account for = still+account
+      UK's socitey = UK's+oci
+  
   result in = lead to = be contribute to 前因后果
   due to = own to = result from 前果后因
   
@@ -263,3 +541,14 @@ preferred occurred 过去双写加ed.
   What do you mean by "word"？
   
   虚词：'m,  'll,  've,  of,  不容易听出
+  
+  drop out 逃课
+  The car is not to my liking.
+  creep up on 爬上 
+    The mounting pressure as the deadline for that first assignment creeps up on you.
+   
+  She is anything but lover. 她不是个好情人
+  
+  pure example = typical
+  
+  
