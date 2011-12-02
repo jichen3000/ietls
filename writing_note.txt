@@ -214,5 +214,190 @@
       
     For Chinese candidates, you need to be aware that your culture & society is basically composed of two parts: a) the traditional Chinese culture & society that was strongly influenced by Feudalism, Confucianism, Daoism and Buddhism and, b) the modern Chinese culture & society that has developed in China since 1949. In both of these areas, Chinese people are quite distinctive, compared to people from most of the West.
 
+      
+论据构思
+  1. 慢速
+    Brainstorming
+  2. 快速
+    看考题中的类型
+    分类法
+      原因：主观、客观
+      对人的影响： 身体、心理
+      
+A类小作文：
+  类型：曲线、柱状、饼图、表格 (90%) 易看不易写
+    流程图、地图  易写不易看
+  数据类的：
+    1. 准确， 要看单位，了解数据的本质
+    2. 客观性， 不添加任何主观看法和意见
+  审题：考题文字，图表信息、时间、数据
+  时态：对应情况而定，无年份的现在时
+  
+  分段： 4-5段
+  开头段：1句话，改写考题
+  The chart below shows ...
+  The linechart above presents ...
+  主体段： 数据（起点、终点、最高、最低、交点、转折点）
+    排序 时间顺序法
+  结尾段 1句话， 做题的目的，可以不写
+  主语的多样性
+  
+line chart:
+  上升 increase .vt .n =
+    rise (rise-rose-risen) .vt .n
+    grow (grow-grew-grown) .vt growing .n
+    go up
+    
+    climb: rise, usually slowly 爬升
+    leap: move or act quickly or suddenly
+    surge: increase suddenly, upsruge
+    soar: rise rapidly
+    Its debt burden - the weight of government debt as proportion of economic outpay - would soar
+    double/triple
+    His salary has doubled in less than a year.
+    
+  下降 decease .vt .n =
+    drop .vt .n
+    fall .vt (fall-fell-fallen) .n
+    decline .vt .n
+    go down
+    
+    plunge: fall steeply 跳水
+    plummet drop sharply
+    sink: to fall, drop or descend gradually to a lower level
+    dip: decline slightly and usually temporarily
+    
+  波动 fluctuate  fluctuation =
+    go up and down
+    rise and fall
+      Magic cards fluctuate in value based on their use in tournaments played around the world.
 
+  变化快 形容词、副词 =
+    dramatic dramaticly
+    drastic drastically
+      There was nothing drastically wrong against Kamke.
+    sharp sharply
+    steep steeply
+    quick quickly
+    rapid rapidly
+    considerable considerably
+  变化慢，不明显 =
+    slight slightly
+    moderate moderately
+    modest modestly
+    slow slowly
+    stead steadly
+      He well-publicized case, which attracted considerable international attention, made her the heroine of women's rights group.
+    marginal marginally
+    gradual gradually
+      In many Muslin coutries, Sharia law forms the basis for the constitution, but is interpreted moderately.
+      As we think about it right now, it may be modestly bigger.
+      
+  句型：
+    1. v+adv
+      The profile of company A declined slowly.
+      The population of developing nations will grow dramatically.
+      The share price of ABC international fluctuated sharply.
+    2. adj+n
+      There was a slow decline in the profit of company A.
+      There will be a dramatic growth in the population of developing countries.
+      The profit of A showed a slow decline.
+      The share price of A experienced a sharp fluctuation.
+      Last year saw a slight imcrease in ...
+      The price underwent a significant increase last year.
+    平稳 remain stable/ constant
+      Wood exports remained constant between 1900 and 1902 at roughly 1.1 million dollars.
+    level off = move toward stability or consistency 趋向平稳
+      The percentage of American children who are over weight has levelled off since 1992.
+    达到最在值 reach a peak, peak .vt
+      The population will reach a peak of 15 million in 2015.
+      The population will peak at 15 million.
+    达到最小值 reach a lowest point
+      Generally, body temperature drops to the lowest between 4 to 6 A.M. when the body is most at rest.
+    reach a (new) low
+      Profits have reached a new low this month.
+    
+  about 大约=
+    around
+    or so,
+    roughly,
+    nearly
+    approximately
+    
+  show =
+    present
+    reveal
+    illustrate
+    
+  betwenn ... and ... =
+    from ... to
+    during the 40 years period from ... to ...
+    in the following 40 years after 1961
+  
+bar chart:
+  比较级
+    In managerial positions, there are more men than women.
+    A greater percentage of men than women are found in managerial positions.
+    The percentage of men employed in managerial positions is much larger than that of woment in these occupations.
+    Women spend longer time on household work than men.
+    The population of country A is larger than that of country B.
+    Country A has more people than country B.
+  表示对比的句式
+    while, whereas, compared with
+    20% of the boys played football after school while only 3% of the girls were interested in this sport.
+    52% of the respondents were men while 48% were women.
+    The average weekly hours were 36.5 for women, compared with 43 for men.
+    
+pie chart
+  percent, percentage
+   90 percent (no s)
+   the percentage of 90
+     There has been a significant increase in the percentage of students enrolled at community college.
+   proportion, share, rate
+     A large proportion of the earth's surface is covered with water.
+     Americans spend a smaller share of income on food than resident of other developed nations.
+     The rate of heart disease increased sharply between 1940 and 1967.
+  half, quater, a third = 0.33, two thirds = 0.67
+  “占”的表达
+    Developed countires account for over 80 percent of world banana imports.
+    In Columbia, while blacks make up less than 20 percent of the juvenile population, 60 percent of all arrests involve black children.
+    Asians constitute over 25% of this planet's 6 billion inhaitants.
+    
+Table:
+  极值：
+    Female literacy rate is the highest in Singapore.
+    Sri Lanka has the lowest propotion of women workforce.
+    Food is the biggest item of expenditure of an average Australian family.
+  排序：
+    Europeans are the leadig ethnicity, followed by Asians, mixed races and others.
+    England is where the most books are bought with 81% of the market. Wales comes next with 10% closely followed by Scotland with 8%. Northem Ireland lies last with only 1% of the market.
+  表格总数、列数、行数的描述
+    total:
+    A total of 400 students took part in this survery.
+    China's post-gratuate institutes had a total enrollment of 230,000 students in 2000.
+    World investments in health aid totalled 4 billion dollars a year.
+    Sales in the clothing segment fell, but sales in total increased considerably.
+    average:
+    Online viewers watched an average of more than three hours of online wideo during the month of August.
+    The average life expectancy for a male in Australia is 80.
+    Economic growth in the EU averaged 2.4% for the year as a whole.
+    The Press has, on average, an annual output of over 700 titles of publications including books, magazines and audiovisual products.
+  调查相关：
+    调查  survey, interview, questionaire
+    结果 result of a survey of ..., response to a questionaire about sth. opinion about sth
+    样本 sample
+    被调查的人 the people interviewed, respondent
+  引出数据的动词
+    15246 people out of the sample answered that ...
+    answer = say, feel, mention, think, consider
+    be reated
+    Drinks and meals are rated number one by 26% of the younger women.
+    be chosen
+    Entertainment is chosen by 14% of the younger people as the most important consideration when taking the flight.
+    be cited
+    Tow other factors, driving when tired and driving too close to the vehicle in front, were cited by 44% and 36% of respondents respectively.
+    approval/disapproval rating
+    The disapproval rating for mobile phones is higher among of females than among males.
+    The "..." reply
+    The "no" reply makes up just under 30% in answer to this question.
     

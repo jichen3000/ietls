@@ -838,5 +838,117 @@ confer =
 chronic <>
   acute
 
+university =
+  campus
+  college
+  academic
+  
+vocational school = 
+  training school
+  
+subjects = 
+  courses 学科
+  学科总称 curriculum
+  
+compulsory 必修 <>
+  optional
+  
+versatile = 
+  well-rouned 全面发展
+  
+boring = 
+  monotonous
 
+apart from = 
+  beside
+  in addition to
+  
+disorder =
+  disturbance
+  imbalance
+  chaos
+  panic
+  
+sound 牢固的 =
+  strong
+  potent
+  
+feeble =
+  weak
+  tender 
+  frail
+  fragile
+  delicate
+  flimsy
+  vulnerable
+
+background = 
+  setting
+  backdrop
+  context
+
+stable = 
+  constant <>
+  instable
+
+bonding = 
+  relationship 
+  link
+  
+elusive =
+  difficult
+  arduous
+  toiling
+  painstacking
+  
+prompt = 
+  improve
+  
+spread =
+  distribute
+  dispose
+  
+innate =
+  inborn (bear, born) bear offspring 产生后代
+  build-in
+  
+withdraw = 
+  consume
+  exhaust
+  waste
+  
+withstand 抵抗，支撑 =
+  resist
+  
+yield = 
+  productivity
+  
+escalate 逐步上升 =
+  boost
+  
+discriminate 区别 =
+  distinct
+  
+perpetual 永恒的 =
+  permanent
+  long-lasting
+  immortal
+
+detrimental = 
+  distructive
+  
+grove = 
+  forest
+  
+blight = 
+  plague
+  
+pump out 分泌 =
+  secrete
+  excrete
+  
+cargo =
+  goods
+  commodity
+  merchandise
 
