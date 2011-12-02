@@ -53,5 +53,166 @@
     The problems caused by use of mobile planes could totally cannot be resolved.
     The meeting that is going to be held could be delayed.
     The meeting to be held could be delayed.
+    
+评分标准：
+  Task Achievement
+    时间，字数，理解（要围绕题目）
+  Coherence & Chesion 连续性和衔接性
+    连续性，表面连接词和内存连接
+  Lexical Range 词汇多样性
+    非口语
+    非缩写
+    非单一
+    非低级
+  Grammar Range
+    标点
+    大小写
+    主谓一致
+    单复数
+    句子成分
+    时态
+    中式化
+题型结构：
+  1. 分析解决型 10% 易
+    提问：
+    what are the reasons?
+    what are the problems?
+    what are the influenes?
+    what are the solutions?
+    分析原因，主观和客观的
+  2. 辩证 90% 难
+    1. To what extent do you agree or disagree?
+    2. what is your opinion?
+    3. Discuss both and give your own opinion?
+    4. Do the advantages outweights disadvantages?
   
+    
+句法：
+  简单句
+  复合句，简单句+连词+简单句
+  从句
+  
+注意简单句的主语变化，不要总是用人为主语
+形式主语：
+  There are sth for sb.
+  
+大作文用的句式
+  1. if 条件句 （中心句部分）
+    If given a chance of attend gap year, those students will get more real experiences from travel or work.
+  2. 过去分词/现在分词放在句首， 主动和被动的区别
+    Followed by a group of students, Tom ...
+    A is the largest part, accounting for 78%.
+  3. when (前置)
+    When having a gap year, they...
+  4. In order to / In an attempt to do sth 为了
+    In an attempt to attend gap year, they...
+  5. Eventhough... 主句（证明客观全面）
+    Eventhough partting has many disadvantages, ... 
+  6. 主动、被动结合
+    If chance were given, we could ...
+  7. It is + adj + to do 形式主语
+    It is harmful to restrict their freedom of speech.
+  8. It is more likely for sb to do
+    It is more likely for me to work aboard.
+  9. 比较（对比句）
+    while on the contrary, they have never been given a change to realize their dream.
+  10. It is ... that/who 强调句
+    It is my dream that work is not a necessary thing to me.
+  11. There be 句式 + doing
+    There are many advantages in offering more speedy internet.
+  12. with/without 句式
+    With doing parttime work...
+  13. 人称主语
+  14. To do / doing 做主语
+    To travel the world is my goal, ...
+  15. 复合句 thus/ thereby doing
+    We need more spacious freedom, thereby we can
+  16. 从句
+
+    
+连词：
+  第一：
+    first, firstly, to begin with, to start with, 
+    in the first place, initially
+  第二：
+    second, secondly, to continue
+    in the second place,
+  其次：
+    what's more, furthermore,
+    moreover, in addition, besides, additionally
+  第三，最后：
+    third, lastly. Ultimately
+  因为：
+    because, because of, since,
+    as, for, as a result of(*), 
+    due to, owing to, thanks to
+    in that
+  所以：
+    thus, therefore, so文章中不用, 
+    hence, thereby, as a consequence(*)
+  虽然：
+    although, though, even though/if,
+    despite, inspite of
+  但是：
+    but, however, while,
+    neverthelesss, nonetheless, whereas
+  举例：
+    for exapmle,for instance
+    such as (接名词)
+    take ... for example/as an example
+    Take Mary for example, she dislikes herself.
+  对比：
+    oppositely, on the contrary(*),
+    by contrast, while, conversely(*)
+    
+开头段技巧：
+  50-60字， 3句话
+  1. Background information 前景信息
+    是与题目中陈述内容相关的信息，引出话题
+    不能出错，写长，写好
+    可以加入插入语：
+      Nowadays, 
+      in recent decades
+      in modern society
+      in contemporary society
+    主语从句
+      it is evident that
+      it is well accepted that
+      it is widely believed that
+    使用复句
+    单词用词组 importance = of great importance
+  2. Transitional Sentence 过渡句
+    重写题目中的观点
+    Therefore, some people reckon that
+  3. My own opinion 个人观点
+    回答题目中的问题，如果是discuss both sides, 就重写另一个观点
+    To my way of thinking
+    From my perspective
+      From my perspective, the smartphone will continue to enhance the connected home media experience.
+    As for as I am concerned
+    Personally speaking
+    
+主体段技巧：
+  150-200字， 2-3段
+  第一句为Topic sentance中心句，将全段的中心内容介绍一下
+  使用if句式，每段中使用不同的句式
+  论证手法：
+    讲道理：
+      作解释，换一种说法
+        That is to say,
+        In other words,
+        This means,
+        Which means,
+      因果
+      引用名言
+        As an old saying goes that
+    摆事实：
+      举例子Take ... as an example  take myself as an example
+      作调查 According to a recent survey
+      对比
+    
+      
+    For Chinese candidates, you need to be aware that your culture & society is basically composed of two parts: a) the traditional Chinese culture & society that was strongly influenced by Feudalism, Confucianism, Daoism and Buddhism and, b) the modern Chinese culture & society that has developed in China since 1949. In both of these areas, Chinese people are quite distinctive, compared to people from most of the West.
+
+
     

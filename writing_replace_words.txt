@@ -1,5 +1,326 @@
+常用同义词
+supply =
+  provide
+  offer
+  afford
+  furnish  furniture .n 家具
+  
+obvious = 
+  manifest
+  apparent
+  evident
+  
+resolve =
+  tackle
+  sovle
+  address
+  combat
+  figure out
+  settle
+
+destroy =
+  impair
+  undermine
+  jeopardize
+  devastate
+  
+danger .n=
+  hazard
+  jeopardy  jeapardous .adj
+  harm
+  peril
+    Many species are in peril of extinction because of our destruction of their natural habitat.
+  
+give priority to =
+  lay emphasis on
+  lay value on
+  attach importantce to
+  pay attention/heed to  heed .vt 注意 .n 留心
+  
+protect =
+  preserve
+  conserve
+  
+perform 从事
+  carry out
+  conduct
+  go about
+    The council asked the university to conduct a survay on the residents of people.
+  
+useful 好的，积极的
+  beneficial
+  advantagous
+  helpful
+  positive
+  
+harmful 坏的，消极的
+  baneful
+  detrimental
+  hazardous
+  adverse
+  negative
+  
+change =
+  alter
+  modify
+  convert
+  shift
+  switch
+  vary
+  transform
+  
+prevalent 无处不在的 prevalence .n 流行
+  prevailing  prevail .vt 流行
+  pervasive  prevade .v 遍及
+  wide
+  
+gain =
+  obtain
+  achieve
+  attain
+  acquire
+  win
+  pick up
+    Encourating a network of Islamic jihadists was the method employed to attain both goals.
+  
+insist on =
+  persist in
+  stick to
+  adhere to
+  
+make use of 利用 =
+  take the advantage of
+  make the best of
+  utilize
+  
+impact =
+  influence
+  effect
+  affection
+  implication  implicate .v 暗示
+  
+be absorbed in 沉溺于 =
+  be steeped in   steep .vt 沉浸
+  be addicted in
+  be immersed in  immerse .vt 充满
+  
+agree with/on =
+  accede to
+  approve of
+  consent to
+  subscribe to
+  side with
+    Abhisit has repeatedly said he will listen to the protests but will not accede to their demands.
+  
+oppose 反对 =
+  object to
+  be against
+  
+lack .n =
+  loss
+  shortage
+  scarcity
+  inadequacy
+  insufficiency
+  
+lead to 导致=
+  result in
+  give rise to
+  contribute to
+  cause  
+  
+important
+  significant
+  crucial
+  critical
+  vital
+  pivotal
+  key
+  main
+  major
+  essential
+  prior
+  imperative  必要的，紧急的
+  indispensable 不可或缺的 be indispensable in doing    despend v 浪费
+
+exert 产生 =
+  produce
+  generate
+  create
+    As the fighting continues, the NTC is struggling to exert its authority over the country.
+  
+cost 开销 =
+  outlay
+  expenditure
+  spending
+  expense
+  consumption
+    But for a second consecutive year it will be less than the outlay on internal security.
+    
+factor 因素 =
+  element
+  ingredient
+  contributor
+  
+pressure =
+  stress
+  strain
+  
+allow = 
+  admit
+  permit
+  acknowledge
+  accept
+  encourage
+  recognize
+  
+cultivate .vt 培养 =
+  educate
+  train
+  foster
+  nurture
+  develop
+    They have not recognized that in order for money to flow, they have to nurture the community.
+    
+be afflicted with 被 ... 困住 afflict .vt 折磨=
+  be overwhelmed with   whelm .vi 淹没
+
+task = 
+  assignment
+  mission
+  chore
+  daily grind  grind .vt 磨碎
+  
+classify = 
+  sort
+  group
+  categorize
+  
+the old =
+  the elderly
+  the entired
+  ageing population
+  the aged
+  senior citizen
+  
+responsibility =
+  duty
+  obligation
+  
+promote .v 促进 = 
+  advance
+  boost
+  enhance
+  improve
+  
+a great deal of =
+  myraids of  myraid .adj .n 无数
+  a vast number of 可数
+  a vast amount of 不可数
+  a host of
+  a multitude of
+  a planty of
+  a great vatiety of
+  
+eliminate = 
+  eradicate
+  get rid of
+  wipe out
+    This is why we have spent so much effort to eradicate or transform it.
+  
+aggravate 恶化 =
+  deteriorate
+  worsen
+  
+stop 阻止，限制 =
+  prevent
+  discourage
+  restrict
+  limit
+  prohibit
+  curb
+  interfere
+  confine
+  hinder
+    If central bankers raise interest rates to curb inflation, they risk driving up the currency further.
+
+trouble 困扰，不安 =
+  puzzle
+  anxiety
+  hardship
+  suffering
+  
+minimize 减少，减轻 =
+  diminish
+  shrink
+  lower
+  lessen
+    Such a move would not expand competition, as Sebelius claim, but rather diminish it.
+  
+method = 
+  approach
+  means
+  way
+  measure
+  move
+  step
+  
+variety 多样，不同=
+  diversity
+  difference
+  imparity  n. 不平等；不同；不配合
+  distinction
+  
+latest 及时的 = 
+  up-to-minute
+  
+make great efforts 努力 = 
+  try one's best/utmost
+  spare no efforts
+  endeavour
+    Opinion among sports seientists varies on exactly where the limit of human endeavour lies.
+  
+relieve 缓解 =
+  ease
+  alleviate
+    Mao Tse-tung used the concept of the peasant struggle with rural cadres to alleviate discontent temporarily.
+  
+dependent on = 
+  rely on
+  reckon on
+  lie on
+  count on
+
+think =
+  suggest
+  suppose
+  assume
+  believe
+  feel
+  reckon 估计，猜想
+  argue  争论
+  contend
+  concern
+  deem
+  figure
+  hold
+  claim
+  declare
+  contend
+  assert
+  state
+  consider
+    Demand may be picked up, but not necessarily from borrowers that banks deem qualified.
+    
+对...有利/不利
+  sth have advantages/disadvantages
+  sth is benefit/harmful to ...
+  sth exert positive/negative influence on ...
+  sb benefit from sth/ sth do harm to ...
+
 put notice in newsletter
   
+ 
     
 take effective measures to do sth 采取行动做...
 take effective steps to do sth 采取行动做...
@@ -63,18 +384,17 @@ despite = in spite of
 despite + n
 Despite old age, he still learns to play tenis.
 
-I think =
-  suggest
-  suppose
-  assume
-  believe
-  feel
-  reckon 估计，猜想
-  argue  争论
-  contend
-  concern
   
 in my opinion = from my perspective
+
+entrepreneur =
+  businessman
+  
+at the sametime 同时 =
+  simultaneously
+  meanwhile
+  in the meantime
+  
 
 我认为
   As for me
@@ -131,12 +451,6 @@ easy =
   could
   might
   
-引起，导致
-  cause
-  lead to
-  result in
-  give rise to
-  
 隔离
   seperate
   isolate
@@ -169,19 +483,6 @@ minority
 a vast amount of 大量 
 an array of  
 
-important
-significant
-crucial
-vital
-key
-main
-major
-essential
-prior
-imperative  必要的，紧急的
-indispensable 不可或缺的 
-be indispensable in doing
-despend v 浪费
 
 表示国家的几个词：
   country 地域意义上的
@@ -222,6 +523,8 @@ contribute to sth
   have effect on
   Impact v/n
   influence v/n
+  
+
   
 annually = every year
 anniversary 周年记念
@@ -363,6 +666,177 @@ ruin =
   devastate
 
   
+additional =
+  supplemented
+  
+shape =
+  mould
+  form
+  
+derived from =
+  gain from
+
+rate = 
+  speed
+  
+play a part =
+  play a role
+  
+burden = 
+  load
+    
+perpendiculor = 
+  vertical
+  right
+  
+invent =
+  devise (device 设备)
+  create
+  introduce
+  
+be called as =
+  be known as
+  be regarded as
+  be named as
+  be refered to
+  
+resembling =
+  like
+  
+clerk =
+  emplyee
+  
+objective 客观的=
+  unbiased
+  
+unparalleled =
+  unpeered
+  unique
+  
+dazzling =
+  colorful
+  
+sufficient =
+  abundant
+  adequate
+  affluence
+  
+indigenous 本土的 =
+  civil
+  domestic
+  native
+  local
+  municipal
+  
+enforce =
+  strengthen
+  
+item 文章 =
+  issue 论述文
+  argue 议论文
+    
+date from   追溯到；始于；起源于=
+  go back to
+  
+passive <> positive
+
+describe =
+  depict
+  delineate
+  portray
+possess =
+  occupy
+  
+extinguish =
+  die out
+  exterminate  (terminate vt. 使终止；使结束；解雇)
+  
+porspective =
+  view point
+  
+sense =
+  perceive
+aware =
+  consciouse adj
+  
+recognise 鉴别，识别=
+  appreciate
+  
+be intended to do = 
+  be likely to do
+  be inclined to do
+  be prone to sth
+  
+be linked to =
+  be related to
+  be associated to
+  be connected to
+  involved in/with
+  
+complex 复杂的 =
+  confused
+  complicated
+  elusive(elude .vt. 逃避，躲避)
+  perplexed adj. 困惑的；不知所措的
+  
+raw =
+  rudimentary  rudiment n. 雏形；基本原理
+  preliminary
+  primitive
+  undeveloped
+  degenerated
+  original
+  
+area = 
+  patch
+  field
+  domain
+  
+scan = 
+  spot
+  detect
+  
+relative 亲属 =
+  affinity
+  
+hide = 
+  conseal
+  disguise
+  cover
+  
+migration =
+  movement
+  
+attribute =
+  trait
+  property
+  quality
+  feature
+  
+approval 称赞=
+  praise
+  
+constant <>
+  variable
+  
+constant =
+  consistent
+  unswerving
+  
+crowded =
+  packed
+  jam-packed
+
+
+autonomous = independant
+
+conquer = govern
+
+confer =
+  bring
+  
+chronic <>
+  acute
 
 
 

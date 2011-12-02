@@ -175,6 +175,12 @@
     Self Access Room
     Student Common Room 休息室(tea coffee)
     Staff Room
+    
+    Refectory
+    Nursery
+    Fitness Centre
+    Keep-fit Studio
+    
   Club的场所
     Arts Studio
     Football Pitch 足球场
@@ -550,5 +556,11 @@ Listening Tracing:
   She is anything but lover. 她不是个好情人
   
   pure example = typical
+  
+drop in 
+  v. visit informally and spontaneously
+  Pacification has been generally welcomed in favelas, where residents have seen a drop in crime. 
+
+  
   
   
