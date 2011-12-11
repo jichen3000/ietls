@@ -91,7 +91,7 @@
     tutor 辅导员
     director 系主任
     dean 院长
-    宿舍：accommonadation、dormitory, residential(house, college, hall)
+    宿舍：accommodation、dormitory, residential(house, college, hall)
     Main Hall
   租房
     house agent
@@ -106,7 +106,7 @@
       twin room两张床 double room 大床 studio room 类似于单身公寓
     费用：
       laundry
-	  gas
+      gas
       water
       electric
       Internet
@@ -134,8 +134,6 @@
     cuisine 小吃
     beverage 饮料总称
     refreshment 点心
-    industrious 勤劳的
-    respectively 各自
     touch 火把
     compass 指南针
     sunblock, sun-burnt
@@ -189,7 +187,9 @@
     Fitness Room
     Reception
     Squash Courts 壁球场
-  essay
+  other
+    department store 百货商店
+    essay
 
   地名
     London Arms
@@ -319,6 +319,7 @@ preferred occurred 过去双写加ed.
   internet addiction
   wet lands
   red blouse
+  of the first
   
 近音干扰
   sour  sore
@@ -480,7 +481,7 @@ preferred occurred 过去双写加ed.
 
 评价词：
   Positive:
-    Advantages, merits, positive effects of, great/terrific, plus
+    Advantages, merits, positive effects of, great/terrific, plus point
   Negative:
     disadvatages, demerits, negative effects of, terrible/awful, minus
   Neutral:
