@@ -1,0 +1,37 @@
+Unit 1:
+  Question type:
+    a. Propose one or more solution to a problem.
+      This type of qution either contains the word 'should' or it can be rephrased with 'should'.
+      Example: How can the problem of inequality in the workplace best be addressed? == How should we solve the problem of inquality?
+    b. Evaluate one or more solution to a problem.
+      You will recognise this type of question in the same way as above.
+      Example: Many people believe that boys and girls learn better when they are educated separately. What is your view on this practice? == Should boys and girls be educated separately?
+    c. Present your ideas about a topic
+      This type of question usually requires you to make a prediction or write about causes and/or effects.
+      Example: What do you see as the main reason for gender inquality in the workplace? == What are the causes of gender inequality in the workplace?
+    d. Evaluate an idea about a topic
+      This type of question asks you to consider the truth value of a prediction, explanation or statement.
+      Example: Many people maintain that boys are naturally more aggressive than girls. To what extent do you agree with this view? == Consider the truth value of the statement that boys are naturally more aggressive than girls.
+      
+  Arguments:
+  
+  Sentences:
+    Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
+    
+  phrase:
+    tackle the problem quickly.
+    a more feasible approach
+    equivalent work
+    promote equality
+    set a good example for...
+    socially-advanced modle
+    create a bad impression
+    consider it worthwhile to...
+    fair and reasonable
+    To further encourage equality ...
+    excessive and difficult 过分的和困难的+
+  equals:
+    men and women = male and female
+    equality > equivalent > ineuality
+    create = establish
+    promote = encourage
