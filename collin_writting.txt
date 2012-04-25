@@ -1,4 +1,5 @@
-Unit 1:
+Unit 1 Gender roles
+Unit 2 Diet & nutrition
   Question type:
     a. Propose one or more solution to a problem.
       This type of qution either contains the word 'should' or it can be rephrased with 'should'.
@@ -14,10 +15,22 @@ Unit 1:
       Example: Many people maintain that boys are naturally more aggressive than girls. To what extent do you agree with this view? == Consider the truth value of the statement that boys are naturally more aggressive than girls.
       
   Arguments:
-  
+	gender equality:
+    There may indeed be good arguments for allowing certain posts to remain predominantly.
+      all-female hospital, physical strength.
+    However in the vast majority of situations, making occuptions more open to both genders has distinct advantages.
+      different perspective and approaches.
+      female police may have greater understanding of domestic violence and a better range of strategies for dealing with this problem.
+      male school teachers probably have a better understanding of the needs of young boys and can serve as good role models for them.
+    food:
+      The problem of rising levels of obesity in many parts of the world is mainly due to people's lack of knowledge about food and nutrition.
+      Because fast food is generally unhealghy, governments should regulate the fast food industry in the same way that they regulate the alcohol and tobacco industries.
   Sentences:
     Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
-    
+    However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
+	In my view, wherever possible, gender equality should be encouraged.
+	The change that result from allowing men into female-dominated occupations and vice versa may be subtle, but they are far-reaching.
+	However, to benefit the most from this development, it is important not to expect males and females to approach work in identical ways.
   phrase:
     tackle the problem quickly.
     a more feasible approach
@@ -29,10 +42,20 @@ Unit 1:
     consider it worthwhile to...
     fair and reasonable
     To further encourage equality ...
-    excessive and difficult 过分的和困难的+
+    excessive and difficult 
     as a norm
+    become increasingly prevalent
+	dietary supplement(tablets or foods taken to improve nutrition)
+	organic food(food grown without artificial fertilizers or pesticides)
+	obesity
+	genetically modified food
+	seasonal produce
+	convenience food, fast food
+	malnutrition(physical weakness resulting from lack of food or poor diet)
+	vegetarianism
   equals:
     men and women = male and female
     equality > equivalent > ineuality
     create = establish
     promote = encourage
+	in modern times
