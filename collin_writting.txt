@@ -25,12 +25,23 @@ Unit 2 Diet & nutrition
     food:
       The problem of rising levels of obesity in many parts of the world is mainly due to people's lack of knowledge about food and nutrition.
       Because fast food is generally unhealghy, governments should regulate the fast food industry in the same way that they regulate the alcohol and tobacco industries.
+      Advertisements encourage people to value slim figures.
+      People associate slimness with positive character traits.(good self-control)
+      It is healthier to be slim.(suffer from heart disease and diabetes)
+      Obesity may be due to genetic factors.
+      Obesity is due to lack of knowledge about healthy eating.
+      Moreover, traditional foods are an important aspect of culture and social life.
+      work in full-time employment.
   Sentences:
     Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
     However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
-	In my view, wherever possible, gender equality should be encouraged.
-	The change that result from allowing men into female-dominated occupations and vice versa may be subtle, but they are far-reaching.
-	However, to benefit the most from this development, it is important not to expect males and females to approach work in identical ways.
+    In my view, wherever possible, gender equality should be encouraged.
+    The change that result from allowing men into female-dominated occupations and vice versa may be subtle, but they are far-reaching.
+    However, to benefit the most from this development, it is important not to expect males and females to approach work in identical ways.
+    The increasing availability of convenience foods has been a significant feature of modern life in many developed countries.
+    In spite of the utility of convenience foods, people are unlikely to abandon practices that are economically sound and give them great pleasure.
+    It is hard to imagine a world in which people do not continue to enjoy traditional, home-cooked meals at least some of the time.
+    Although some people idealise traditional cooking practices and believe they will prevail indefinitely, demographic trends suggest that this is unlikely to be the case.
   phrase:
     tackle the problem quickly.
     a more feasible approach
@@ -45,14 +56,16 @@ Unit 2 Diet & nutrition
     excessive and difficult 
     as a norm
     become increasingly prevalent
-	dietary supplement(tablets or foods taken to improve nutrition)
-	organic food(food grown without artificial fertilizers or pesticides)
-	obesity
-	genetically modified food
-	seasonal produce
-	convenience food, fast food
-	malnutrition(physical weakness resulting from lack of food or poor diet)
-	vegetarianism
+    dietary supplement(tablets or foods taken to improve nutrition)
+    organic food(food grown without artificial fertilizers or pesticides)
+    obesity
+    genetically modified food
+    seasonal produce
+    convenience food, fast food
+    malnutrition(physical weakness resulting from lack of food or poor diet)
+    vegetarianism
+    predicte
+    sophisticated ready-prepared microwavable meals
   equals:
     men and women = male and female
     equality > equivalent > ineuality
