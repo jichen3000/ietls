@@ -25,7 +25,7 @@ Arguments:
     male school teachers probably have a better understanding of the needs of young boys and can serve as good role models for them.
   food:
     The problem of rising levels of obesity in many parts of the world is mainly due to people's lack of knowledge about food and nutrition.
-    Because fast food is generally unhealghy, governments should regulate the fast food industry in the same way that they regulate the alcohol and tobacco industries.
+    Because fast food is generally unhealthy, governments should regulate the fast food industry in the same way that they regulate the alcohol and tobacco industries.
     Advertisements encourage people to value slim figures.
     People associate slimness with positive character traits.(good self-control)
     It is healthier to be slim.(suffer from heart disease and diabetes)
@@ -67,7 +67,7 @@ Phrase:
   convenience food, fast food
   malnutrition(physical weakness resulting from lack of food or poor diet)
   vegetarianism
-  predicte
+  predict
   sophisticated ready-prepared microwavable meals
   
   
