@@ -1,5 +1,7 @@
 Unit 1 Gender roles
 Unit 2 Diet & nutrition
+Unit 3 Educational goals
+Unit 4 Biodiversity
 
 Question type:
   a. Propose one or more solution to a problem.
@@ -14,7 +16,9 @@ Question type:
   d. Evaluate an idea about a topic
     This type of question asks you to consider the truth value of a prediction, explanation or statement.
     Example: Many people maintain that boys are naturally more aggressive than girls. To what extent do you agree with this view? == Consider the truth value of the statement that boys are naturally more aggressive than girls.
-    
+Outline skill:
+  give the body paragraph topic
+
 Arguments:
   gender equality:
     There may indeed be good arguments for allowing certain posts to remain predominantly.
@@ -33,7 +37,22 @@ Arguments:
     Obesity is due to lack of knowledge about healthy eating.
     Moreover, traditional foods are an important aspect of culture and social life.
     work in full-time employment.
-    
+  education:
+    work on group project
+      motivating for students
+      make more friends
+      more easy assesst
+      teach wouldn't be good at this
+    People who do well in exams often do well in other types of tasks.
+      rote learning
+    Some people express themselves much better verbally than in writing.
+    People often perform poorly in examination because they are anxious, not because they lack intelligence.
+      or are sucessful in fields that clearly require intelligence
+    cram schools 
+      do well in the exam.
+    vary the format of exams and match them of what is taught in schools.
+      If student pay attention in school, there is no need for additional cramming.
+      
 Sentences:
   Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
   However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
@@ -44,7 +63,19 @@ Sentences:
   In spite of the utility of convenience foods, people are unlikely to abandon practices that are economically sound and give them great pleasure.
   It is hard to imagine a world in which people do not continue to enjoy traditional, home-cooked meals at least some of the time.
   Although some people idealise traditional cooking practices and believe they will prevail indefinitely, demographic trends suggest that this is unlikely to be the case.
-
+  If you need to memorise large amounts of information, rote learning is probably a good method to use.
+  If you need to evaluate information, you need critical thinking skills.
+  In many countries, students sit formal examinations in order to graduate.
+  Access to higher education is often determined by performance in university entrance examinations.
+  In some countries, progress is measured by continuous assessment instead of by end-of-term examinations.
+  A number of measures should be taken to address these concerns.
+  Intensive farming in wheat growing countries like Canada has led to the loss of natural grasslands.
+  Acid rain causes damage to forests as well as limestone monuments. 石灰岩遗迹
+  Indiscriminate 任意的 logging of tropical hardwoods has contributed to the destrucation of rainforests.
+  Overgrazing of grasslands by cattle and sheep is associated with soil erosion and desertification.
+  Off-shore(on-site) oil spills frequently result in damage to mangrove swamps and the unique species that live there.
+  The thinning of arctic icecap has been attributed to global warming.
+  Strip mining for minerals near river banks is linked to soil erosion and degradation of estuaries.
 Phrase:
   tackle the problem quickly.
   a more feasible approach
@@ -69,11 +100,22 @@ Phrase:
   vegetarianism
   predict
   sophisticated ready-prepared microwavable meals
-  
-  
+  Art and Design
+  throughout the world
+  measure learning in the decucation system.
+  clearly certain advantages
+  at virtually every stage of ...
+  test-wise
+  underlying knowledge
+  ensure proper, objective assessment of achievement.
+  truely useful componect of ... system
+  estuary河口 mangrove swamp（沼泽） 红树林  grasslands
 Equals:
   men and women = male and female
   equality > equivalent > ineuality
   create = establish
   promote = encourage
   in modern times
+  versatile = greate diversity or variety
+  lead to, cause to, contribute to, be linked to, be associated with, A->B
+  B->A, 

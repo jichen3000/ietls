@@ -68,6 +68,17 @@ change =
   switch
   vary
   transform
+  adjust
+  
+copy =
+  clone
+  duplicate
+  
+finally = 
+  eventualy
+  
+feature = 
+  characteristic
   
 prevalent 无处不在的 prevalence .n 流行
   prevailing  prevail .vt 流行
