@@ -52,7 +52,9 @@ Arguments:
       do well in the exam.
     vary the format of exams and match them of what is taught in schools.
       If student pay attention in school, there is no need for additional cramming.
-      
+  enviroment:
+    Governments could promote greater understanding of plants and animals by investing in the research and preservation efforts of universities, zoos, and botanical institutes.
+    An alternative strategy would be to protect natural habitats by expanding nature reserves.
 Sentences:
   Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
   However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
@@ -76,6 +78,11 @@ Sentences:
   Off-shore(on-site) oil spills frequently result in damage to mangrove swamps and the unique species that live there.
   The thinning of arctic icecap has been attributed to global warming.
   Strip mining for minerals near river banks is linked to soil erosion and degradation of estuaries.
+  Governments should limit the burning of fossile fuels, which causes acid rain.
+  Looked at from a broad historical perspective, it is true that humans and animals have conflicting interests.
+  Therefor, the burden of protecting plant and animal species should be distributed fairly.
+  However, there is much that governments can and should do to protect the world's plants and animals.
+  As increasing numbers of unique, and potentially useful, plants and animals come under threat, people are beginning to ask whether more can be done to reverse this trend.
 Phrase:
   tackle the problem quickly.
   a more feasible approach
@@ -110,6 +117,10 @@ Phrase:
   ensure proper, objective assessment of achievement.
   truely useful componect of ... system
   estuary河口 mangrove swamp（沼泽） 红树林  grasslands
+  the conflict between humans and animals is particularly problematic
+  ever-inceasing不断增长的
+  reverse the destruction that threatens the world's animals.
+  biological diversity, biodiversity
 Equals:
   men and women = male and female
   equality > equivalent > ineuality
@@ -117,5 +128,7 @@ Equals:
   promote = encourage
   in modern times
   versatile = greate diversity or variety
-  lead to, cause to, contribute to, be linked to, be associated with, A->B
-  B->A, 
+  A->B, lead to, cause to, contribute to, be linked to, be associated with, 
+  B->A, stem from, be attributed to
+  because, consquently 结果是, as a consequence,
+  in relation to, in regard to, regarding to, concerning, 
