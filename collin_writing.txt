@@ -73,7 +73,7 @@ Sentences:
   A number of measures should be taken to address these concerns.
   Intensive farming in wheat growing countries like Canada has led to the loss of natural grasslands.
   Acid rain causes damage to forests as well as limestone monuments. 石灰岩遗迹
-  Indiscriminate 任意的 logging of tropical hardwoods has contributed to the destrucation of rainforests.
+  =Indiscriminate 任意的 logging of tropical hardwoods has contributed to the destrucation of rainforests.
   Overgrazing of grasslands by cattle and sheep is associated with soil erosion and desertification.
   Off-shore(on-site) oil spills frequently result in damage to mangrove swamps and the unique species that live there.
   The thinning of arctic icecap has been attributed to global warming.
