@@ -1,6 +1,8 @@
 Unit 1 People & relationships
 Unit 2 A healthy body
 Unit 3 Studies & work
+Unit 4 The worlds around us
+Unit 5 Communication
 
 Topic 
   Describe an exciting competition or sporting event you have witnessed.
@@ -21,17 +23,57 @@ Pronunciation:
     Rule B: There are words that can be either a noun or a verb. If they are spelt the same and have two syllables, the noun ( and adjective) is usually stressed on the first syllable, whereas the verb on the second syllable.
     Rule C: Words that end in -sion and -tion have the stress on the penultimate(倒数第二next to last)syllable.
     
-Grammar: Speculating
-  The questions above ask about an unreal situation. To talk about an unreal situation, you can use 'would + infinitive'.
-  Example: My dream job would be to teach children to sail.
-  Some useful words:
-   maybe, perhaps
-   It is fairly/quite/very/extremely likely/unlikely (that) ... It is fairly likely I would need more qualifications.
-   I'd hazard a guess that ...: I'm not sure, but I'd hazard a guess that it's not as well paid as being an accountant.
-   It is quite possible that ...
-   I imagine/suspect that...: I suspect that I wouldn't find it very satisfying role.
-   Mush + infinitive:
-   can't + infinitive: It can't be very rewarding.
+Grammar: 
+  Speculating
+    The questions above ask about an unreal situation. To talk about an unreal situation, you can use 'would + infinitive'.
+    Example: My dream job would be to teach children to sail.
+    Some useful words:
+     maybe, perhaps
+     It is fairly/quite/very/extremely likely/unlikely (that) ... It is fairly likely I would need more qualifications.
+     I'd hazard a guess that ...: I'm not sure, but I'd hazard a guess that it's not as well paid as being an accountant.
+     It is quite possible that ...
+     I imagine/suspect that...: I suspect that I wouldn't find it very satisfying role.
+     Mush + infinitive:
+     can't + infinitive: It can't be very rewarding.
+  Cleft sentence:
+    Torrential rain is the main cause of flooding. = 
+    It is torrential rain that is the main cause of flooding.
+    We like to spend our summers by the lake. =
+    What we like is to spend our summers by the lake.
+  Subordinate clause:
+    Although
+    Whereas
+    since
+  Making comparisions
+    We can use words like much and a bit in comparative sentences to modify the adjective.
+      much, significantly, far = a lot: Texting is much quicker than writing a letter.
+      a bit, slightly, marginally = a little
+    We can also use certain words in superlative sentences to modify the adjective.
+      by fra = by a great amount: American films are by far the most popular films in my country.
+      easily = without question: Toni is easily the best student in our class.
+    the + comparative (+ subject + verb), the + comparative (+ subject + verb)
+      The more languages you speak, the easier it is to learn a new one.
+      The sooner, the better.
+    nearly as ... as
+      My mum's English is nearly as good as mine.
+    not as ... as
+      Hngarian is not as widely spoken as English.
+      
+Expressing attitude
+  admittedly 公认的
+  as luck would have it
+  ideally
+  all things considered
+  even more importantly
+  undoubtedly, apparently, interestingly, obviously, undeniably
+  arguably, inevitably, precisely
+  unfortunately, sadly
+  of course, predictably
+  strangely, (un)surpringsly,
+  thank goodness, thankfully,
+  Due to the emergence of China as a leading economic poer, Mandrin will undoubtedly become the foreign language of choice in future years. I am sure of it.
+  My friend wants to improve her speaking and, as luck would have it, our school has just set up an English conversation club.
+  At OTA, predictably, there's not a lot of respect for Mack's point of view.
 
 Practise skill:
   record your answer.
@@ -45,6 +87,7 @@ Paragraph:
   My family is everything to me. They are my best friends, they support me when things aren't going well and when things are going well. I know they'll always be there for me, no matter what.
   I'm self-employed. I give art classes , mainly to retired people. I many not earn a great deal but I get an immense amount of job satisfication, because I see people who have barely held a brush before gain in confidence and learn new skills. I don't think I could cope with having an office job - the monotony would drive me mad. People in offices seem to work long hours, and there's always the risk of being made redundant or getting sacked. Nobody can fire me because I'm my own boss.
   I'm a water engineer. In my current job, I'm responsible for designing flood defence systems and monitoring flood levels. I must admit that I'm a bit of a workaholic. I'm constantly doing overtime - unpaid, I should add - and so I generally get home late. I would definitely say I live to work, not work to live. Years ago, I did a lot of volunteer work, advising people in developing countries on installing  water supplies. However, since I 've now settle down and am the main breadwinner, I feel I have to earn a decent wage. My wife works part-time but she only went back to work last month. Before that, she was a stay-at-home mum. I think she enjoyed looking after the kids but she's always been quite career-minded so she didn't want to stay a housewife forever.
+  The integration of the world's economies and cultures is commonly known as globalisation. Although there is nothing new about countries working closely together, globalisation is now happening at a remarkable pace. This is largely due to technological advances. Television channels such as the BBC are available throughout the world, and many clothing and food brands are recognisable to people of almost any nationality. In addition, the Internet creates a common global culture, one which is predominantly English speaking.
 Sentence:
   I consider myself to be...
   I would say I was...
@@ -64,7 +107,18 @@ Sentence:
   Children will love the sense of achievement sport can give you.
   Even if you don't smoke yourself, passive smoking can harm your health.
   People ought to be encouraged to lead healthy lives.
-  
+  During the rainy season, there is really high humidity so it gets awfully(notoriously) hot and sticky, and we often get torrential rain, which can cause severe flooding.
+  It tends to be(is usually) boiling hot, and most tourists find the heat unbearable.
+  In the winter, it gets bitterly cold. We get bitting winds.
+  I'm soaked to the skin. I'm drenched. I wish I had my waterproofs on.
+  I feel so dehydrated. I wish I cold find some shade.
+  My teeth are chattering. I wish I was wearing more layers. I'm frozen to the bone.
+  The temperature often gets(reaches) above 40C.
+  In the spring, we sometimes get qutie mild weather.
+  American films tend to be subtitled, not be dubbed instead.
+  Every language has a lot of loanwords.
+  That's a tough question. good question
+  It's very difficult to know for sure, but I think/perhaps/it's possible
 Phrase:
   upset us
   terribly blunt
@@ -106,4 +160,7 @@ Phrase:
   ample opportunity
   I would dread every lession.
   geometry, algebra
+  boycott products
+  keep in touch, lose touch, get back in touch: I asked John for Mel's new number because I wanted get back in touch with her.
+  
 Equals:
