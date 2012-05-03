@@ -2,6 +2,7 @@ Unit 1 Gender roles
 Unit 2 Diet & nutrition
 Unit 3 Educational goals
 Unit 4 Biodiversity
+Unit 5 Global English
 
 Question type:
   a. Propose one or more solution to a problem.
@@ -18,6 +19,14 @@ Question type:
     Example: Many people maintain that boys are naturally more aggressive than girls. To what extent do you agree with this view? == Consider the truth value of the statement that boys are naturally more aggressive than girls.
 Outline skill:
   give the body paragraph topic
+
+Introductions:
+  a. write something about the general context: In recent years...
+  b. explain why the topic is interesting, relevant or important: X is interesting/ relevant/ important because ...
+  c. present a viewpoint that they go on to challenge: Some people believe that...
+  d. present their own viewpoint: In my view...
+  e. state the purpose of the essay: The aim of this essay is to...
+  Example: There is no doubt that English is becoming increasingly important as a language of international communication in the fields of science, trade, entertainment, and international relations. Not surprisingly, English words have appeared in many other languages throughout the world from Japanese to French. This has prompted some people to seek to defend their languages from this type of change. I would argue however, that these efforts are likely to prove futile.
 
 Arguments:
   gender equality:
@@ -55,6 +64,9 @@ Arguments:
   enviroment:
     Governments could promote greater understanding of plants and animals by investing in the research and preservation efforts of universities, zoos, and botanical institutes.
     An alternative strategy would be to protect natural habitats by expanding nature reserves.
+  language:
+    Retaining the language of a community often means that other forms of culture are maintained: songs, literature and local traditions. These all contribute to the richness and variety of human culture.
+    Moreover, language helps communities to remain cohesive and to have a strong sense of identity.
 Sentences:
   Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
   However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
@@ -83,6 +95,11 @@ Sentences:
   Therefor, the burden of protecting plant and animal species should be distributed fairly.
   However, there is much that governments can and should do to protect the world's plants and animals.
   As increasing numbers of unique, and potentially useful, plants and animals come under threat, people are beginning to ask whether more can be done to reverse this trend.
+  It is very likely that the spread of English as a lingua franca is connected in some way with the process of globalisation.
+  This essay will examine what I belive to be the most important factors in communication breakdown.
+  As the world becomes more integrated, the need for common means of communication is becoming more pressing.
+  Someone have been under pressure to speak the ...
+  It is true that the balance of power among groups of people throughout history has shifted, languages have arisen, changed, and died out.
 Phrase:
   tackle the problem quickly.
   a more feasible approach
@@ -121,6 +138,14 @@ Phrase:
   ever-inceasing不断增长的
   reverse the destruction that threatens the world's animals.
   biological diversity, biodiversity
+  mother tongue
+  lingua franca(Now English is widely regarded as a lingua franca.)
+  minority languages, non-native
+  an obsolete term
+  in day-to-day activities
+  Around the world
+  probably outnumbered
+  I will outline ...
 Equals:
   men and women = male and female
   equality > equivalent > ineuality
@@ -132,3 +157,8 @@ Equals:
   B->A, stem from, be attributed to
   because, consquently 结果是, as a consequence,
   in relation to, in regard to, regarding to, concerning, 
+  to express beliefs: believe, maintain, suspect, think
+  in discussion: argue, assert, claim, insist, say
+  to show agreement: accept, acknowledge, admit, advocate, agree, concede, support
+  to show disagreement: chanllenge, deny, disagree, dismiss, doubt, object, quetsion, refute
+  to give suggestions: imply, suggest, urge
