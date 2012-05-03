@@ -3,6 +3,7 @@ Unit 2 Diet & nutrition
 Unit 3 Educational goals
 Unit 4 Biodiversity
 Unit 5 Global English
+Unit 6 The Internet
 
 Question type:
   a. Propose one or more solution to a problem.
@@ -19,7 +20,9 @@ Question type:
     Example: Many people maintain that boys are naturally more aggressive than girls. To what extent do you agree with this view? == Consider the truth value of the statement that boys are naturally more aggressive than girls.
 Outline skill:
   give the body paragraph topic
-
+  add 'signposting' expressions to emphasise important points
+  if necessary, add modifiers or use 'softer' vocabulary to make statements less sweeping(绝对的).
+  
 Introductions:
   a. write something about the general context: In recent years...
   b. explain why the topic is interesting, relevant or important: X is interesting/ relevant/ important because ...
@@ -28,6 +31,29 @@ Introductions:
   e. state the purpose of the essay: The aim of this essay is to...
   Example: There is no doubt that English is becoming increasingly important as a language of international communication in the fields of science, trade, entertainment, and international relations. Not surprisingly, English words have appeared in many other languages throughout the world from Japanese to French. This has prompted some people to seek to defend their languages from this type of change. I would argue however, that these efforts are likely to prove futile.
 
+Softer vocabulary:
+  Quantifiers数量词:
+    some, many, most
+  Verbs:
+    appear to
+    seem to
+    tend to
+  Frequency adverbs:
+    sometimes
+    often
+    rarely
+  Expresions:
+    It is said that...
+    It is possible ...
+    In some circumstances...
+  Modal verbs:
+    can
+    could
+    may
+  Probability adverbs:
+    possibly
+    probably
+    perhaps
 Arguments:
   gender equality:
     There may indeed be good arguments for allowing certain posts to remain predominantly.
@@ -67,6 +93,20 @@ Arguments:
   language:
     Retaining the language of a community often means that other forms of culture are maintained: songs, literature and local traditions. These all contribute to the richness and variety of human culture.
     Moreover, language helps communities to remain cohesive and to have a strong sense of identity.
+  Internet:
+    losing social skills & real friends. excessive Internet use leads to
+    addicted to online gaming, diminish family life
+    disconcentrate
+    ues net to keep in touch with friends when you stuck at some place.
+    meet friends of friends
+    more convenient
+    In some countries, fewer than 50% population able to read
+    Use of blocking software & firewalls common
+    Electricity supply irregular
+    Government censorship of internet widespread
+    Even where IT access available, governments fearful of well-informed public
+    Basic infrastructure inadequate
+    buying and selling products online has become commonplace.
 Sentences:
   Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
   However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
@@ -100,6 +140,8 @@ Sentences:
   As the world becomes more integrated, the need for common means of communication is becoming more pressing.
   Someone have been under pressure to speak the ...
   It is true that the balance of power among groups of people throughout history has shifted, languages have arisen, changed, and died out.
+  Enthusiasts claim that ...
+  
 Phrase:
   tackle the problem quickly.
   a more feasible approach
@@ -146,6 +188,9 @@ Phrase:
   Around the world
   probably outnumbered
   I will outline ...
+  distinctive pattern
+  cumbersome(笨重的)
+  
 Equals:
   men and women = male and female
   equality > equivalent > ineuality
@@ -162,3 +207,6 @@ Equals:
   to show agreement: accept, acknowledge, admit, advocate, agree, concede, support
   to show disagreement: chanllenge, deny, disagree, dismiss, doubt, object, quetsion, refute
   to give suggestions: imply, suggest, urge
+  enable = make possible: The advent enable users to stay in touch with friends and familly virtually twenty-four hours a day.
+  accelerate = speed up
+  device = tool
