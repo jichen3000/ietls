@@ -4,6 +4,7 @@ Unit 3 Educational goals
 Unit 4 Biodiversity
 Unit 5 Global English
 Unit 6 The Internet
+Unit 7 Consumer spending
 
 Question type:
   a. Propose one or more solution to a problem.
@@ -30,6 +31,12 @@ Introductions:
   d. present their own viewpoint: In my view...
   e. state the purpose of the essay: The aim of this essay is to...
   Example: There is no doubt that English is becoming increasingly important as a language of international communication in the fields of science, trade, entertainment, and international relations. Not surprisingly, English words have appeared in many other languages throughout the world from Japanese to French. This has prompted some people to seek to defend their languages from this type of change. I would argue however, that these efforts are likely to prove futile.
+  
+Body paragraph:
+  how to develope it:
+    a. What main point do I want to make?
+    b. Have I seen, heard, or experienced something that makes me want to say this? How can I express this as an example to illustrate my main point?
+    c. If someone were to disagree with me, what could I say to persuade them that my point is valid? What evidence can I give to support my main point?
 
 Softer vocabulary:
   Quantifiers数量词:
@@ -107,6 +114,12 @@ Arguments:
     Even where IT access available, governments fearful of well-informed public
     Basic infrastructure inadequate
     buying and selling products online has become commonplace.
+  Consuming:
+    learn from parents
+      From their early years, children can observe how their parents make financial decisions.
+      Children can alos see what kinds of criteria parents use when choosing what to buy.
+    feel empty and unhappy, relieve the stress. enhance mood
+    display their status or wealth, high-value brands
 Sentences:
   Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
   However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
@@ -141,6 +154,9 @@ Sentences:
   Someone have been under pressure to speak the ...
   It is true that the balance of power among groups of people throughout history has shifted, languages have arisen, changed, and died out.
   Enthusiasts claim that ...
+  It is likely that ...
+  There is a natural tendency to ...
+  The ability to manage money is often taken for granted. Because the consequences of poor money management can be severe, it is worthwhile taking steps to ensure people are as well-informed as possible.
   
 Phrase:
   tackle the problem quickly.
@@ -190,6 +206,18 @@ Phrase:
   I will outline ...
   distinctive pattern
   cumbersome(笨重的)
+  Consumer spending: transportation, food and drink, housing, dining out, utilities, clothing and footwear, entertainment, home furnishings.
+  disposable income, personal debt, goods and services, consumer confidence, househould expendition
+  When people feel more secure in their jobs, consumer confidence grows and people begin to spend money more freely.
+  one's necessities
+  take action
+  sensible purchasing behaviour
+  in many circumstances
+  An example of this is ...
+  a celebrity endorse a particulaar brand
+  prominently
+  buy a more up-to-date model
+  
   
 Equals:
   men and women = male and female
@@ -210,3 +238,6 @@ Equals:
   enable = make possible: The advent enable users to stay in touch with friends and familly virtually twenty-four hours a day.
   accelerate = speed up
   device = tool
+  influence = impact = affect = work on
+  in fact = indeed
+  a great deal of = the large sums of = varioty of
