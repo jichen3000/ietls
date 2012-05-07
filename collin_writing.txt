@@ -6,6 +6,8 @@ Unit 5 Global English
 Unit 6 The Internet
 Unit 7 Consumer spending
 Unit 8 Children and parents
+Unit 9 An ageing population
+Unit 10 Fame
 
 Question type:
   a. Propose one or more solution to a problem.
@@ -68,6 +70,17 @@ Softer vocabulary:
     possibly
     probably
     perhaps
+    
+attitude adverbs:
+  fortunately
+  interestinglly
+  surprisingly
+  importantly
+  obviously
+  unfortunately
+  inevitably
+  Less, more, not, somewhat(=a bit) can modify them.
+  
 Arguments:
   gender equality:
     There may indeed be good arguments for allowing certain posts to remain predominantly.
@@ -132,6 +145,20 @@ Arguments:
     Learning to manage risk is clearly very important.
     consider long-term interests
     a degree of autonomy
+  Ageing:
+    As the population ages, many fear that caring for the elderly will be too great a burden for the younger generation.
+    increasing public health costs
+    increasing incidence of chronic illneses
+    growing pressure on care givers
+    dwindling pension funds 减少
+    cause: lower fertility rate, decresing mortality from infectious diseases
+    as mentors for younger employee
+    as the link with history
+  Celebrity:
+    scandals
+    The negative influence of celebrities on children can also be seen in children't career aspirations.
+    
+    
 Sentences:
   Some would argue that this situation will correct itself over time. However, in my view, there is much that can be done to address the problem constructively.
   However, the trend in modern times has been for both men and women to have great freedom of choice in terms of employment.
@@ -175,6 +202,9 @@ Sentences:
   children is likely to vary from family to family.
   Some physical environments clearly pose more dangers than others.
   Some cultures, in Asia, for example, value social cohesion, whereas others, such as the US, tend towards individualism.
+  The quality of life among old people has, therefor, become a focus of attention.
+  People today can expert to live a longer and healthier life than people in the past.
+  When starting a new project, it is common to be full of hopes and aspirations.
   
 Phrase:
   tackle the problem quickly.
@@ -249,6 +279,31 @@ Phrase:
   bear some of this responsibility
   deteriorating standards
   petty crime
+  overpopulation = population ageing , density of population in relation to available resources
+  level off 趋平
+  accelerate = speed up, it will accelerate over the next thirty years.
+  demographic data 人口统计学的数据
+  census
+  news censorship
+  longevity
+  nursing home
+  care-giver: a person who looks after the elderly or sick.
+  mortality 死亡数，死亡率
+  family planning
+  compulsory private persion plans
+  be insufficient to guarantee a good retirement for all
+  frail section
+  alleviate the suffering
+  in most societies
+  feel a sense of love and belonging
+  mandatory retirement age
+  be valuable to 
+  reach retirement age
+  dilemma
+  be confined to
+  misuse of drugs and alcohol
+  
+  
   
 Equals:
   men and women = male and female
@@ -259,6 +314,7 @@ Equals:
   versatile = greate diversity or variety
   A->B, lead to, cause to, contribute to, be linked to, be associated with, 
   B->A, stem from, be attributed to
+  A benefit from B = B be conductive to A
   because, consquently 结果是, as a consequence,
   in relation to, in regard to, regarding to, concerning, 
   to express beliefs: believe, maintain, suspect, think
@@ -275,4 +331,15 @@ Equals:
   be entitled to = be empowered to = be allowed to = be authorized to = be permitted to
   have a duty to = be obliged to = be committed to = be required to = be held accountable to = have an obligation to
   be forced to = be compelled to
+  older people, the elderly, the retired, senior citizen, the old generation
+  younger member of the family, the younger generation, younger relatives
+  change = shift = development
+  disadvantages = weak points = shortcoming = drawback
+  measure = approach = mean = strategy
+  well-known < famous < legendary
+  imperfect < bad < worthless
+  like < admire < idolise
+  recognition < praise < acclaim
+  imitate = emulate
+  situation = context = circumstance
  
