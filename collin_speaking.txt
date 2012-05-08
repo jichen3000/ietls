@@ -7,6 +7,7 @@ Unit 6 Technology
 Unit 7 Hobbies
 Unit 8 Youth
 Unit 9 Home
+Unit 10 Culture
 
 Topic 
   Describe an exciting competition or sporting event you have witnessed.
@@ -42,6 +43,20 @@ Pronunciation:
       conjunctions (and, but, so)
       auxiliary verbs(can, should, must)
       verb be (is, am, was)
+  The schwa /倒e/
+    The schwa is the most common sound in English. It cannot appear in a streesed syllable.
+  -ed
+    it is pronounced /id/ when the verb ends in a /d/ or a /t/ sound.
+  Linking:
+    1. Consonant + vowel
+      in+England
+    2. Vowel + vowel
+      a. the first vowel is /ei/,/ai/,/oi/,/i:/(all is ended by /i/) + /j/
+        the+end, I+ate        
+      b. the first vowel is /au/,/倒eu/, /u:/(all is ended by /u/) + /w/
+        too+often, so+amazing
+      c. first vowel is /i倒e/,/e倒e/,/u倒e/,/o:/,/a:/,/倒e/+/r/
+        far+away, I saw+it
     
 Grammar: 
   Speculating
@@ -90,10 +105,15 @@ Grammar:
     2. The present perfect continuous is also used to emphasise how long something has been going on.
       I've been playing badminton for twenty years. He's only been playing for three months.
       Note: know, believe, see, want do not generally have a continuous form.
-  The schwa /倒e/
-    The schwa is the most common sound in English. It cannot appear in a streesed syllable.
-  -ed
-    it is pronounced /id/ when the verb ends in a /d/ or a /t/ sound.
+  Future tense:
+    1. be going+to. In many cases, both the present continuous and be going to can be used. Be going to emphasises a previous decision or intention.
+      I'm going to take a long lunch break today.
+    2. will(won't) + infinitive is used with predictions based on opinions or our experience, with hopes and with assumptions.
+      He'll call you when he gets there. Don't worry.
+    3. The future prefect - will have + past participles - is used to say something will have happened or will have been completed by a certain point in the futre (note that by here means not later than). The weak forms of will have are /wil h倒ev/ or /wil 倒ev/
+      I think that by 2050 people will have forgoten about the origins of Christmas.
+      
+
 Expressing attitude
   admittedly 公认的
   as luck would have it
@@ -166,6 +186,7 @@ Sentence:
   I love all the hustle and bustle.
   Where  my auntie lives in idyllic and the pace of life is very slow.
   There is a real shortage of affordable housing in my city.
+  It marks the anniversary of the day that we gained our independence.
   
 Phrase:
   upset us
@@ -266,5 +287,19 @@ Phrase:
   neighbourhood
   roadworthy
   foolproof
+  get the day off
+  national anthem
+  till the small hours of the morning.
+  in a great mood.
+  remains of stone age
+  carbon dating
+  draw over 800,000 visitors every year.
+  historical significance
+  altered or demolished without permission
+  natural and cultural heritage
+  world heritage sites
+  receive funding
+  
+  
   
 Equals:
