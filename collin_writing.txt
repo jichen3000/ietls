@@ -8,6 +8,7 @@ Unit 7 Consumer spending
 Unit 8 Children and parents
 Unit 9 An ageing population
 Unit 10 Fame
+Unit 11 The car
 
 Question type:
   a. Propose one or more solution to a problem.
@@ -150,8 +151,8 @@ Arguments:
     increasing public health costs
     increasing incidence of chronic illneses
     growing pressure on care givers
-    dwindling pension funds 减少
-    cause: lower fertility rate, decresing mortality from infectious diseases
+    dwindling pension funds 减少 dwindling
+    cause: lower fertility rate, decreasing mortality from infectious diseases
     as mentors for younger employee
     as the link with history
   Celebrity:
@@ -205,6 +206,12 @@ Sentences:
   The quality of life among old people has, therefor, become a focus of attention.
   People today can expert to live a longer and healthier life than people in the past.
   When starting a new project, it is common to be full of hopes and aspirations.
+  Faulty traffic lights and inadequate road crossings put the lives of pedestrians in danger.
+  In spite of government's expansion of the road network, drivers are still likely to experience traffic queues during peak travel periods.
+  Electric cars are bettery-powered vehicles propelled by electric motors.
+  The evidence shows that wearing a seatbell significantly reduces road accident fatalities.
+  Because cities have become more sprawling, people have sought out the greater privacy and space afforded by suburban living.
+  However, rhetoric alone is unlikely to bring about change. Investments in practical alternatives is what is needed above all.
   
 Phrase:
   tackle the problem quickly.
@@ -302,7 +309,23 @@ Phrase:
   dilemma
   be confined to
   misuse of drugs and alcohol
-  
+  cycle route
+  speed camera
+  under surveillance
+  continually upgrade and repair
+  road works
+  commuter rail network
+  internal combustion engine
+  CO2 emissions
+  a coherent explaination
+  make allowance for cyclists on busy roads
+  functionality, price and apperance
+  cause respiratory problems
+  car-free environment
+  enjoy some of the benefits
+  undersirable consequences
+  as a desirable option
+  public transport options are plentiful, convenient and reliable.
   
   
 Equals:
