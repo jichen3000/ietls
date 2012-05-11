@@ -75,7 +75,7 @@ copy =
   duplicate
   
 finally = 
-  eventualy
+  eventually
   
 feature = 
   characteristic

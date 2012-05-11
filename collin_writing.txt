@@ -365,4 +365,4 @@ Equals:
   recognition < praise < acclaim
   imitate = emulate
   situation = context = circumstance
- 
+  environmental disruption
