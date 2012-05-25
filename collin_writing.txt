@@ -203,7 +203,7 @@ Sentences:
   children is likely to vary from family to family.
   Some physical environments clearly pose more dangers than others.
   Some cultures, in Asia, for example, value social cohesion, whereas others, such as the US, tend towards individualism.
-  The quality of life among old people has, therefor, become a focus of attention.
+  The quality of life among old people has, therefore, become a focus of attention.
   People today can expert to live a longer and healthier life than people in the past.
   When starting a new project, it is common to be full of hopes and aspirations.
   Faulty traffic lights and inadequate road crossings put the lives of pedestrians in danger.
@@ -326,6 +326,9 @@ Phrase:
   undersirable consequences
   as a desirable option
   public transport options are plentiful, convenient and reliable.
+  trade fair 交易会
+  industry, business 行业
+  disposable income 可支配收入
   
   
 Equals:
