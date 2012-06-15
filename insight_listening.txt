@@ -257,12 +257,8 @@ hut = cabin = cottage
 deckchair, a folding chair of wood and canvas.
 follow all the notices and rules
 
-studentbook unit 4 end.
-
-workbook unit 4 start
-
 Harnessing the Sun's energy
 Energy from the sun travels to the earth in the form of radiation.
 copper pipes
 
-workbook unit 4 end.
+studentbook unit 4 end.
