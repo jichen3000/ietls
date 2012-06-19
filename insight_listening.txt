@@ -2,7 +2,7 @@ journey=
   trip
   tour
   travel
-
+  
 listening:
 admission =
   entry fee
@@ -269,6 +269,23 @@ studentbook unit 4 end.
 
 studentbook unit 5 start.
 
+composition = dissertation = essay
+
+It was neatly presented.
+
+Private funding is really the way to go.
+
+The motorists have to pay a fortune to use the roads.
+
+Either way you're going to pay.
+
+computing = IT
+
+by contrast = on the contrary
+
+reverse, reverse your car
+
+The state has a duty to provide free university education by giving funding for fees.
 Harnessing the Sun's energy
 Energy from the sun travels to the earth in the form of radiation.
 copper pipes
@@ -293,9 +310,9 @@ I was toying with the idea of writing a book.
 Yeah, that's possibly true perhaps.
 
 Fair enough.
-
+It was cramped
 By contrast, when it came to petrol consumption Vehicle Two proved far from economical.
-to ensure objective
+to ensure objectivity
 automobile
 
 similar to football
@@ -348,3 +365,23 @@ for my own amusement
 biography of Nelson Mandela
 
 non-fiction
+
+studentbook unit 6
+
+I thought the assignment was due in on Thursday.
+I just don't seem to be able to ...
+
+in fact = practically
+Well, it's a very complex issue.
+
+How's it going? Not too good by the look on your face.
+come through with, 提供资源
+Basically, if the government dosen't come through with the five hundred thousand they'd initially promised us, we ...
+
+lay off = sack
+
+sit a supplementary 补考
+
+feel quite happy
+
+But overall ...
