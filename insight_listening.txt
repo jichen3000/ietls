@@ -365,6 +365,8 @@ FIFA, the international body governing the game.
 tournament
 eliminate, elimination
 
+scholarship
+
 Playing sport is preferable to having to study.
 
 It really cut into my time. = time-consuming.
@@ -381,7 +383,7 @@ That book is out on loan.
 
 How's it going?
 
-I've run into a bit of problem with my essay.
+I've run into a bit of a problem with my essay.
 
 the slump in the ...
 
@@ -402,7 +404,7 @@ biography of Nelson Mandela
 
 non-fiction
 
-studentbook unit 6
+studentbook unit 6 start
 
 I thought the assignment was due in on Thursday.
 
@@ -494,3 +496,58 @@ There's time delay.
 plot a course for the rover.
 
 Theoretically, I can't see why not.
+
+  workbook unit 6
+
+agree:
+  Yes, I thought so too.
+  I think it's quite good idea.
+  I'm with Sarah.
+  I think Laura's got a point.
+disagree:
+  I can't think anything worse.
+  Frankly, I don't think much of it.
+  That's not the point.
+  I don't know what you see in it.
+
+We spend far too much time talking about... and not nearly enough time worring about real issues.
+I'd love to spend more time up there.
+
+Can you play some decent music for a change - Morzart of Bach?
+
+Sport's a substitute for things that matter - a way of distracting us.
+It draws the calcium钙 out of the bones.
+
+it is a truly venture.
+
+I'm fed up with ...
+
+I find it pretty dull, to tell you the truth.
+
+postage stamp
+
+play important role in ...
+commerce
+
+a novel idea
+
+this week's edition
+
+elite sport
+
+gymnastics
+
+OK, everyone! Let's get started.
+
+a joint presentation
+
+We're delighted to have John with us today to share his views on conservation
+So let's kick off by asking him to tell us ...
+
+begin:
+  My pleasure.
+  It's nice to be here.
+
+forntiers of science, frontier, a line or border sperating two countries.
+
+in the field of, a specialist in the field of space research.
