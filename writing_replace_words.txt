@@ -982,3 +982,5 @@ men might feel bitterness and resentment
 quota system
 JSON is a relatively new and increasingly popular way to represent data. 
 In order to be in Second Normal Form, a relation must first fulfill the requirements to be in First Normal Form.  
+
+  As irritating as this model sounds, it gets worse at the level of implementation detail.
