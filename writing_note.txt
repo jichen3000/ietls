@@ -401,9 +401,4 @@ Table:
     The "..." reply
     The "no" reply makes up just under 30% in answer to this question.
     
-studentbook unit 2
-
-Scanning means running your eyes over a text to find something that stands out, like a name or date.
-
-Skimming means reading a text quickly to find the main ideas or information.
 
