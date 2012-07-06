@@ -1112,7 +1112,7 @@ film music = sound track
 
 I find modern music quite boring.
 Well, using a mobile phone seems to come naturally to your people.
-slesperson
+sellsperson
 I think it's better to get your friends to help you.
 instruction manual
 It's just terrible noise as far as I concerned.
@@ -1171,7 +1171,7 @@ It is probably one of the best zoo I've ever been to...
 It's really worth a visit.
 
 The zoo prides itself on its humanitarian approach.
-
+ 
 take off 起飞
 We had to take off again, becuase there was a diraffe on the landing strip.
 I felt very privileged to be there with all the animals around.
