@@ -803,6 +803,7 @@ One should not allow one's decision-making to be influenced by a sense of desper
 workbook unit 8
 
 land conservation and marine conservation
+conservation = preservation = protection
 If we are not very careful, a great many fish are likely to end up on the "endanered species" list.
 endangered = wipe out = extinct
 
@@ -851,7 +852,7 @@ the worst aspect of ... = 还有更重要的在后面 Bad enough you may think, 
 
 So what can we do to combat these people.
 
-avoid ayn messages which are suspicious-looking.
+avoid any messages which are suspicious-looking.
 
 The third thing we can do involves tryint go ...
 
