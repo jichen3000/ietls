@@ -34,3 +34,10 @@ A third bombing struck the general prosecutor's office, leading to the suspicion
 hard-line, adj, firm and uncompromising
 repression
 
+drill:
+A video shows the alleged beheading of an Egyptian hostage in Iraq.
+allege, v, report or maintain
+beheading, n, execution by cutting off the victim's head.
+The footage identifies the vicitm as ...
+footage, n, film that has been shot
+
