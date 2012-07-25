@@ -50,6 +50,18 @@ Unless Australia withdraws its forces from Iraq.
 force = army
 manhunt = search
 
+if  his employer does not pull out of Iraq.
+pull out = move out or away
+withdraw
+
+They are prepared to launch preemptive strikes against terrorist bases anywhere in the world.
+preemptive, adj, designed or having the power to deter or prevent an anticipated situation or occurrence.
+annouce a 10-million-dollar bounty for ...
+separatist
+assault = attack
+militant, n, a millitant reformer.
+
+
 just ahead of Saturday's presidential election.
 This blast occurred several yards from the international peacekeeping forces' headquarters.
 country's interim government 
@@ -64,3 +76,4 @@ groups of armed and hooded men
 plead for 
 put out, 出版
 acting Prime Minister 代理的
+

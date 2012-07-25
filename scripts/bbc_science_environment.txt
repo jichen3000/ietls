@@ -341,13 +341,22 @@ lorry = truck
 simple measures 
 How on earth  can a visually impaired person get out from the pavement on to the bus safely?
 truck = lorry
-if his employer does not pull out of Iraq.
-pull out = move out or away
-withdraw
+pavement, n, any paved area or surface.
+bus bay = bus station
 
-They are prepared to launch preemptive strikes against terrorist bases anywhere in the world.
-preemptive, adj, designed or having the power to deter or prevent an anticipated situation or occurrence.
-annouce a 10-million-dollar bounty for ...
-separatist
-assault = attack
-militant, n, a millitant reformer.
+announce
+They are not covered by the Disability Discrimination Act.
+discrimination, n, the unjust or prejudicial treatment of different categories of people or things.
+automatic doors
+tactile paving
+tactile, adj, of or connected with the sense of touch
+get off
+I slipped on some oil.
+end up
+
+legs, arms and shoulder
+according to today's report
+Six out of ten blind are not prepared to go out on their own.
+Unless things improve, the RNIB say it's only a matter of time before someone dies.
+
+
