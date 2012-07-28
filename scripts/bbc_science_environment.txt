@@ -340,7 +340,6 @@ This is a classic.
 lorry = truck
 simple measures 
 How on earth  can a visually impaired person get out from the pavement on to the bus safely?
-truck = lorry
 pavement, n, any paved area or surface.
 bus bay = bus station
 
@@ -351,12 +350,54 @@ automatic doors
 tactile paving
 tactile, adj, of or connected with the sense of touch
 get off
-I slipped on some oil.
+I slipped on some oil, because I was close to edge, I endedup on the track.
 end up
 
 legs, arms and shoulder
 according to today's report
 Six out of ten blind are not prepared to go out on their own.
 Unless things improve, the RNIB say it's only a matter of time before someone dies.
+a matter of, 1. no more than (a specified period of time).
 
+unit 16 Logging in the Amazon
 
+Protesters get a bumpy ride as they take on illegal loggers.
+bumpy, adj, (of a journey or other movement) involving sudden jolts and jerks.
+jolt, noun, an abrupt rough or violent movement.
+jerk, n, a quick, sharp, sudden movement.
+timber, n, wood prepared for use in building and carpentry.
+It's a battle the enviromentalists seem to be losing.
+confiscated chain-saw
+confiscate, v, take or seize (someone's property) with authority.
+tip-off, n, informal a piece of information, typically one given in a discreet or confidential way.
+The police have received a tip-off and mount a raid.
+raid, n, a sudden attack on an enemy by troops in warfare.
+culprit, n, a person who is resposible for a crime or other misdeed.
+They are forced to work in return for food.
+mahogany, 红木
+
+deliberately
+helicopter
+At the height of the burning season, ...
+在顶点
+fill in all the forms, all the papers.
+
+unless action is taken soon, up to 40% of ...
+This'll create an environmental disaster, and a potenial human catastrophe for those living near the evermore combustible forests.
+catastrophe = disaster, n, an event causing greate and often sudden damage or suffering.
+combust, v, consume by fire.
+combustible, adj, able to catch fire and burn easily.
+loads of people
+There's loads of people living, and right up through here, so here we'll have ignition sources and dry forest in juxtaposition.
+ignite, v, catch fire or cause to catch fiire.
+juxtapose, v, place or deal with close together for contrasting effect.
+The human factor, the climatic factor, and the ecological factor can all combine for a really mega fire event.
+evermore, adv, always
+
+Successvie environment summits have made halting deforestation a key objective.
+successive, adj, following one another or following others.
+summit, n, a meeting between heads of government. ; the hightest point of a hill or mountain.
+halt, v, bring or come to an abrupt stop.
+Environmentalists are gloomy about what, if any, impact the current summit will have in saveing one of the world's most important and beautiful natual resources.
+gloomy, adj, feeling distressed or pessimistic.
+optimistic, <> pessimistic
