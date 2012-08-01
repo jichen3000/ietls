@@ -114,7 +114,7 @@ His whereabouts are unknown.
 
 local authorities 
 authority, n, the organization that is the governing authority of a political unit.
-fugitive, adj, n, someone hwo flees from an uncongenial situation.
+fugitive, adj, n, someone who flees from an uncongenial situation.
 He was shot dead in a firefight.
 In a statement, ...
 Al-Ghozi, the self-confessed explosives expert ...
@@ -124,3 +124,40 @@ Terrorism prevention will top the agenda of ...
 US is a committed supportors of ...
 new weaponry
 ambassador, embassy
+
+passage 1.
+Russian president Vladimir Putin says this deadly hostage crisis is a full-blown war against his country.
+full-blown, adj, fully ripe; at the height of bloom.
+a televised address
+Our country must respond by setting up efficient security system capable of dealing with larger threats.
+He urged the nation to unify against the common danger of terrorism
+This explosion went off inside a gymnasium.
+go off, v, happen in a particular manner.
+
+passage 2.
+In Iraq, car bombs and clashes have shaken the capital today result in ...
+an upscale district
+upscale, adj, appropriate for people with good incomes.
+US tanks and aircraft battled Shiite rebels.
+
+passage 3.
+mosque, 清真寺
+mourner, n, a person who is feeling grief.
+The police fired teargas to disperse Sunni stone throwers.
+volatile city.
+Islamic seminary, 神学院
+
+passage 4.
+... as the nation marks its independence.
+Independence Day parade
+outlawed organization. 
+outlawed, adj, contrary to or forbidden by law.
+This explosion injured at least 15 people.
+
+passage 5.
+Israeli border
+Hilton hotel
+a portion of ..
+they have been informed that ...
+There have been conflicting reports about ...
+Israel issued a warning in early September against travel by Israelis to the area citing what the warning termed a concrete threat to Israelis.
