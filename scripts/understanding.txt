@@ -161,3 +161,32 @@ a portion of ..
 they have been informed that ...
 There have been conflicting reports about ...
 Israel issued a warning in early September against travel by Israelis to the area citing what the warning termed a concrete threat to Israelis.
+
+
+chapter 2.
+
+text 1.
+Iran says it has resumed building centrifuges that can be used to enrich uranium.
+centrifuge, n, 离心机
+uranium
+commit to suspension of ...
+come after, 紧跟
+lack of cooperation with ...
+
+text 2.
+They said Libya appears to be hornoring its pledge to dismantle its secret nuclear weapons program.
+pledge, n, a binding commitment to do or give or refrain from something.
+dismantle, v, 
+verified information on ...
+nuclear equipment
+in a move aimed at ending US economic sanction.
+sanction, n, formal and explicit approval
+
+text 3.
+Germany and Britain
+Tehran, 德黑兰
+Iran says it has a legal right to uranium enrichment.
+The UN nuclear watchdog, the IAEA
+build confidence
+see what Iran's response will be.
+Iran has not yet reject the deal and may be tempted by the offer of valuable technology.
