@@ -4,8 +4,11 @@ hand-reared
 leapard
 they roamed across China.
 natural habitat
+habit,
 conservationist
 pungent scent
+pungent, adj, having a sharply strong taste or smell.
+scent, n, a distinctive smell.
 raise money
 magnificent animals
 They deserve to be saved.
@@ -16,11 +19,12 @@ food chain = food pyramid
 know = no, in pronuciation
 relative healthy.
 as they prowl the forests.
+prowl, v, move around restlessly and stealthily.
 
 anti-poaching patrol, poacher
 wild boar
 Everything these days comes down to money.
-caviar
+caviar, n, the pickled roe of sturgeon or other large fish.
 Though attitudes are changing, for the Amur leapard, it may be too late.
 temptation, tempt
 
@@ -491,6 +495,7 @@ Jane Standley
 unit 20 Fighting Malaria in Kenya
 
 She looks just like any other daughter helping her mother with the chores, but a severe bout of malaria left Mahenzo brain-damaged, barely able to talk.
+bout, n, a short period of intense activity of a specified kind.
 Few families here are left untouched by this disease.
 hundreds of thousands of ...
 Those who survive can be left debilitated.
@@ -500,11 +505,35 @@ It was only much later we realised something had gone very wrong.
 
 mosquito
 parasite, an organism that lives in or on another organism (its host) and benefits by deriving nutrients at the host's expense. 寄生虫
+nutritious, adj, nutrition, n, nutrient, n
 specimen, n, an individual animal, plant, piece of a mineral.
 stagnant pond
 stagnant, adj, (of a body of water or the atmosphere of a confined space) having no current or flow and often having an unpleasant smell as a consequence.
 genome 基因组
 bloodstream
 its smallest constituent parts
-constituent, adj, being a part of a whole
+constituent, adj, being a part of a whole. contitute, v
+continent, n, any of world's main continuous expanses of land.
 Genome work has made it simpler to identify potential new targets for drug development.
+map its genome, sequence the genome
+... is a big step
+The more you know about an organism, the easier it is to destroy it.
+vaccine, a substance used to stimulate the production of antibodies and provide immunity against one or several disease.
+... act as an early warning system.
+rural area
+prompt treatment
+Early intervention can mean the difference between life and death.
+spot the symptoms
+
+acute illness
+progression of the disease
+progression, n, a movement or development toward a destination or a more advanced state.
+consult, v, seek information or advice from
+at present
+a patched-up bed net
+drugs which are gradually losing their effectiveness.
+The next generation will be looking to the genome project to produce new treatments to combat this disease.
+For communities blighted by malaria, ...
+blight, v, infect with blight
+
+Chris Hogg
