@@ -21,6 +21,8 @@ relative healthy.
 as they prowl the forests.
 prowl, v, move around restlessly and stealthily.
 
+petrol=gasoline
+patrol
 anti-poaching patrol, poacher
 wild boar
 Everything these days comes down to money.
@@ -32,25 +34,41 @@ unit 2
 
 equivalent = equal
 legitimate = legal
+similar = resembling
+resemble, v
+asemble, v
 
 formula for happiness
-p + 5e + h
-P stands for positive outlook, and the E stands for everyday needs like health and money, and the H is for higher needs, like a sense of humour and self-steem.
+p + 5e + 3h
+P stands for positive outlook, and the E stands for everyday needs like health and money, and the H is for higher needs, like a sense of humour and self-esteem.
+self-assurance = self-esteem, n
+self-assured
 equation = formula
 It's secret of true happiness.
 A glum start for these office workers.
+glum, adj, looking or feeling dejected.
 
 get engaged
 The idea of having found somebody that I'm quite happy to spend the rest of my life has made me very happy indeed.
 But they aren't convinced.
 
 I don't think you can quantify happiness scientifically.
-being top of the premiership.
+being top of the premier issue.
+premier, adj, first in importance, order, or position; leading.
 Sunny weather makes us all smile.
 
 unit 3 degradable carrier bags
 
+go through
+clog up
+rot down 
+fall apart
+a fraction of
+break down
+cut down
+
 It's the routine of a throwaway lifestyle.
+go through, use up or spend
 Even if you re-use them, ultimately they clog up the landfills.
 clog up, become or cause to become obstructed. obstruct, v
 It will rot down in a fraction of the time.
@@ -124,8 +142,8 @@ This is the first recycling scheme to involve government and shops.
 network provider
 a way of safely disposing of them.
 
-unit 7 Firtility treatment
-firtilize, v, firtility, n
+unit 7 Fertility treatment
+fertilize, v, fertility, n
 crave = wish = long for
 first cycle of treatment
 there's pretty more chance.
@@ -209,7 +227,7 @@ We just felt like ...
 No expense has been spare. = it is very expensive.
 so much so that, to such an extent that
 I was fascinated by the company, so much so that I wrote a book about it.
-This is no shortage of customers. 
+There is no shortage of customers. 
 
 Emma Simpson
 
@@ -325,7 +343,7 @@ expectant, adj, having or showing an excited feeling that something is about to 
 
 offer the opportunity
 I don't know how many that'll be.
-The benefits of a water birth make it all well worth it.
+Even if there is the tinest risk of serious injury, the benefits of a water birth make it all well worth it.
 
 Rachel Wright
 
@@ -393,7 +411,7 @@ combust, v, consume by fire.
 combustible, adj, able to catch fire and burn easily.
 loads of people
 There's loads of people living, and right up through here, so here we'll have ignition sources and dry forest in juxtaposition.
-ignite, v, catch fire or cause to catch fiire.
+ignite, v, catch fire or cause to catch fire.
 juxtapose, v, place or deal with close together for contrasting effect.
 The human factor, the climatic factor, and the ecological factor can all combine for a really mega fire event.
 evermore, adv, always
