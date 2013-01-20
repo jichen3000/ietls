@@ -1,7 +1,7 @@
 % -*- coding: utf-8 -*-
 s02e01
 
-1.14, 1.15, 1.17
+1.14, 1.15, 1.17, 1.20
 what's up with him? 他怎么啦
 let me put it this way. 让我这么说吧...
 harbour 隐藏，避难所 a deep and biting 刺痛的 resentment 怨恨
@@ -10,7 +10,7 @@ That's two days in a row be sacked. 连续两天
 a useless layabout 懒汉
 He must be the most irritating气人的 man I've ever met.
 
-1.14, 1.15, 1.17
+1.14, 1.15, 1.17, 1.20
 Please take my advice ...
 try and keep up 请跟上
 He is jealous of me.
@@ -19,7 +19,7 @@ He's got to go. 必须走
 Scrub diving losts glitter.失去诱惑了
 I dread to think ... 我真不敢想
 
-1.14, 1.15, 1.17
+1.14, 1.15, 1.17, 1.20
 chronically unemployable
 They're perceptive. 他们真有眼光
 leave him alone别惹他
@@ -28,7 +28,7 @@ Anyone else want me to perform an unpleasant task.
 Would you rub擦 cream on my rash皮疹?
 Any messages you want passing on?
 
-1.17, 1.18
+1.17, 1.18, 1.20
 The answer is in your dreams on the moon when hell freezes over.
 Thank you fro being so supportive.
 You just too flaky to notice it.
@@ -38,7 +38,7 @@ Game, set and match
 warm up
 It's good to be back.
 
-1.17, 1.18
+1.17, 1.18, 1.20
 I just wing it. 即兴发挥
 tour guide sceptre权杖
 keep your nose clean不惹麻烦
@@ -47,7 +47,7 @@ I'll just leave it at that.
 I think, I may have slipped into a parallel universe.
 You are so naive. It was a cover story.
 
-1.17, 1.18
+1.17, 1.18, 1.20
 They were smooching.
 She's young, she's playing the field. She'll grow out of it.
 I should bloody hope so.
@@ -57,7 +57,7 @@ It's early days. 这才刚开始
 Don't ask me what sort of day I've had.
 casualty
 
-1.17, 1.18
+1.17, 1.18, 1.20
 run off with = steal
 I've been beaming special sort of failure rays at him.
 lay off = discharge
@@ -114,7 +114,7 @@ Merciful heavens.老天啊
 Just close the door on your way out.
 
 s02e02
-1.19
+1.19, 1.20
 Oh, that is bloody marvellous.
 Get away from me.
 I took out the bin bag. 垃圾筒
@@ -123,7 +123,7 @@ Who's in white. 谁空白色的
 All week I've longed to sit here with a glass of crumbs...点心
 I'm not falling for that again.
 
-1.
+1.20
 I rest my case. 我不想多说了。
 I really want your input. 我希望你能投入进来
 This is a mess.
@@ -131,6 +131,8 @@ get my frigging 受诅咒的 patients.
 No offence
 Let's get start, shall we.
 do up the nursery. refurbish, refit
+
+1.20
 our little bundle of joy. a newborn baby.
 They're just sizing you up looking for weak spots.
 answer back
@@ -139,6 +141,8 @@ nativity, the occasion of a person's brith
 Then you rush off and decide things on your own.
 Jumping for joy comes to mind.
 read my comics by torch light
+
+1.20
 I'm boning a haddock 鳕鱼
 we just sit around and talk.
 She would take over.
@@ -146,7 +150,17 @@ I hear you.我同意
 I've learned my culinary skills from watching her. cooking
 You're trying to frighten me.
 It's a compliment.
-You can't ever learn anything in life without screing up once in a while.  
+
+
+You can't ever learn anything in life without screwing up once in a while.  搞砸 
+Heaven knows you're not obliged to get me coffee. 谁都知道
+live your jet-set life. 富豪的生活
+I'm from a long line of independent woman. 我一直都是独立的女人
+That's how capable we are. 
+It isn't something you go into half heartedly.
+shiitake mushrooms 香菇
+harebrained scheme
+You have a mistress! How continental!
 14.03
 
 kumiko_house@hotmail.com
