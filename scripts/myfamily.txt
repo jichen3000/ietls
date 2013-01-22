@@ -66,7 +66,7 @@ it allowed decay to set in underneath.
 drill it out钻出
 Don't go over the top, Susan.别想太多
 
-1.18, 1.19, 1.21
+1.18, 1.19, 1.21, #1.24
 youth detention center
 Her grades have gone through the celling.
 Signature looks genuine.
@@ -114,7 +114,7 @@ Merciful heavens.老天啊
 Just close the door on your way out.
 
 s02e02
-1.19, 1.20
+1.19, 1.20, 1.22, #1.25
 Oh, that is bloody marvellous.
 Get away from me.
 I took out the bin bag. 垃圾筒
@@ -123,7 +123,7 @@ Who's in white. 谁空白色的
 All week I've longed to sit here with a glass of crumbs...点心
 I'm not falling for that again.
 
-1.20
+1.20, 1.21, ＃1.23
 I rest my case. 我不想多说了。
 I really want your input. 我希望你能投入进来
 This is a mess.
@@ -151,7 +151,7 @@ I've learned my culinary skills from watching her. cooking
 You're trying to frighten me.
 It's a compliment.
 
-1.21
+1.21, 1.22, #1.24
 You can't ever learn anything in life without screwing up once in a while.  搞砸 
 Heaven knows you're not obliged to get me coffee. 谁都知道
 live your jet-set life. 富豪的生活
@@ -161,18 +161,35 @@ It isn't something you go into half heartedly.
 shiitake mushrooms 香菇
 harebrained scheme 轻率的
 
-You've got to keep this quiet, OK?
+1.22
+You've got to keep this quiet, OK? 保密
 You have a mistress! How continental!
 You obviously have a lot to get off your chest. 你有许多要倾诉的烦恼
 They're well past their sex-by date. 享受床上约会
 You'll stop picking on me. 停止批评
 nappies, pushchairs, 尿布， 婴儿车
-Your allowance 零用钱
+Your allowance 零用钱 pocket money
+
+1.2
 While they're busy with the sprog. 新手，这里指婴儿
 I had to attend to a mishap at work. 灾难
 Don't play the innocent.
 Don't take that tone with me.
-
-20
+check things out
+You needn't bother
+act like village~idiot
+I don't want to go through all that again.
+Nothing's foolproof. 万全的
+What can I say? I have low standard.
+Isn't that a bit drastic. 激烈的
+We've dodged the bullet long enough.
+I go into a cold sweat.
+How to get out of it? 逃避
+It means it hurts like hell.
+We have a money back guarantee.
+How are those carrots coming?
+But now you've brought it up.
+Feel free to add more than 15% gratuity if you'd like
+rip it up for me.
 
 
