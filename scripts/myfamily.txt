@@ -28,7 +28,7 @@ Anyone else want me to perform an unpleasant task.
 Would you rub擦 cream on my rash皮疹?
 Any messages you want passing on?
 
-1.17, 1.18, 1.20, #1.23
+1.17, 1.18, 1.20, 1.23, #1.28
 The answer is in your dreams on the moon when hell freezes over.
 Thank you fro being so supportive.
 You just too flaky to notice it.
@@ -38,7 +38,7 @@ Game, set and match
 warm up
 It's good to be back.
 
-1.17, 1.18, 1.20
+1.17, 1.18, 1.20, 1.23
 I just wing it. 即兴发挥
 tour guide sceptre权杖
 keep your nose clean不惹麻烦
@@ -47,7 +47,7 @@ I'll just leave it at that.
 I think, I may have slipped into a parallel universe.
 You are so naive. It was a cover story.
 
-1.17, 1.18, 1.20
+1.17, 1.18, 1.20, 1.23
 They were smooching.
 She's young, she's playing the field. She'll grow out of it.
 I should bloody hope so.
@@ -57,7 +57,7 @@ It's early days. 这才刚开始
 Don't ask me what sort of day I've had.
 casualty
 
-1.17, 1.18, 1.20
+1.17, 1.18, 1.20, 1.23
 run off with = steal
 I've been beaming special sort of failure rays at him.
 lay off = discharge
@@ -123,16 +123,16 @@ Who's in white. 谁空白色的
 All week I've longed to sit here with a glass of crumbs...点心
 I'm not falling for that again.
 
-1.20, 1.21, ＃1.23
+1.20, 1.21, 1.23 #1.26
 I rest my case. 我不想多说了。
 I really want your input. 我希望你能投入进来
 This is a mess.
 get my frigging 受诅咒的 patients.
-No offence
+No offense
 Let's get start, shall we.
 do up the nursery. refurbish, refit
 
-1.20, 1.21
+1.20, 1.21, 1.23
 our little bundle of joy. a newborn baby.
 They're just sizing you up looking for weak spots.
 answer back
@@ -142,7 +142,7 @@ Then you rush off and decide things on your own.
 Jumping for joy comes to mind.
 read my comics by torch light
 
-1.20, 1.21
+1.20, 1.21, 1.23
 I'm boning a haddock 鳕鱼
 we just sit around and talk.
 She would take over.
@@ -161,7 +161,7 @@ It isn't something you go into half heartedly.
 shiitake mushrooms 香菇
 harebrained scheme 轻率的
 
-1.22
+1.22, 1.23, #1.25
 You've got to keep this quiet, OK? 保密
 You have a mistress! How continental!
 You obviously have a lot to get off your chest. 你有许多要倾诉的烦恼
@@ -170,7 +170,7 @@ You'll stop picking on me. 停止批评
 nappies, pushchairs, 尿布， 婴儿车
 Your allowance 零用钱 pocket money
 
-1.2
+1.23
 While they're busy with the sprog. 新手，这里指婴儿
 I had to attend to a mishap at work. 灾难
 Don't play the innocent.
@@ -179,17 +179,38 @@ check things out
 You needn't bother
 act like village~idiot
 I don't want to go through all that again.
+
+1.23
 Nothing's foolproof. 万全的
 What can I say? I have low standard.
 Isn't that a bit drastic. 激烈的
-We've dodged the bullet long enough.
-I go into a cold sweat.
+We've dodged the bullet long enough. 逃避
+I go into a cold sweat. 冷汗
 How to get out of it? 逃避
 It means it hurts like hell.
+
+1.23
 We have a money back guarantee.
-How are those carrots coming?
-But now you've brought it up.
-Feel free to add more than 15% gratuity if you'd like
-rip it up for me.
+How are those carrots coming? 胡萝卜
+But now you've brought it up. 既然你已经提出来了。
+Feel free to add more than 15% gratuity小费 if you'd like
+rip it up for me. 撕掉
 
+s02e03
+I was led to believe you opened at nine sharp.我天真地以为你会在9点整准时开门。
+No, neither do I.
+the employment agency sent me for the assistant position.
+It can't be 绝对不可能
+asterisk 星号
+Third Reich第三帝国
+casual dress Friday
+What if we ...
+my solicitor 律师
+midget 侏儒，小矮子
+You'd better ...
+before you scare her off.吓跑她
+You've got no change.你已经没机会了
+she's fit漂亮
+It's gross.恶心的
 
+2.28
