@@ -123,7 +123,7 @@ Who's in white. 谁空白色的
 All week I've longed to sit here with a glass of crumbs...点心
 I'm not falling for that again.
 
-1.20, 1.21, 1.23 #1.26
+1.20, 1.21, 1.23, 1.26, # 1.31
 I rest my case. 我不想多说了。
 I really want your input. 我希望你能投入进来
 This is a mess.
@@ -132,7 +132,7 @@ No offense
 Let's get start, shall we.
 do up the nursery. refurbish, refit
 
-1.20, 1.21, 1.23
+1.20, 1.21, 1.23, 1.26
 our little bundle of joy. a newborn baby.
 They're just sizing you up looking for weak spots.
 answer back
@@ -142,7 +142,7 @@ Then you rush off and decide things on your own.
 Jumping for joy comes to mind.
 read my comics by torch light
 
-1.20, 1.21, 1.23
+1.20, 1.21, 1.23, 1.26
 I'm boning a haddock 鳕鱼
 we just sit around and talk.
 She would take over.
@@ -151,7 +151,7 @@ I've learned my culinary skills from watching her. cooking
 You're trying to frighten me.
 It's a compliment.
 
-1.21, 1.22, #1.24
+1.21, 1.22, 1.26, #1.28
 You can't ever learn anything in life without screwing up once in a while.  搞砸 
 Heaven knows you're not obliged to get me coffee. 谁都知道
 live your jet-set life. 富豪的生活
@@ -161,7 +161,7 @@ It isn't something you go into half heartedly.
 shiitake mushrooms 香菇
 harebrained scheme 轻率的
 
-1.22, 1.23, 1.25, 1.28
+1.22, 1.23, 1.25, #1.28
 You've got to keep this quiet, OK? 保密
 You have a mistress! How continental!
 You obviously have a lot to get off your chest. 你有许多要倾诉的烦恼
@@ -170,7 +170,7 @@ You'll stop picking on me. 停止批评
 nappies, pushchairs, 尿布， 婴儿车
 Your allowance 零用钱 pocket money
 
-1.23, 1.24, #1.26
+1.23, 1.24, 1.26, #1.29
 While they're busy with the sprog. 新手，这里指婴儿
 I had to attend to a mishap at work. 灾难
 Don't play the innocent.
@@ -180,7 +180,7 @@ You needn't bother
 act like village~idiot
 I don't want to go through all that again.
 
-1.23, 1.24
+1.23, 1.24, 1.26
 Nothing's foolproof. 万全的
 What can I say? I have low standard.
 Isn't that a bit drastic. 激烈的
@@ -189,7 +189,7 @@ I go into a cold sweat. 冷汗
 How to get out of it? 逃避
 It means it hurts like hell.
 
-1.23, 1.24
+1.23, 1.24, 1.26
 We have a money back guarantee.
 How are those carrots coming? 胡萝卜
 But now you've brought it up. 既然你已经提出来了。
@@ -207,7 +207,7 @@ Third Reich第三帝国
 casual dress Friday
 What if we ...
 
-1.24, 1.25, 
+1.24, 1.25, #1.27 
 my solicitor 律师 solicit v, 征求，招揽
 midget 侏儒，小矮子
 You'd better ...
@@ -216,17 +216,18 @@ You've got no chance.你已经没机会了
 she's fit漂亮
 It's gross.恶心的
 
-1.25
+1.25, 1.26, #1.28
 in that pit.矿井 barbaric
 It's like be in punishment for a murder
 sleep deprivation
 Do you know how ridiculous that sounds
 giant cockroach
 keep~her waiting at ..
-Don't get in such a flap. 不要急
+Don't get in such a flap. 不要急 flap 轻拍
 Wicked. 酷 Can I come?
 I had a crappy糟糕的 day.
 
+1.26
 just~leave me here
 put us in the right mood for ...
 Better informed now about the daily struggle of youth. 更加了解了年轻人的日常辛苦生活
@@ -234,14 +235,16 @@ You're missing the point. 没抓住重点
 life's transitions. 生活的变迁
 You insist on me watching this drivel. 愚蠢的片子
 You're a pleasure fascist.
+
+1.26
 enigma
 our whole marriage has been a sham. 假装，骗子
 You don't even try to be compatible any more.
 You'll fit in fine around here.
-I've whiped up some English food.
+I've whiped up some English food. 准备
 You made that up, didn't you?
 pleasure dome 屋子
-I'm not off the antibiotics yes.
+I'm not off the antibiotics yet.
 Here are some of your essentials.基本知识
 
 2.28
