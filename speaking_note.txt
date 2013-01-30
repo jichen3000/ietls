@@ -1,4 +1,28 @@
+evaluation system
+fluent
+stress
+liaison
+idiom
+communication
+interesting
+time tense
+diversity
+errors:
+  plural
+  time tense
+  repeat
 
+1 2 1 2
+0     1
+0     0
+0     0
+0  1  
+0 
+1  3
+-1 -1 0
+      0
+      -1
+思考成句子，然后说，就会有重音和连读
   
 用在开头的填充词
 想一想的话
