@@ -1,7 +1,8 @@
 % -*- coding: utf-8 -*-
 s02e01
+2.11 2.24
 
-1.14, 1.15, 1.17, 1.20, 1.25, #2.02
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, #2.28
 what's up with him? 他怎么啦
 let me put it this way. 让我这么说吧...
 harbour 隐藏，避难所 a deep and biting 刺痛的 resentment 怨恨
@@ -10,7 +11,7 @@ That's two days in a row be sacked. 连续两天
 a useless layabout 懒汉
 He must be the most irritating气人的 man I've ever met.
 
-1.14, 1.15, 1.17, 1.20, 1.25
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02
 Please take my advice ...
 try and keep up 请跟上
 He is jealous of me.
@@ -19,7 +20,7 @@ He's got to go. 必须走
 Scrub diving losts glitter.失去诱惑了
 I dread to think ... 我真不敢想
 
-1.14, 1.15, 1.17, 1.20, 1.25
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02
 chronically unemployable
 They're perceptive. 他们真有眼光
 leave him alone别惹他
@@ -28,7 +29,7 @@ Anyone else want me to perform an unpleasant task.
 Would you rub擦 cream on my rash皮疹?
 Any messages you want passing on?
 
-1.17, 1.18, 1.20, 1.23, 1.29, #2.05
+1.17, 1.18, 1.20, 1.23, 1.29, 2.06, #3.03
 The answer is in your dreams on the moon when hell freezes over.
 Thank you fro being so supportive.
 You just too flaky to notice it.
@@ -38,7 +39,7 @@ Game, set and match
 warm up
 It's good to be back.
 
-1.17, 1.18, 1.20, 1.23, 1.29
+1.17, 1.18, 1.20, 1.23, 1.29, 2.06
 I just wing it. 即兴发挥
 tour guide sceptre权杖
 keep your nose clean不惹麻烦
@@ -47,7 +48,7 @@ I'll just leave it at that.
 I think, I may have slipped into a parallel universe.
 You are so naive. It was a cover story.
 
-1.17, 1.18, 1.20, 1.23, 1.29
+1.17, 1.18, 1.20, 1.23, 1.29, 2.06
 They were smooching.
 She's young, she's playing the field. She'll grow out of it.
 I should bloody hope so.
@@ -57,7 +58,7 @@ It's early days. 这才刚开始
 Don't ask me what sort of day I've had.
 casualty
 
-1.17, 1.18, 1.20, 1.23, 1.29
+1.17, 1.18, 1.20, 1.23, 1.29, 2.06
 run off with = steal
 I've been beaming special sort of failure rays at him.
 lay off = discharge
@@ -66,7 +67,7 @@ it allowed decay to set in underneath.
 drill it out钻出
 Don't go over the top, Susan.别想太多
 
-1.18, 1.19, 1.21, 1.24, 1.29, #2.06
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, #3.05
 youth detention center
 Her grades have gone through the celling.
 Signature looks genuine.
@@ -75,7 +76,7 @@ I knew she could do it if she applied herself.
 Do you know what that sounds like in my book?
 You're insatiable.不知足的 satiable
 
-1.18, 1.19, 1.21, 1.24, 1.29
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06
 every subject in the curriculum.
 get the elbow == to be dismissed from employment.
 You'll get used to it.
@@ -84,7 +85,7 @@ It just doesn't make sense. it is utter nonsense.
 airhead, a silly or foolish person.
 loaf around at home all day. loaf 游荡
 
-1.18, 1.19, 1.21, 1.24, 1.29
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06
 set in and stew, stew 忧虑，炖，焖
 Not to be dismissive表示轻视的 or judgmental
 entirely appropriate 合适的
@@ -93,7 +94,7 @@ That went rather well. 进展的很顺利
 It was a metaphor.
 You might end up offending her. 最好别再惹她了
 
-1.18, 1.19, 1.21, 1.24, 1.29
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06
 skulk about the house in your dressing gown all day.偷偷摸摸的在家走
 That was a ruse策略 to make you happy. 
 I heard a clunk.闷响
@@ -103,7 +104,7 @@ top idea
 There's a lot to get through 完成，通过
 He's had a big falling-out吵架 whit his daughter.
 
-1.18, 1.19, 1.21, 1.24, 1.29
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06
 The repercussion反响 of this incident are still with us.
 Time for a break.
 I'm conducting a tour.
@@ -114,7 +115,7 @@ Merciful heavens.老天啊
 Just close the door on your way out.
 
 s02e02
-1.19, 1.20, 1.22, 1.25, #1.30
+1.19, 1.20, 1.22, 1.25, 1.31, 2.06, #3.01
 Oh, that is bloody marvellous.
 Get away from me.
 I took out the bin bag. 垃圾筒
@@ -123,7 +124,7 @@ Who's in white. 谁空白色的
 All week I've longed to sit here with a glass of crumbs...点心
 I'm not falling for that again.
 
-1.20, 1.21, 1.23, 1.26, # 1.31
+1.20, 1.21, 1.23, 1.26, 1.31, 2.06
 I rest my case. 我不想多说了。
 I really want your input. 我希望你能投入进来
 This is a mess.
@@ -132,7 +133,7 @@ No offense
 Let's get start, shall we.
 do up the nursery. refurbish, refit
 
-1.20, 1.21, 1.23, 1.26
+1.20, 1.21, 1.23, 1.26, 1.31, 2.06
 our little bundle of joy. a newborn baby.
 They're just sizing you up looking for weak spots.
 answer back
@@ -142,7 +143,7 @@ Then you rush off and decide things on your own.
 Jumping for joy comes to mind.
 read my comics by torch light
 
-1.20, 1.21, 1.23, 1.26
+1.20, 1.21, 1.23, 1.26, 1.31, 2.06
 I'm boning a haddock 鳕鱼
 we just sit around and talk.
 She would take over.
@@ -151,7 +152,7 @@ I've learned my culinary skills from watching her. cooking
 You're trying to frighten me.
 It's a compliment.
 
-1.21, 1.22, 1.26, 1.29, #2.03
+1.21, 1.22, 1.26, 1.29, 2.03, 2.24, #3.04
 You can't ever learn anything in life without screwing up once in a while.  搞砸 
 Heaven knows you're not obliged to get me coffee. 谁都知道
 live your jet-set life. 富豪的生活
@@ -161,7 +162,7 @@ It isn't something you go into half heartedly.
 shiitake mushrooms 香菇
 harebrained scheme 轻率的
 
-1.22, 1.23, 1.25, 1.29, #2.03
+1.22, 1.23, 1.25, 1.29, 2.03, 2.24
 You've got to keep this quiet, OK? 保密
 You have a mistress! How continental!
 You obviously have a lot to get off your chest. 你有许多要倾诉的烦恼
@@ -170,9 +171,10 @@ You'll stop picking on me. 停止批评
 nappies, pushchairs, 尿布， 婴儿车
 Your allowance 零用钱 pocket money
 
-1.23, 1.24, 1.26, 1.29, #2.03
+1.23, 1.24, 1.26, 1.29, 2.03, 2.24
 While they're busy with the sprog. 新手，这里指婴儿
-I had to attend to a mishap at work. 灾难
+I had~to~at-tend~to a little of mishap at work. 灾难
+A norwegian had her handbag stolen.
 Don't play the innocent.
 Don't take that tone with me.
 check things out
@@ -180,16 +182,16 @@ You needn't bother
 act like village~idiot
 I don't want to go through all that again.
 
-1.23, 1.24, 1.26, 1.29
+1.23, 1.24, 1.26, 1.29, 2.03, 2.24
 Nothing's foolproof. 万全的
 What can I say? I have low standard.
 Isn't that a bit drastic. 激烈的
 We've dodged the bullet long enough. 逃避
-I go into a cold sweat. 冷汗
-How to get out of it? 逃避
-It means it hurts like hell.
+I go~into~a cold sweat. 冷汗
+How to get~out~of~it? 逃避
+It means~it hurts like hell.
 
-1.23, 1.24, 1.26, 1.29
+1.23, 1.24, 1.26, 1.29, 2.03, 2.24
 We have a money back guarantee.
 How are those carrots coming? 胡萝卜
 But now you've brought it up. 既然你已经提出来了。
@@ -197,7 +199,7 @@ Feel free to add more than 15% gratuity小费 if you'd like
 rip it up for me. 撕掉
 
 s02e03
-1.24, 1.25, 1.27, #1.30
+1.24, 1.25, 1.27, 1.31, 2.04, #2.25
 I was led to believe you opened at nine sharp.我天真地以为你会在9点整准时开门。
 No, neither do I.
 the employment agency sent me for the assistant position.
@@ -207,7 +209,7 @@ Third Reich第三帝国
 casual dress Friday
 What if we ...
 
-1.24, 1.25, 1.27 
+1.24, 1.25, 1.27, 1.31, 2.04
 my solicitor 律师 solicit v, 征求，招揽
 midget 侏儒，小矮子
 You'd better ...
@@ -216,7 +218,7 @@ You've got no chance.你已经没机会了
 she's fit漂亮
 It's gross.恶心的
 
-1.25, 1.26, 1.29, #2.01
+1.25, 1.26, 1.29, 2.01, 2.04, 2.09, #3.02
 in that pit.矿井 barbaric
 It's like be in punishment for a murder
 sleep deprivation
@@ -227,7 +229,7 @@ Don't get in such a flap. 不要急 flap 轻拍
 Wicked. 酷 Can I come?
 I had a crappy糟糕的 day.
 
-1.26, 1.27, 1.29
+1.26, 1.27, 1.29, 2.01, 2.04, 2.09
 just~leave me here
 put us in the right mood for ...
 Better informed now about the daily struggle of youth. 更加了解了年轻人的日常辛苦生活
@@ -236,7 +238,7 @@ life's transitions. 生活的变迁
 You insist on me watching this drivel. 愚蠢的片子
 You're a pleasure fascist.
 
-1.26, 1.27, 1.29
+1.26, 1.27, 1.29, 2.01, 2.04, 2.09
 enigma
 our whole marriage has been a sham. 假装，骗子
 You don't even try to be compatible any more.
@@ -247,14 +249,17 @@ pleasure dome 屋子
 I'm not off the antibiotics yet.
 Here are some of your essentials.基本知识
 
+1.31, 2.01, 2.03, 2.06, 2.24, #3.01
 You'll never hang out in here any more. hang out 闲逛
 fire extinguisher
 the bed seems to be spinning 转
 I thought you were supposed to tidy up. 我以为你至少会清理一下。
 a lot of valuables有价值的东西
 use the saucepan平底锅
-open this wardrobe衣柜
+open this wardrobe衣柜 ward, 保卫 robe, 长袍
 Goodby old chum, it was nice knowing you.  a close friend
+
+1.31, 2.01, 2.03, 2.06, 2.24
 permanent~exchange
 an old lecher老色鬼 lecherous好色的
 thump sb, hit sb
@@ -263,13 +268,137 @@ He's the love child of the fling you had with the village~idiot.
 alter my circadian rhythm. 生物节律
 reset my body clock
 turnstile 旋转栅门，地铁入口
+
+1.31, 2.01, 2.03, 2.06, 2.24
 I adore English food
 Aperitif 开胃酒
-This is exquistie! Oh, you really shouldn't have.
+This is exquisite!精致的，高雅的 Oh, you really shouldn't have.
 puke time. 我快吐了
 Dad, can I have a word?
-She's a bit tactile.
+She's a bit tactile. 有触觉的，喜欢触碰
 She's a crawler. 爬行动物，见风使舵
 You are up to something.想要什么东西
 
-12.40
+2.01, 2.03, 2.06, 2.09, #2.27
+She's just sucking up to all of my family.
+Why don't you join the fun.
+I'm fed up with it. not completely insane
+It could set a dangerous precedent.
+pip, 很好的人或事物
+veranda 阳台
+The sleep deprivation's kicked in. come into effect.
+
+2.01, 2.03, 2.06, 2.09
+How can you tell? 你怎么知道的
+sod off, 滚开
+Will this do the trick? 这会成功吗
+to impress her.
+But it's not over till it's over.笑到最后才笑地最好
+He soon settled in.
+Once I'd prised his finger off the doorframe. 撬
+
+2.03, 2.04, 2.06, 2.09, #2.28
+Janey is not too keen to Sylvie, is she? 不太喜欢她
+Hm, Seems that way. 看起来是这样的。
+I don't obsess about it. 这个倒不用我担心
+She's a dead cert for university. 她肯定能上大学, cert 必然的事情
+so they can bond 能好好互相了解
+You've got Saturday off. 你星期六休息
+What can be better? 还能有更好的选择吗？
+
+2.03, 2.04, 2.06, 2.09
+Having my genitals fed slowly through a mangle. 我情愿把小鸡鸡用轧布机慢慢碾过。
+put me in that position.
+She's got a huge crush on me. 对我有好感
+I'm glad you can laugh. I'm glad you can make me laugh.
+It's the best I can do.
+hilarious
+Whose fault's that?
+She gave me long, sultry looks. 色咪咪的
+
+2.08, 2.09, 2.24, #2.27
+lazy eye 弱视
+unmolested, molest v 调戏
+You're so very naughty! 你太调皮了
+Don't panic.
+Maybe one will rise up and destroy the other. 起义
+Occupational hazard of being an Englishman. 职业病
+megastore
+Because it was handy for McDonald's.
+
+2.08, 2.09, 2.24
+Do I have to humiliate myself any further?
+I'm not falling for any more this nonsense.
+an excuse for shrinking your duty. 逃避你的责任
+rest~assured 放心
+without her accosting a single penshioner. 勾引
+Humor is a known aphrodisiac. 春药
+Women go weak over funny men. 女人抗拒不了风趣的男人
+
+2.08, 2.09, 2.24
+without a gun held to his head.
+Must have found my stash of videos. a secret store of something.
+Yeah, that kind of thing.
+I just know her vaguely
+indefinable reasons
+dark horse.
+The better man won.
+
+2.08, 2.09, 2.24
+I'm stuck.困住了。
+I've got a really fantastic family.
+Pulled any fit young girlies lately, Dad? 钓到
+Is there no end to my humiliation?
+two faced tart 两面的妓女
+
+s02e04
+2.09, 2.10, #2.25
+Hand me the probe, please. 探针
+I worked alongside him faithfully for 15 years.
+Only to be discarded like a used swab. 医用海绵
+You're all alike, you dentists. 你们都一样
+he ran off with his young attractive assistant.
+What the hell are you doing in there?
+floss 牙线
+
+2.10, #2.24
+It can be harmful to your health.
+It's draw.
+You're not being clever. 你这样可不是明智的做法
+Mind if I nip in first?
+I'll take another look at it.
+In waht sense, you found it. 你怎么定义，你找到的
+Found as in fine-tooth~comb search of her possessions?梳子， 
+Eureka! 帅呆了
+
+
+Now put it back before all hell breaks loose.在一切乱套之前
+How can we have the sort of honest, open relationship that allows free and flow confidences.
+What the hell you want to do that fro.
+What a wonderful sense of achievement.
+brooding resentment. 压抑的怨恨
+I'm telepathic
+lay the table 铺桌子
+Nice day at work? 工作顺利
+So did the plumber turn up? 水管工出现了没
+I got an～A for my French project.
+I simply engage with my children and in return, they notice me. 建立了良好的关系
+revolting thing
+old stuffy parents
+Ear-splitting music 震耳欲聋的
+stains on the carpet. 沾污
+Nick will keep an eye on things.
+All my fears have vanished as the morning dew.露水
+Just trample over the tattered remnants of my dignity.践踏 破烂的 剩余
+airhead freinds
+spotty herberts, foolish man.
+off-licence, a store selling alcoholic beverages
+we'd better get a crate
+Some girl has been given the run of her house.
+It is gonna be wall-to-wall totty. 遍地醉汉
+See if everything's hunky-dory. fine, going well
+
+12.18
+
+657268024@qq.com
+

@@ -1,7 +1,7 @@
 evaluation system
 fluent
 stress
-liaison
+liaison, and, of, nonstress syllable
 idiom
 communication
 interesting
@@ -12,14 +12,15 @@ errors:
   time tense
   repeat
 
-1 2 1 2
-0     1
-0     0
-0     0
-0  1  
-0 
-1  3
--1 -1 0
+get the right rythme
+1 2 1 2 1 3 2 3 2 3 1 2
+0     1 1 2 1 2 0 2 1 0
+0     0 0 1 0 0 0 1   0
+0     0 1 1 0 0 1 0   0
+0  1    1 1 1 1 1     0
+0       0 2 0 0       1 
+1  3    0     1
+-1 -1 0 -1           -1   
       0
       -1
 思考成句子，然后说，就会有重音和连读
