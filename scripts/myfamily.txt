@@ -199,7 +199,7 @@ Feel free to add more than 15% gratuity小费 if you'd like
 rip it up for me. 撕掉
 
 s02e03
-1.24, 1.25, 1.27, 1.31, 2.04, #2.25
+1.24, 1.25, 1.27, 1.31, 2.04, 2.25, #3.05
 I was led to believe you opened at nine sharp.我天真地以为你会在9点整准时开门。
 No, neither do I.
 the employment agency sent me for the assistant position.
@@ -209,7 +209,7 @@ Third Reich第三帝国
 casual dress Friday
 What if we ...
 
-1.24, 1.25, 1.27, 1.31, 2.04
+1.24, 1.25, 1.27, 1.31, 2.04, 2.25
 my solicitor 律师 solicit v, 征求，招揽
 midget 侏儒，小矮子
 You'd better ...
@@ -279,7 +279,7 @@ She's a bit tactile. 有触觉的，喜欢触碰
 She's a crawler. 爬行动物，见风使舵
 You are up to something.想要什么东西
 
-2.01, 2.03, 2.06, 2.09, #2.27
+2.01, 2.03, 2.06, 2.09, 2.27, #3.04
 She's just sucking up to all of my family.
 Why don't you join the fun.
 I'm fed up with it. not completely insane
@@ -288,7 +288,7 @@ pip, 很好的人或事物
 veranda 阳台
 The sleep deprivation's kicked in. come into effect.
 
-2.01, 2.03, 2.06, 2.09
+2.01, 2.03, 2.06, 2.09, 2.27
 How can you tell? 你怎么知道的
 sod off, 滚开
 Will this do the trick? 这会成功吗
@@ -316,7 +316,7 @@ hilarious
 Whose fault's that?
 She gave me long, sultry looks. 色咪咪的
 
-2.08, 2.09, 2.24, #2.27
+2.08, 2.09, 2.24, 2.27, #3.04
 lazy eye 弱视
 unmolested, molest v 调戏
 You're so very naughty! 你太调皮了
@@ -326,7 +326,7 @@ Occupational hazard of being an Englishman. 职业病
 megastore
 Because it was handy for McDonald's.
 
-2.08, 2.09, 2.24
+2.08, 2.09, 2.24, 2.27
 Do I have to humiliate myself any further?
 I'm not falling for any more this nonsense.
 an excuse for shrinking your duty. 逃避你的责任
@@ -335,7 +335,7 @@ without her accosting a single penshioner. 勾引
 Humor is a known aphrodisiac. 春药
 Women go weak over funny men. 女人抗拒不了风趣的男人
 
-2.08, 2.09, 2.24
+2.08, 2.09, 2.24, 2.27
 without a gun held to his head.
 Must have found my stash of videos. a secret store of something.
 Yeah, that kind of thing.
@@ -344,7 +344,7 @@ indefinable reasons
 dark horse.
 The better man won.
 
-2.08, 2.09, 2.24
+2.08, 2.09, 2.24, 2.27
 I'm stuck.困住了。
 I've got a really fantastic family.
 Pulled any fit young girlies lately, Dad? 钓到
@@ -352,26 +352,26 @@ Is there no end to my humiliation?
 two faced tart 两面的妓女
 
 s02e04
-2.09, 2.10, #2.25
+2.09, 2.10, 2.25, 2.27, #3.01
 Hand me the probe, please. 探针
 I worked alongside him faithfully for 15 years.
 Only to be discarded like a used swab. 医用海绵
-You're all alike, you dentists. 你们都一样
-he ran off with his young attractive assistant.
+You're all~alike, you dentists. 你们都一样
+He ran~off with his young attractive assistant.
 What the hell are you doing in there?
 floss 牙线
 
-2.10, #2.24
+2.10, 2.25, 2.26, #2.28
 It can be harmful to your health.
 It's draw.
 You're not being clever. 你这样可不是明智的做法
-Mind if I nip in first?
+Mind if I nip in first? nip in, 插队
 I'll take another look at it.
 In waht sense, you found it. 你怎么定义，你找到的
 Found as in fine-tooth~comb search of her possessions?梳子， 
 Eureka! 帅呆了
 
-
+2.26, 2.27, #3.01
 Now put it back before all hell breaks loose.在一切乱套之前
 How can we have the sort of honest, open relationship that allows free and flow confidences.
 What the hell you want to do that fro.
@@ -379,13 +379,17 @@ What a wonderful sense of achievement.
 brooding resentment. 压抑的怨恨
 I'm telepathic
 lay the table 铺桌子
+
+2.26, 2.27
 Nice day at work? 工作顺利
 So did the plumber turn up? 水管工出现了没
 I got an～A for my French project.
 I simply engage with my children and in return, they notice me. 建立了良好的关系
-revolting thing
-old stuffy parents
+revolting thing 讨厌的事情
+old stuffy parents 古板的
 Ear-splitting music 震耳欲聋的
+
+2.27, #2.28
 stains on the carpet. 沾污
 Nick will keep an eye on things.
 All my fears have vanished as the morning dew.露水
@@ -393,6 +397,8 @@ Just trample over the tattered remnants of my dignity.践踏 破烂的 剩余
 airhead freinds
 spotty herberts, foolish man.
 off-licence, a store selling alcoholic beverages
+
+
 we'd better get a crate
 Some girl has been given the run of her house.
 It is gonna be wall-to-wall totty. 遍地醉汉
@@ -402,3 +408,6 @@ See if everything's hunky-dory. fine, going well
 
 657268024@qq.com
 
+14.53
+
+7.31
