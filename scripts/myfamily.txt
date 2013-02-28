@@ -2,7 +2,7 @@
 s02e01
 2.11 2.24
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02, #2.28
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, #3.13
 what's up with him? 他怎么啦
 let me put it this way. 让我这么说吧...
 harbour 隐藏，避难所 a deep and biting 刺痛的 resentment 怨恨
@@ -11,7 +11,7 @@ That's two days in a row be sacked. 连续两天
 a useless layabout 懒汉
 He must be the most irritating气人的 man I've ever met.
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28
 Please take my advice ...
 try and keep up 请跟上
 He is jealous of me.
@@ -20,7 +20,7 @@ He's got to go. 必须走
 Scrub diving losts glitter.失去诱惑了
 I dread to think ... 我真不敢想
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28
 chronically unemployable
 They're perceptive. 他们真有眼光
 leave him alone别惹他
@@ -297,7 +297,7 @@ But it's not over till it's over.笑到最后才笑地最好
 He soon settled in.
 Once I'd prised his finger off the doorframe. 撬
 
-2.03, 2.04, 2.06, 2.09, #2.28
+2.03, 2.04, 2.06, 2.09, 2.28, #3.04
 Janey is not too keen to Sylvie, is she? 不太喜欢她
 Hm, Seems that way. 看起来是这样的。
 I don't obsess about it. 这个倒不用我担心
@@ -306,7 +306,7 @@ so they can bond 能好好互相了解
 You've got Saturday off. 你星期六休息
 What can be better? 还能有更好的选择吗？
 
-2.03, 2.04, 2.06, 2.09
+2.03, 2.04, 2.06, 2.09, 2.28
 Having my genitals fed slowly through a mangle. 我情愿把小鸡鸡用轧布机慢慢碾过。
 put me in that position.
 She's got a huge crush on me. 对我有好感
@@ -361,7 +361,7 @@ He ran~off with his young attractive assistant.
 What the hell are you doing in there?
 floss 牙线
 
-2.10, 2.25, 2.26, #2.28
+2.10, 2.25, 2.26, 2.28, #3.03
 It can be harmful to your health.
 It's draw.
 You're not being clever. 你这样可不是明智的做法
@@ -389,7 +389,7 @@ revolting thing 讨厌的事情
 old stuffy parents 古板的
 Ear-splitting music 震耳欲聋的
 
-2.27, #2.28
+2.27, 2.28, #3.02
 stains on the carpet. 沾污
 Nick will keep an eye on things.
 All my fears have vanished as the morning dew.露水
@@ -410,4 +410,4 @@ See if everything's hunky-dory. fine, going well
 
 14.53
 
-7.31
+14,47
