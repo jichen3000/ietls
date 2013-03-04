@@ -13,16 +13,16 @@ errors:
   repeat
 
 get the right rythme
-1 2 1 2 1 3 2 3 2 3 1 2 2 2 2
-0     1 1 2 1 2 0 2 1 0 1 1 
-0     0 0 1 0 0 0 1   0 1 0
-0     0 1 1 0 0 1 0   0 0 0
-0  1    1 1 1 1 1     0 0 1
-0       0 2 0 0       1 1 1
-1  3    0     1
--1 -1 0 -1           -1   
-      0
-      -1
+fluent        2
+stess         1
+liaison       1
+idiom         0
+communication 0
+interesting   0
+feeling       0
+time tense    0
+diversity     0
+
 思考成句子，然后说，就会有重音和连读
   
 用在开头的填充词
