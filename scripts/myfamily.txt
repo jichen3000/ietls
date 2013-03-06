@@ -67,7 +67,7 @@ it allowed decay to set in underneath.
 drill it out钻出
 Don't go over the top, Susan.别想太多
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06, #3.05
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05, #3.13
 youth detention center
 Her grades have gone through the celling.
 Signature looks genuine.
@@ -76,7 +76,7 @@ I knew she could do it if she applied herself.
 Do you know what that sounds like in my book?
 You're insatiable.不知足的 satiable
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05
 every subject in the curriculum.
 get the elbow == to be dismissed from employment.
 You'll get used to it.
@@ -85,7 +85,7 @@ It just doesn't make sense. it is utter nonsense.
 airhead, a silly or foolish person.
 loaf around at home all day. loaf 游荡
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05
 set in and stew, stew 忧虑，炖，焖
 Not to be dismissive表示轻视的 or judgmental
 entirely appropriate 合适的
@@ -94,7 +94,7 @@ That went rather well. 进展的很顺利
 It was a metaphor.
 You might end up offending her. 最好别再惹她了
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05
 skulk about the house in your dressing gown all day.偷偷摸摸的在家走
 That was a ruse策略 to make you happy. 
 I heard a clunk.闷响
@@ -104,7 +104,7 @@ top idea
 There's a lot to get through 完成，通过
 He's had a big falling-out吵架 whit his daughter.
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05
 The repercussion反响 of this incident are still with us.
 Time for a break.
 I'm conducting a tour.
@@ -199,7 +199,7 @@ Feel free to add more than 15% gratuity小费 if you'd like
 rip it up for me. 撕掉
 
 s02e03
-1.24, 1.25, 1.27, 1.31, 2.04, 2.25, #3.05
+1.24, 1.25, 1.27, 1.31, 2.04, 2.25, 3.05, #3.18
 I was led to believe you opened at nine sharp.我天真地以为你会在9点整准时开门。
 No, neither do I.
 the employment agency sent me for the assistant position.
@@ -209,7 +209,7 @@ Third Reich第三帝国
 casual dress Friday
 What if we ...
 
-1.24, 1.25, 1.27, 1.31, 2.04, 2.25
+1.24, 1.25, 1.27, 1.31, 2.04, 2.25, 3.05
 my solicitor 律师 solicit v, 征求，招揽
 midget 侏儒，小矮子
 You'd better ...
@@ -297,7 +297,7 @@ But it's not over till it's over.笑到最后才笑地最好
 He soon settled in.
 Once I'd prised his finger off the doorframe. 撬
 
-2.03, 2.04, 2.06, 2.09, 2.28, #3.05
+2.03, 2.04, 2.06, 2.09, 2.28, 3.05, #3.13
 Janey is not too keen to Sylvie, is she? 不太喜欢她
 Hm, Seems that way. 看起来是这样的。
 I don't obsess about it. 这个倒不用我担心
@@ -306,7 +306,7 @@ so they can bond 能好好互相了解
 You've got Saturday off. 你星期六休息
 What can be better? 还能有更好的选择吗？
 
-2.03, 2.04, 2.06, 2.09, 2.28
+2.03, 2.04, 2.06, 2.09, 2.28, 3.05
 Having my genitals fed slowly through a mangle. 我情愿把小鸡鸡用轧布机慢慢碾过。
 put me in that position.
 She's got a huge crush on me. 对我有好感
@@ -389,7 +389,7 @@ revolting thing 讨厌的事情
 old stuffy parents 古板的
 Ear-splitting music 震耳欲聋的
 
-2.27, 2.28, 3.02, #3.05
+2.27, 2.28, 3.02, 3.05, #3.10
 stains on the carpet. 沾污
 Nick will keep an eye on things.
 All my fears have vanished as the morning dew.露水
@@ -398,17 +398,43 @@ airhead freinds
 spotty herberts, foolish man.
 off-licence, a store selling alcoholic beverages
 
-
-we'd better get a crate
-Some girl has been given the run of her house.
+3.06, #3.07
+we'd better get a crate. 板条箱
+Some girl has been given the run of her house. 一个人在家
 It is gonna be wall-to-wall totty. 遍地醉汉
 See if everything's hunky-dory. fine, going well
+conducting a satanic ritual? 邪教仪式
+I hadn't thought of that.
+What your kids get up to. 你的孩子在做什么
 
-12.18
+3.06
+under any other circumstances, that would be my idea of paradise.
+Where's the wrinklies? 老家伙
+all the resposibility of keeping her in line will be on your head. 管教她
+I can't stand the Patersons. 不能忍受
+I've got a way out of this. 我有对策
+corkscrew 开瓶器 cork 软木
+Fear not, fair lady. 莫慌张，美人
+
+
+The pen is mightier than the sword.
+I thought I better let you know that ...
+Just as you predicted\expected.
+What was the next on the list?
+Groping in the bedroom. 卿卿我我，grope 摸索
+You still wet the bed.
+Who'd have thought a kid would bring food to a party?
+You know you're getting old.
+You say the nicest things in the most convoluted way. 复杂的
+I fancy a bit of dessert.
+Strawberry-flavoured 草莓口味的
+They're being sensible. 理智的
+We're afraid of getting caught.
+
+
 
 657268024@qq.com
 
-14.53
-The Iraq Dossier
-16.47
+18.34
+
 
