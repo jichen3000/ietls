@@ -398,7 +398,7 @@ airhead freinds
 spotty herberts, foolish man.
 off-licence, a store selling alcoholic beverages
 
-3.06, #3.07
+3.06, 3.07, #3.09
 we'd better get a crate. 板条箱
 Some girl has been given the run of her house. 一个人在家
 It is gonna be wall-to-wall totty. 遍地醉汉
@@ -407,7 +407,7 @@ conducting a satanic ritual? 邪教仪式
 I hadn't thought of that.
 What your kids get up to. 你的孩子在做什么
 
-3.06
+3.06, 3.07
 under any other circumstances, that would be my idea of paradise.
 Where's the wrinklies? 老家伙
 all the resposibility of keeping her in line will be on your head. 管教她
@@ -416,7 +416,7 @@ I've got a way out of this. 我有对策
 corkscrew 开瓶器 cork 软木
 Fear not, fair lady. 莫慌张，美人
 
-
+3.07, 3.08, #3.10
 The pen is mightier than the sword.
 I thought I better let you know that ...
 Just as you predicted\expected.
@@ -424,6 +424,8 @@ What was the next on the list?
 Groping in the bedroom. 卿卿我我，grope 摸索
 You still wet the bed.
 Who'd have thought a kid would bring food to a party?
+
+3.07, 3.08
 You know you're getting old.
 You say the nicest things in the most convoluted way. 复杂的
 I fancy a bit of dessert.
@@ -431,10 +433,93 @@ Strawberry-flavoured 草莓口味的
 They're being sensible. 理智的
 We're afraid of getting caught.
 
+3.07, 3.08
+randy teenagers 好色的
+listen to jokes about our waning sexual powers. 减弱的
+Things couldn't get worse.
+She'll get over it. 原谅
+I don't like to brag. 吹牛
+That would really turn me on.
+This isn't some sort of bad chat-up line, is it? 搭讪
+
+3.07, 3.08
+Time will tell. 时间会证明的
+These are desperate times. 很难熬的
+Live with it. 忍着吧
+vase 花瓶
+She's slammed the window on him!
+He looks jolly angry. 非常
+a blazing row. 强烈的争吵
+Soaked to the skin. 浑身湿透
+
+3.07, 3.08
+It's not like opening a can of lager. 啤酒
+What's in it for me? 我有什么好处。
+Someone's life is at stake.处于险境
+He's a bottomless pit!
+shimmy up the drainpipe, 爬到 排水管
+keep a firm grip on the guttering above. 排水系统
+I can see why you're upset.
+I'll come and sort it out at once.
+
+s02e05
+3.08, #3.09
+I need to know what goes on in your head.
+You can't make a living just thinking about me.
+Either fresh broccoli 西兰花 or old ham.
+wash the container 洗碗
+any bets on what this is?
+write down the boring detail
+You rang? I never got a note.
+
+3.08
+You'll end up looking like a prat. 傻瓜
+No good will come of it.
+kick boxing
+I hope I'm that active at her age.
+another compeletely rotten day. 倒霉的
+I've made~you a snack.
+How are you feeling? 好点了吗？
+
+3.08
+I've got the chills and it's getting worse. 感冒
+How much worse?
+You get to lie around. 一直躺着
+play nursemaid. 佣人
+of course I feel your pain.
+I'm too weak to reach out and smack you. 伸出 用掌击（吻）
+take your temperature量体温
+
+3.08
+She was a kleptmaniac. 喜欢偷偷拿东西, maniac 疯子
+roller skates 旱冰鞋
+Did you catch her at it?
+if no one turned up to your funeral?
+leave me on the kerb.
+There are laws against fly-tipping. 违章倾倒垃圾, tip 倾倒
+Don't make me do anything we'll regret.
+
+
+Have a bit of fun, take in the sights.
+It's just too traumatic. 外伤，使人不快的
+I meant the father-son time.
+What about a little shopping spree?
+Gray hair in a bun. 梳成圆髻
+I wouldn't let her take my dummy. 奶嘴
+She swung me round by my teeth till I let go.
+I'll need therapy for years.
+Much as this might surprise you.你也许会感到惊讶
+I don't want it to be you.我不想和你一起去
+Eventually I'll be moving out.
+Oh, lucky me. 幸运的我
+Come on, dad, don't make a scene. 大吵大闹
+He's bereaved. 失去了亲人
+
+5.15
 
 
 657268024@qq.com
 
-18.34
+
 
 

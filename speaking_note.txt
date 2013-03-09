@@ -13,15 +13,15 @@ errors:
   repeat
 
 get the right rythme
-fluent        2 2
-stess         1 1
-liaison       1 1
-idiom         0 0
-communication 0 0
-interesting   0 0
-feeling       0 1
-time tense    0 0
-diversity     0
+fluent        2 2 1 2 2
+stess         1 1 1 1 1
+liaison       1 1 0 1 1
+idiom         0 0 1 1 0
+communication 0 0 0 0 0
+interesting   0 0 0 0 0
+feeling       0 1 0 1 0
+time tense    0 0 0 0 0
+diversity     0 0 1 1 1
 
 思考成句子，然后说，就会有重音和连读
   
