@@ -2,7 +2,7 @@
 s02e01
 2.11 2.24
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, #3.13
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, 3.13, #4.03
 what's up with him? 他怎么啦
 let me put it this way. 让我这么说吧...
 harbour 隐藏，避难所 a deep and biting 刺痛的 resentment 怨恨
@@ -11,7 +11,8 @@ That's two days in a row be sacked. 连续两天
 a useless layabout 懒汉
 He must be the most irritating气人的 man I've ever met.
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, 3.13
+1.50
 Please take my advice ...
 try and keep up 请跟上
 He is jealous of me.
@@ -21,6 +22,7 @@ Scrub diving losts glitter.失去诱惑了
 I dread to think ... 我真不敢想
 
 1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28
+2.41
 chronically unemployable
 They're perceptive. 他们真有眼光
 leave him alone别惹他
@@ -30,6 +32,7 @@ Would you rub擦 cream on my rash皮疹?
 Any messages you want passing on?
 
 1.17, 1.18, 1.20, 1.23, 1.29, 2.06, 3.03, 3.11, #3.24
+4.37
 The answer is in your dreams on the moon when hell freezes over.
 Thank you for being so supportive.
 You just too flaky to notice it. 古怪的
@@ -67,7 +70,7 @@ it allowed decay to set in underneath.
 drill it out钻出
 Don't go over the top, Susan.别想太多
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05, #3.13
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05, 3.13, #3.25
 youth detention center
 Her grades have gone through the celling.
 Signature looks genuine.
@@ -76,7 +79,7 @@ I knew she could do it if she applied herself.
 Do you know what that sounds like in my book?
 You're insatiable.不知足的 satiable
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05, 3.13
 every subject in the curriculum.
 get the elbow == to be dismissed from employment.
 You'll get used to it.
@@ -85,7 +88,7 @@ It just doesn't make sense. it is utter nonsense.
 airhead, a silly or foolish person.
 loaf around at home all day. loaf 游荡
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05, 3.13
 set in and stew, stew 忧虑，炖，焖
 Not to be dismissive表示轻视的 or judgmental
 entirely appropriate 合适的
@@ -94,7 +97,7 @@ That went rather well. 进展的很顺利
 It was a metaphor.
 You might end up offending her. 最好别再惹她了
 
-1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05
+1.18, 1.19, 1.21, 1.24, 1.29, 2.06, 3.05, 3.13, #3.26
 skulk about the house in your dressing gown all day.偷偷摸摸的在家走
 That was a ruse策略 to make you happy. 
 I heard a clunk.闷响
@@ -249,7 +252,7 @@ pleasure dome 屋子
 I'm not off the antibiotics yet.
 Here are some of your essentials.基本知识
 
-1.31, 2.01, 2.03, 2.06, 2.24, 3.01, #3.14
+1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14, #4.04
 You'll never hang out in here any more. hang out 闲逛
 fire extinguisher
 the bed seems to be spinning 转
@@ -259,7 +262,7 @@ use the saucepan平底锅
 open this wardrobe衣柜 ward, 保卫 robe, 长袍
 Goodby old chum, it was nice knowing you.  a close friend
 
-1.31, 2.01, 2.03, 2.06, 2.24, 3.01
+1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14
 permanent~exchange
 an old lecher老色鬼 lecherous好色的
 thump sb, hit sb
@@ -269,7 +272,7 @@ alter my circadian rhythm. 生物节律
 reset my body clock
 turnstile 旋转栅门，地铁入口
 
-1.31, 2.01, 2.03, 2.06, 2.24, 3.01
+1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14
 I adore English food
 Aperitif 开胃酒
 This is exquisite!精致的，高雅的 Oh, you really shouldn't have.
@@ -279,7 +282,7 @@ She's a bit tactile. 有触觉的，喜欢触碰
 She's a crawler. 爬行动物，见风使舵
 You are up to something.想要什么东西
 
-2.01, 2.03, 2.06, 2.09, 2.27, 3.04, #3.12
+2.01, 2.03, 2.06, 2.09, 2.27, 3.04, 3.12, #3.25
 She's just sucking up to all of my family.
 Why don't you join the fun.
 I'm fed up with it. not completely insane
@@ -288,7 +291,7 @@ pip, 很好的人或事物
 veranda 阳台
 The sleep deprivation's kicked in. come into effect.
 
-2.01, 2.03, 2.06, 2.09, 2.27, 3.04
+2.01, 2.03, 2.06, 2.09, 2.27, 3.04, 3.12
 How can you tell? 你怎么知道的
 sod off, 滚开
 Will this do the trick? 这会成功吗
@@ -297,7 +300,7 @@ But it's not over till it's over.笑到最后才笑地最好
 He soon settled in.
 Once I'd prised his finger off the doorframe. 撬
 
-2.03, 2.04, 2.06, 2.09, 2.28, 3.05, #3.13
+2.03, 2.04, 2.06, 2.09, 2.28, 3.05, 3.13, #3.27
 Janey is not too keen to Sylvie, is she? 不太喜欢她
 Hm, Seems that way. 看起来是这样的。
 I don't obsess about it. 这个倒不用我担心
@@ -306,7 +309,7 @@ so they can bond 能好好互相了解
 You've got Saturday off. 你星期六休息
 What can be better? 还能有更好的选择吗？
 
-2.03, 2.04, 2.06, 2.09, 2.28, 3.05
+2.03, 2.04, 2.06, 2.09, 2.28, 3.05, 3.13
 Having my genitals fed slowly through a mangle. 我情愿把小鸡鸡用轧布机慢慢碾过。
 put me in that position.
 She's got a huge crush on me. 对我有好感
@@ -344,7 +347,7 @@ indefinable reasons
 dark horse.
 The better man won.
 
-2.08, 2.09, 2.24, 2.27, 3.04
+2.08, 2.09, 2.24, 2.27, 3.04, 3.09
 I'm stuck.困住了。
 I've got a really fantastic family.
 Pulled any fit young girlies lately, Dad? 钓到
@@ -398,7 +401,7 @@ airhead freinds
 spotty herberts, foolish man.
 off-licence, a store selling alcoholic beverages
 
-3.06, 3.07, 3.09, #3.12
+3.06, 3.07, 3.09, 3.12, #3.17
 we'd better get a crate. 板条箱
 Some girl has been given the run of her house. 一个人在家
 It is gonna be wall-to-wall totty. 遍地醉汉
@@ -407,7 +410,7 @@ conducting a satanic ritual? 邪教仪式
 I hadn't thought of that.
 What your kids get up to. 你的孩子在做什么
 
-3.06, 3.07, 3.09
+3.06, 3.07, 3.09, 3.12
 under any other circumstances, that would be my idea of paradise.
 Where's the wrinklies? 老家伙
 all the resposibility of keeping her in line will be on your head. 管教她
@@ -416,7 +419,7 @@ I've got a way out of this. 我有对策
 corkscrew 开瓶器 cork 软木
 Fear not, fair lady. 莫慌张，美人
 
-3.07, 3.08, 3.10, #3.13
+3.07, 3.08, 3.10, 3.13, #3.18
 The pen is mightier than the sword.
 I thought I better let you know that ...
 Just as you predicted\expected.
@@ -425,7 +428,7 @@ Groping in the bedroom. 卿卿我我，grope 摸索
 You still wet the bed.
 Who'd have thought a kid would bring food to a party?
 
-3.07, 3.08, 3.10
+3.07, 3.08, 3.10, 3.13
 You know you're getting old.
 You say the nicest things in the most convoluted way. 复杂的
 I fancy a bit of dessert.
@@ -433,7 +436,7 @@ Strawberry-flavoured 草莓口味的
 They're being sensible. 理智的
 We're afraid of getting caught.
 
-3.07, 3.08, 3.10
+3.07, 3.08, 3.10, 3.13
 randy teenagers 好色的
 listen to jokes about our waning sexual powers. 减弱的
 Things couldn't get worse.
@@ -442,7 +445,7 @@ I don't like to brag. 吹牛
 That would really turn me on.
 This isn't some sort of bad chat-up line, is it? 搭讪
 
-3.07, 3.08, 3.10
+3.07, 3.08, 3.10, 3.14, #3.18
 Time will tell. 时间会证明的
 These are desperate times. 很难熬的
 Live with it. 忍着吧
@@ -452,7 +455,7 @@ He looks jolly angry. 非常
 a blazing row. 强烈的争吵
 Soaked to the skin. 浑身湿透
 
-3.07, 3.08, 3.10
+3.07, 3.08, 3.10, 3.14
 It's not like opening a can of lager. 啤酒
 What's in it for me? 我有什么好处。
 Someone's life is at stake.处于险境, stake 火刑，赌注
@@ -463,7 +466,7 @@ I can see why you're upset.
 I'll come and sort it out at once.
 
 s02e05
-3.08, 3.09, 3.11, #3.14
+3.08, 3.09, 3.11, 3.14, #3.19
 I need to know what goes on in your head.
 You can't make a living just thinking about me.
 Either fresh broccoli 西兰花 or old ham.
@@ -472,7 +475,7 @@ any bets on what this is?
 write down the boring detail
 You rang? I never got a note.
 
-3.08, 3.09, 3.11
+3.08, 3.09, 3.11, 3.14
 You'll end up looking like a prat. 傻瓜
 No good will come of it.
 kick boxing
@@ -481,7 +484,7 @@ another compeletely rotten day. 倒霉的
 I've made~you a snack.
 How are you feeling? 好点了吗？
 
-3.08, 3.09, 3.11
+3.08, 3.09, 3.11, 3.14
 I've got the chills and it's getting worse. 感冒
 How much worse?
 You get to lie around. 一直躺着
@@ -490,16 +493,16 @@ of course I feel your pain.
 I'm too weak to reach out and smack you. 伸出 用掌击（吻）
 take your temperature量体温
 
-3.08, 3.09, 3.11
-She was a kleptmaniac. 喜欢偷偷拿东西, maniac 疯子
+3.08, 3.09, 3.11, 3.14
+She was a kleptomaniac. 喜欢偷偷拿东西, maniac 疯子
 roller skates 旱冰鞋
 Did you catch her at it?
 if no one turned up to your funeral?
-leave me on the kerb.
+leave me on the kerb. 街边的石头
 There are laws against fly-tipping. 违章倾倒垃圾, tip 倾倒
 Don't make me do anything we'll regret.
 
-3.09, 3.10, #3.12
+3.09, 3.10, 3.12, #3.15
 Have a bit of fun, take in the sights.
 It's just too traumatic. 外伤，使人不快的
 I meant the father-son time.
@@ -508,7 +511,7 @@ Gray hair in a bun. 梳成圆髻
 I wouldn't let her take my dummy. 奶嘴, 假的
 She swung me round by my teeth till I let go. swing
 
-3.09, 3.10
+3.09, 3.10, 3.12
 I'll need therapy for years.
 Much as this might surprise you.你也许会感到惊讶
 I don't want it to be you.我不想和你一起去
@@ -517,7 +520,7 @@ Oh, lucky me. 幸运的我
 Come on, dad, don't make a scene. 大吵大闹
 He's a bit bereaved. 失去了亲人 reave, 抢走
 
-3.10, 3.11, #3.13
+3.10, 3.11, 3.14, #3.16
 I booked the Paris branch.
 Your name has just suddenly appeared, as if through wormhole from a different dimension.
 I'd rather eat glass.
@@ -526,7 +529,7 @@ You'll be amazed how much I've learned these years.
 We've run out of tuna so I used smoked oysters and chutney. 熏制牡蛎, 酸辣酱
 See all the nice big chunks. 大块
 
-3.10, 3.11
+3.10, 3.11, 3.14
 Dried himself to death, did he?
 I hope you have a pleasant stay.
 That makes two of us. 我们俩也是
@@ -535,7 +538,8 @@ None of your business.跟你没关系
 So how come you don't have any tattoos?
 I'm just in it for the pain. 我只是为了痛才..
 
-
+3.12, 3.14, #3.15
+11.51
 She's at death's door.
 Switch off the telly, move your arse upstairs.
 Having a horrible time. 这里很糟糕。
@@ -543,27 +547,38 @@ Convicts have better views. 监狱都比这里视野好
 I'm drowning in my own mucus. 粘液。
 I have a cold sore on my mouth. 溃疡
 I've been throwing up all day. 吐
+
+3.12, 3.14
+12.55
 Are you tring to out-suffer me? 痛苦
 I've reached a point where things couldn't get worse.
-She'll be here in a sceond.
-Shouldn't you get ready?
+She'll be~here~in a second.
+Shouldn't you be getting ready?
 There's a little problem with my room. notice: with
 Guy before not checked out yet?
-Nothing to be be ashamed of.
+Nothing to be ashamed~of.
+
+3.12, 3.14
+14.09
 Welcome to the love shack. 小屋
 Otherwise known as the Hotel de Smell.
 Not very nurturing, are we? 我们没把你教育好，是吧
-I'm bored and I'm starving.
+I'm bored and I'm starving. notice: it is boring. I'm bored.
 I hate being ill.
-They always cock it up. 搞砸
-You trust pharmaceuticals from someone whose first name called Stupid? 药物
+They always cock~it~up. 搞砸, cock 竖起
+You trust pharmaceuticals from someone whose first name is Stupid? 药物
+
+
+16.01
 From what~you've heard, are they likely to make me giddy and light-headed? 头晕眼花
 Well, up yours, mate. 随你便吧。
 Some stupid psycho, ranting in the phone. speak or shout at length in a wild, impassioned way.
 you pillock. a stupid person.
 we can snuggle up. 依偎
 We're very discreet around here. 小心的
-Have you hired a pypsy violinist to serenade us? 小夜曲
+Have you hired a gypsy violinist to serenade us? 小夜曲
+
+
 spread out, 舒展身体
 You threw up all over me. 吐了我一身
 I'm pretty horny. 淫荡的, 欲火焚身的
