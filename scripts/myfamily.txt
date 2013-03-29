@@ -502,7 +502,7 @@ leave me on the kerb. 街边的石头
 There are laws against fly-tipping. 违章倾倒垃圾, tip 倾倒
 Don't make me do anything we'll regret.
 
-3.09, 3.10, 3.12, 3.15, 3.20, #3.28
+3.09, 3.10, 3.12, 3.15, 3.20, 3.28, #4.10
 Have a bit of fun, take in the sights.
 It's just too traumatic. 外伤，使人不快的
 I meant the father-son time.
@@ -511,7 +511,7 @@ Gray hair in a bun. 梳成圆髻
 I wouldn't let her take my dummy. 奶嘴, 假的
 She swung me round by my teeth till I let go. swing
 
-3.09, 3.10, 3.12, 3.15, 3.20
+3.09, 3.10, 3.12, 3.15, 3.20, 3.28
 I'll need therapy for years.
 Much as this might surprise you.你也许会感到惊讶
 I don't want it to be you.我不想和你一起去
@@ -520,7 +520,7 @@ Oh, lucky me. 幸运的我
 Come on, dad, don't make a scene. 大吵大闹
 He's a bit bereaved. 失去了亲人 reave, 抢走
 
-3.10, 3.11, 3.14, 3.16, 3.21, #3.29
+3.10, 3.11, 3.14, 3.16, 3.21, 3.29, #4.11
 I booked the Paris branch.
 Your name has just suddenly appeared, as if through wormhole from a different dimension.
 I'd rather eat glass.
@@ -529,7 +529,7 @@ You'll be amazed how much I've learned these years.
 We've run out of tuna so I used smoked oysters and chutney. 熏制牡蛎, 酸辣酱
 See all the nice big chunks. 大块
 
-3.10, 3.11, 3.14, 3.16, 3.21
+3.10, 3.11, 3.14, 3.16, 3.21, 3.29
 Dried himself to death, did he?
 I hope you have a pleasant stay.
 That makes two of us. 我们俩也是
@@ -599,7 +599,7 @@ It was like panning for gold. 淘金
 This is not a memory I want to relive at this moment.
 Wrestle a bereaved octogenarian to the ground, 八、九十岁的人 octo
 
-3.18, 3.19, 3.21, 3.24, #3.29
+3.18, 3.19, 3.21, 3.24, 3.29, #4.06
 24.00
 I'm going to reconnoitre. 侦察
 She's going for a fashion statement.走T台
@@ -607,7 +607,7 @@ Cover for me, I'm goning in.
 Don't take tha Load's name in vain. 徒劳的
 What sort of an answer is that?
 
-3.18, 3.19, 3.21, 3.24
+3.18, 3.19, 3.21, 3.24, 3.29
 26.11
 It just leapt into my hand. leap, jump
 I don't care if it pole-vaulted up your arse. 撑杆跳
@@ -618,7 +618,7 @@ I'll stand guard 放哨
 unhook the clasp. 扣子
 
 s02e06
-3.23, 3.24, 3.26, #3.29
+3.23, 3.24, 3.26, 3.29, #4.03
 0.05
 Is that supposed to happen?
 It's like Reservoir Dogs where the guy gets his ear cut off. 落水狗
@@ -628,7 +628,7 @@ Now come here and give me a hand.
 Junction on bend ahead. 转弯处有叉路
 As far as it goes. 就现状来说
 
-3.23, 3.24, 3.26
+3.23, 3.24, 3.26, 3.29
 1.22
 Driving in the real world is nothing like in passing your test.
 Ready when you are, Jeney. 简妮，我时刻准备着
