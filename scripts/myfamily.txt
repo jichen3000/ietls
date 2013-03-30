@@ -319,7 +319,7 @@ hilarious
 Whose fault's that?
 She gave me long, sultry looks. 色咪咪的
 
-2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17, #3.30
+2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17, 3.30, #4.20
 lazy eye 弱视
 unmolested, molest v 调戏
 You're so very naughty! 你太调皮了
@@ -329,7 +329,7 @@ Occupational hazard of being an Englishman. 职业病
 megastore
 Because it was handy for McDonald's.
 
-2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17
+2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17, 3.30
 Do I have to humiliate myself any further?
 I'm not falling for any more this nonsense.
 an excuse for shrinking your duty. 逃避你的责任
@@ -338,7 +338,7 @@ without her accosting a single penshioner. 勾引
 Humor is a known aphrodisiac. 春药
 Women go weak over funny men. 女人抗拒不了风趣的男人 irrisistible
 
-2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17
+2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17, 3.30
 without a gun held to his head.
 Must have found my stash of videos. a secret store of something.
 Yeah, that kind of thing.
@@ -347,7 +347,7 @@ indefinable reasons
 dark horse.
 The better man won.
 
-2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17
+2.08, 2.09, 2.24, 2.27, 3.04, 3.09, 3.17, 3.30
 I'm stuck.困住了。
 I've got a really fantastic family.
 Pulled any fit young girlies lately, Dad? 钓到
@@ -638,17 +638,17 @@ Oh, bollocking hell!
 Keep the dream alive. 梦想成真
 Next door's sodding dog has crapped on the sodding doorstep again! 见鬼的 拉屎
 
-3.24, 3.25, 3.27, #3.30
+3.24, 3.25, 3.27, 3.30, #4.04
 2.44
 I'll bear that in mind.
 Yapping all day. yap, give a sharp, thrill bark.
 You mustn't be too hard on him.
 This is basic asset management.
 expert, notic sp->sb
-I don't want you wearting it up with freakish bodily fluids. 奇特的
+I don't want you sweating it up with freakish bodily fluids. 奇特的
 Have you got a moment?
 
-
+3.30, #3.31
 3.54
 What brings you round this evening?
 Would you like a drink.
@@ -657,22 +657,31 @@ How~is everything...
 But then I thought myself ...
 It's nice to have a companion who doesn't talk.
 a substitue for Emma.
-I just you mend it.
+
+3.30
+5.11
+I suggest you mend it.
 I suggest you put a cork up your dog's arse.
 That's now settled.
 pork lasagne意式宽面条
 and forward you the bill.
 That scruffy shed of yours has got to go. 难看的棚必须弄走
-I'll see myself out.
+I'll see myself~out.
+
+3.30
+6.11
 Cut him some slack. 放他一马
 So~am~I
 How dare Mr Casey say my shed looks scruffy?
 I'm sorry it doesn't live up to his Platonic ideal of shed-hood. 柏拉图般的幻想
 Take his side, 站在他的角度上...
 
+
 7.13
+He has a point. 他有自己的立场
+jezebel
+You tend to put things off. 别再想这些事了
 
-
-
+7.28
 
 
