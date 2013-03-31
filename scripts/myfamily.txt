@@ -374,16 +374,16 @@ In waht sense, you found it. 你怎么定义，你找到的
 Found as in fine-tooth~comb search of her possessions?梳子， 
 Eureka! 帅呆了
 
-2.26, 2.27, 3.01, 3.04, 3.09, 3.17, #3.31
+2.26, 2.27, 3.01, 3.04, 3.09, 3.17, 3.31, #4.21
 Now put it back before all hell breaks loose.在一切乱套之前
 How can we have the sort of honest, open relationship that allows free and flow confidences.
-What the hell you want to do that fro.
+What the hell you want to do that for.
 What a wonderful sense of achievement.
 brooding resentment. 压抑的怨恨
 I'm telepathic
 lay the table 铺桌子
 
-2.26, 2.27, 3.01, 3.04, 3.09, 3.17
+2.26, 2.27, 3.01, 3.04, 3.09, 3.17, 3.31 
 Nice day at work? 工作顺利
 So did the plumber turn up? 水管工出现了没
 I got an～A for my French project.
@@ -392,7 +392,7 @@ revolting thing 讨厌的事情
 old stuffy parents 古板的
 Ear-splitting music 震耳欲聋的
 
-2.27, 2.28, 3.02, 3.05, 3.10, 3.18, #3.31
+2.27, 2.28, 3.02, 3.05, 3.10, 3.18, #4.01
 stains on the carpet. 沾污
 Nick will keep an eye on things.
 All my fears have vanished as the morning dew.露水
@@ -538,7 +538,7 @@ None of your business.跟你没关系
 So how come you don't have any tattoos?
 I'm just in it for the pain. 我只是为了痛才..
 
-3.12, 3.14, 3.15, 3.18, 3.23, #3.31
+3.12, 3.14, 3.15, 3.18, 3.23, 3.31, #4.13
 11.51
 She's at death's door.
 Switch off the telly, move your arse upstairs.
@@ -548,7 +548,7 @@ I'm drowning in my own mucus. 粘液。
 I have a cold sore on my mouth. 溃疡
 I've been throwing up all day. 吐
 
-3.12, 3.14, 3.15, 3.18, 3.23
+3.12, 3.14, 3.15, 3.18, 3.23, 3.31
 12.55
 Are you tring to out-suffer me? 痛苦
 I've reached a point where things couldn't get worse.
@@ -558,7 +558,7 @@ There's a little problem with my room. notice: with
 Guy before not checked out yet?
 Nothing to be ashamed~of.
 
-3.12, 3.14, 3.15, 3.18, 3.23
+3.12, 3.14, 3.15, 3.18, 3.23, 3.31
 14.09
 Welcome to the love shack. 小屋
 Otherwise known as the Hotel de Smell.
@@ -648,17 +648,17 @@ expert, notic sp->sb
 I don't want you sweating it up with freakish bodily fluids. 奇特的
 Have you got a moment?
 
-3.30, #3.31
+3.30, 3.31, #4.02
 3.54
 What brings you round this evening?
 Would you like a drink.
 I'm not stopping. 一会儿就走。
 How~is everything... 
-But then I thought myself ...
+But then I thought myself that...
 It's nice to have a companion who doesn't talk.
 a substitue for Emma.
 
-3.30
+3.30, 3.31
 5.11
 I suggest you mend it.
 I suggest you put a cork up your dog's arse.
@@ -668,7 +668,7 @@ and forward you the bill.
 That scruffy shed of yours has got to go. 难看的棚必须弄走
 I'll see myself~out.
 
-3.30
+3.30, 3.31
 6.11
 Cut him some slack. 放他一马
 So~am~I
@@ -676,22 +676,28 @@ How dare Mr Casey say my shed looks scruffy?
 I'm sorry it doesn't live up to his Platonic ideal of shed-hood. 柏拉图般的幻想
 Take his side, 站在他的角度上...
 
-
+3.31, #4.01
 7.13
 He has a point. 他有自己的立场
 jezebel
 You tend to put things off. 别再想这些事了
 He's never idle. 不偷懒
-He's got an immaculate garden.
-If I popped my clogs, 我死了
+He's got an immaculate garden. 洁净的
+If I popped my clogs, 我死了 clog, 阻碍
 bad-tempered ferret. 雪貂
+
+3.31
+8.06
 Why is he being so pernickety? 麻烦的
 The nerve of the man!
 Mr Casey this, Mr Casey that. 这，那
 Lovely nightie. 睡衣
 Is madness~hereditary?
-He's crawling around garden with a tape measure and a skewer. 爬行， 一卷尺，烤肉叉子
+He's crawling around garden with a tape measure and a meat skewer. 爬行， 一卷尺，烤肉叉子
 War have been fought over less territory. 更小的领土都引发战争了
+
+
+9.30
 Remember loony Uncle Dave. 发疯的
 Was he a blood relative?
 Annexation, that's what I call it. 土地兼并
@@ -699,6 +705,32 @@ Yes, I've got to be sensible about this. 太敏感
 I should start plotting my revenge.
 There's suffering all over the world. 全世界都有苦难
 Amnesty International. 国际特赦组织
-7.28
+That was better than drugs!
+By the way, your airbag deployed. 打开了
+Something wrong with it. 出故障了吧
+Make fun of your father.
+I drove briliant! 
+a son who thinks I'm demented.
+At least we took your mind off Mr Casey.
+I've had enough of this. 受够了
+You are so bossy. 专横的
+You've just condensed your world view into one sentence.
+So let's see what's hit the fan this morning? 出什么乱子了
+The newspaper boy must have delivered it by mistake.
+I'll pop it round when I go out. 带出去
+I'll do it, but not until I've completed the crossword.
+You wouldn't leave an aircraft standing around idle.
+keep you hair on. 冷静
+act normal
+A letter about the European Monetary Union.
+I'd better keep that for bedtime.
+mow your lawn
+You've been letting him sunbathe out there in the nude.
+It's always some dull fart. 哑炮 fart 屁
+civil servant 公务员
+All you have to do is swallow your pride
+
+18.24
+
 
 
