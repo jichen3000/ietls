@@ -392,7 +392,7 @@ revolting thing 讨厌的事情
 old stuffy parents 古板的
 Ear-splitting music 震耳欲聋的
 
-2.27, 2.28, 3.02, 3.05, 3.10, 3.18, #4.01
+2.27, 2.28, 3.02, 3.05, 3.10, 3.18, 4.01, #4.22
 stains on the carpet. 沾污
 Nick will keep an eye on things.
 All my fears have vanished as the morning dew.露水
@@ -648,7 +648,7 @@ expert, notic sp->sb
 I don't want you sweating it up with freakish bodily fluids. 奇特的
 Have you got a moment?
 
-3.30, 3.31, #4.02
+3.30, 3.31, 4.02, #4.05
 3.54
 What brings you round this evening?
 Would you like a drink.
@@ -658,7 +658,7 @@ But then I thought myself that...
 It's nice to have a companion who doesn't talk.
 a substitue for Emma.
 
-3.30, 3.31
+3.30, 3.31, 4.02
 5.11
 I suggest you mend it.
 I suggest you put a cork up your dog's arse.
@@ -668,7 +668,7 @@ and forward you the bill.
 That scruffy shed of yours has got to go. 难看的棚必须弄走
 I'll see myself~out.
 
-3.30, 3.31
+3.30, 3.31, 4.02
 6.11
 Cut him some slack. 放他一马
 So~am~I
@@ -676,7 +676,7 @@ How dare Mr Casey say my shed looks scruffy?
 I'm sorry it doesn't live up to his Platonic ideal of shed-hood. 柏拉图般的幻想
 Take his side, 站在他的角度上...
 
-3.31, #4.01
+3.31, 4.01, #4.03
 7.13
 He has a point. 他有自己的立场
 jezebel
@@ -686,7 +686,7 @@ He's got an immaculate garden. 洁净的
 If I popped my clogs, 我死了 clog, 阻碍
 bad-tempered ferret. 雪貂
 
-3.31
+3.31, 4.01
 8.06
 Why is he being so pernickety? 麻烦的
 The nerve of the man!
@@ -696,7 +696,7 @@ Is madness~hereditary?
 He's crawling around garden with a tape measure and a meat skewer. 爬行， 一卷尺，烤肉叉子
 War have been fought over less territory. 更小的领土都引发战争了
 
-
+4.01, 4.02, #4.04
 9.30
 Remember loony Uncle Dave. 发疯的
 Was he a blood relative?
@@ -705,6 +705,9 @@ Yes, I've got to be sensible about this. 太敏感
 I should start plotting my revenge.
 There's suffering all over the world. 全世界都有苦难
 Amnesty International. 国际特赦组织
+
+4.01, 4.02
+10.29
 That was better than drugs!
 By the way, your airbag deployed. 打开了
 Something wrong with it. 出故障了吧
@@ -712,6 +715,9 @@ Make fun of your father.
 I drove briliant! 
 a son who thinks I'm demented.
 At least we took your mind off Mr Casey.
+
+4.01, 4.02
+13.07
 I've had enough of this. 受够了
 You are so bossy. 专横的
 You've just condensed your world view into one sentence.
@@ -719,6 +725,9 @@ So let's see what's hit the fan this morning? 出什么乱子了
 The newspaper boy must have delivered it by mistake.
 I'll pop it round when I go out. 带出去
 I'll do it, but not until I've completed the crossword.
+
+
+15.24
 You wouldn't leave an aircraft standing around idle.
 keep you hair on. 冷静
 act normal
@@ -731,6 +740,41 @@ civil servant 公务员
 All you have to do is swallow your pride
 
 18.24
+I should make allowance. 体谅
+We saw the fire engine. 消防车
+The shed burnt down.
+It had nothing to do with Mr Casey.
+There is no such thing as an accident.
+Tins of paint and oily rags油抹布 just spontaneously combust? 自燃
+It happend now, in the fog of war.
+His mind was on something else.
+good grief. 太伤心了
+leisure center
+cemetery 墓地
 
-
-
+20.10
+Now I feel emasculated.
+It sort of got sold.
+karma. 因果报应
+He'll rue the day he ever met Ben Harper. 后悔
+Ben, you have no idea how ludicrous that is.
+Are you kidding?
+This is seriously getting on my tits. 我快被烦死了
+That'll really wind him up. 生气
+I've never seen you so dynamic.
+If you put half as much energy into ... None of this would have happened. 虚拟语气
+For last two weeks, you've been so grumpy and irrational. 暴躁
+This feud with Mr Casey. 抗上了
+Making an arse of himself. 把自己变成混蛋
+It's the only thing I have worth having.
+I've decided putting an end that ...
+I'd use my people skills to negotiate a truce. 停火协定
+good move 好办法呀
+Easy enough. 很简单
+Isn't there room for give and take? 没有商量的余地了吗？
+Are you trying to be funny?
+Leave this to me, Susan. 
+Be my guest. 别客气
+I'm prepared to bury the hatcher, if you agree to my certain conditions. 和解， 短柄小斧
+ 
+25.57
