@@ -1,15 +1,25 @@
 evaluation system
 
 get the right rythme
-fluent        2 2 1 2 2 3 2 2 2 2 2 2 3 3 2 2 2 3
-stess         1 1 1 1 1 1 1 1 2 1 1 1 2 2 2 1 1 2
-liaison       1 1 0 1 1 1 0 0 1 0 1 1 1 1 1 1 1 1
-idiom         0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0
-communication 0 0 0 0 0 1 0 0 1 1 0 1 1 1 1 2 1 1
-interesting   0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 1 1
-feeling       0 1 0 1 0 1 0 0 1 0 0 0 1 1 1 1 1 1
-time tense    0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
-diversity     0 0 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0
+fluent        2 2 1 2 2 3 2 2 2 2 2 2 3 3 2 2 2 3 2
+stess         1 1 1 1 1 1 1 1 2 1 1 1 2 2 2 1 1 2 2
+liaison       1 1 0 1 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1
+idiom         0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0
+communication 0 0 0 0 0 1 0 0 1 1 0 1 1 1 1 2 1 1 1
+interesting   0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 1 1 1
+feeling       0 1 0 1 0 1 0 0 1 0 0 0 1 1 1 1 1 1 1
+time tense    0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1
+diversity     0 0 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0
+
+fluent        2
+stess         1
+liaison       0
+idiom         0
+communication 1
+interesting   1
+feeling       1
+time tense    0
+diversity     1
 
 思考成句子，然后说，就会有重音和连读
   

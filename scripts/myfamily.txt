@@ -1,8 +1,8 @@
 % -*- coding: utf-8 -*-
-s02e01
 2.11 2.24
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, 3.13, #4.03
+s02e01
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, 3.13, 4.03, #5.06
 what's up with him? 他怎么啦
 let me put it this way. 让我这么说吧...
 harbour 隐藏，避难所 a deep and biting 刺痛的 resentment 怨恨
@@ -11,7 +11,7 @@ That's two days in a row be sacked. 连续两天
 a useless layabout 懒汉
 He must be the most irritating气人的 man I've ever met.
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, 3.13
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, 3.13, 4.03
 1.50
 Please take my advice ...
 try and keep up 请跟上
@@ -21,7 +21,7 @@ He's got to go. 必须走
 Scrub diving losts glitter.失去诱惑了
 I dread to think ... 我真不敢想
 
-1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28
+1.14, 1.15, 1.17, 1.20, 1.25, 2.02, 2.28, 3.13, 4.03
 2.41
 chronically unemployable
 They're perceptive. 他们真有眼光
@@ -252,7 +252,7 @@ pleasure dome 屋子
 I'm not off the antibiotics yet.
 Here are some of your essentials.基本知识
 
-1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14, #4.04
+1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14, 4.04, #5.08
 You'll never hang out in here any more. hang out 闲逛
 fire extinguisher
 the bed seems to be spinning 转
@@ -262,7 +262,7 @@ use the saucepan平底锅
 open this wardrobe衣柜 ward, 保卫 robe, 长袍
 Goodby old chum, it was nice knowing you.  a close friend
 
-1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14
+1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14, 4.04
 permanent~exchange
 an old lecher老色鬼 lecherous好色的
 thump sb, hit sb
@@ -272,7 +272,7 @@ alter my circadian rhythm. 生物节律
 reset my body clock
 turnstile 旋转栅门，地铁入口
 
-1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14
+1.31, 2.01, 2.03, 2.06, 2.24, 3.01, 3.14, 4.04
 I adore English food
 Aperitif 开胃酒
 This is exquisite!精致的，高雅的 Oh, you really shouldn't have.
@@ -568,7 +568,7 @@ I hate being ill.
 They always cock~it~up. 搞砸, cock 竖起
 You trust pharmaceuticals from someone whose first name is Stupid? 药物
 
-3.15, 3.16, 3.18, 3.21, 3.26, #4.03
+3.15, 3.16, 3.18, 3.21, 3.26, 4.03, #4.16
 16.01
 From what~you've heard, are they likely to make me giddy and light-headed? 头晕眼花
 Well, up yours, mate. 随你便吧。
@@ -578,7 +578,7 @@ we can snuggle up. 依偎
 We're very discreet around here. 小心的
 Have you hired a gypsy violinist to serenade us? 小夜曲
 
-3.16, 3.17, 3.19, 3.22, 3.27, #4.04
+3.16, 3.17, 3.19, 3.22, 3.27, 4.04, #4.17
 19.35
 spread out, 舒展身体
 You threw up all over me. 吐了我一身
@@ -588,7 +588,7 @@ You are not supposed to take unprescribed medication.
 We'd give them a bit of a thrill. 惊喜
 She's laughing on the outside, but deep down she's crying.
 
-3.16, 3.17, 3.19, 3.22, 3.27
+3.16, 3.17, 3.19, 3.22, 3.27, 4.04
 22.41
 Blessed are on those who mourn for they shall be comforted. 哀恸的人有福了,  因为他们必得安慰
 In my case, neither is coping with life.像我这样，  
@@ -618,7 +618,7 @@ I'll stand guard 放哨
 unhook the clasp. 扣子
 
 s02e06
-3.23, 3.24, 3.26, 3.29, #4.03
+3.23, 3.24, 3.26, 3.29, 4.03, #4.11
 0.05
 Is that supposed to happen?
 It's like Reservoir Dogs where the guy gets his ear cut off. 落水狗
@@ -628,7 +628,7 @@ Now come here and give me a hand.
 Junction on bend ahead. 转弯处有叉路
 As far as it goes. 就现状来说
 
-3.23, 3.24, 3.26, 3.29
+3.23, 3.24, 3.26, 3.29, 4.03
 1.22
 Driving in the real world is nothing like in passing your test.
 Ready when you are, Jeney. 简妮，我时刻准备着
@@ -638,7 +638,7 @@ Oh, bollocking hell!
 Keep the dream alive. 梦想成真
 Next door's sodding dog has crapped on the sodding doorstep again! 见鬼的 拉屎
 
-3.24, 3.25, 3.27, 3.30, #4.04
+3.24, 3.25, 3.27, 3.30, 4.04, #4.12
 2.44
 I'll bear that in mind.
 Yapping all day. yap, give a sharp, thrill bark.
@@ -676,7 +676,7 @@ How dare Mr Casey say my shed looks scruffy?
 I'm sorry it doesn't live up to his Platonic ideal of shed-hood. 柏拉图般的幻想
 Take his side, 站在他的角度上...
 
-3.31, 4.01, #4.03
+3.31, 4.01, 4.03, #4.06
 7.13
 He has a point. 他有自己的立场
 jezebel
@@ -686,7 +686,7 @@ He's got an immaculate garden. 洁净的
 If I popped my clogs, 我死了 clog, 阻碍
 bad-tempered ferret. 雪貂
 
-3.31, 4.01
+3.31, 4.01, 4.03
 8.06
 Why is he being so pernickety? 麻烦的
 The nerve of the man!
@@ -696,7 +696,7 @@ Is madness~hereditary?
 He's crawling around garden with a tape measure and a meat skewer. 爬行， 一卷尺，烤肉叉子
 War have been fought over less territory. 更小的领土都引发战争了
 
-4.01, 4.02, #4.04
+4.01, 4.02, 4.04, #4.07
 9.30
 Remember loony Uncle Dave. 发疯的
 Was he a blood relative?
@@ -706,7 +706,7 @@ I should start plotting my revenge.
 There's suffering all over the world. 全世界都有苦难
 Amnesty International. 国际特赦组织
 
-4.01, 4.02
+4.01, 4.02, 4.04
 10.29
 That was better than drugs!
 By the way, your airbag deployed. 打开了
@@ -716,7 +716,7 @@ I drove briliant!
 a son who thinks I'm demented.
 At least we took your mind off Mr Casey.
 
-4.01, 4.02
+4.01, 4.02, 4.04
 13.07
 I've had enough of this. 受够了
 You are so bossy. 专横的
@@ -726,8 +726,8 @@ The newspaper boy must have delivered it by mistake.
 I'll pop it round when I go out. 带出去
 I'll do it, but not until I've completed the crossword.
 
-
-15.24
+4.04, #4.05
+15.51 
 You wouldn't leave an aircraft standing around idle.
 keep you hair on. 冷静
 act normal
@@ -735,25 +735,31 @@ A letter about the European Monetary Union.
 I'd better keep that for bedtime.
 mow your lawn
 You've been letting him sunbathe out there in the nude.
+
+4.04
+17.30
 It's always some dull fart. 哑炮 fart 屁
 civil servant 公务员
 All you have to do is swallow your pride
-
-18.24
-I should make allowance. 体谅
+I should be prepared to make allowance. 体谅
 We saw the fire engine. 消防车
 The shed burnt down.
 It had nothing to do with Mr Casey.
+
+4.04
+18.57
 There is no such thing as an accident.
 Tins of paint and oily rags油抹布 just spontaneously combust? 自燃
 It happend now, in the fog of war.
-His mind was on something else.
+Oh, went very well.
+His minds was on something else.
 good grief. 太伤心了
 leisure center
 cemetery 墓地
 
-20.10
-Now I feel emasculated.
+
+20.14
+Now I feel emasculated. 柔弱的, 阉割的
 It sort of got sold.
 karma. 因果报应
 He'll rue the day he ever met Ben Harper. 后悔
@@ -776,5 +782,19 @@ Are you trying to be funny?
 Leave this to me, Susan. 
 Be my guest. 别客气
 I'm prepared to bury the hatcher, if you agree to my certain conditions. 和解， 短柄小斧
- 
-25.57
+fire away 继续吧
+Arsonist 纵火犯
+Consider it done.没问题
+I'm glad we managed to sort this out.
+Show her a few of the back doubles. 车技？
+I ran over Mr Casey's dog.
+The estate agency.
+
+
+s01e01
+0.11
+Jane, what if I've told you about painting nails at the table.
+What if I wasn't listening.
+So wise so young, they say, do not live long. 天才短命
+That gives you like "greate fingers slammed in the car door" look.
+Funny, they both end with "no". 答案都是NO
