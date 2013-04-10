@@ -11,15 +11,15 @@ feeling       0 1 0 1 0 1 0 0 1 0 0 0 1 1 1 1 1 1 1
 time tense    0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1
 diversity     0 0 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0
 
-fluent        2
-stess         1
-liaison       0
-idiom         0
-communication 1
-interesting   1
-feeling       1
-time tense    0
-diversity     1
+fluent        2 2 2 2
+stess         1 1 1 1
+liaison       0 1 1 1
+idiom         0 1 1 0
+communication 1 1 1 1
+interesting   1 1 1 1
+feeling       1 1 1 1
+time tense    0 1 0 0
+diversity     1 1 1 1
 
 思考成句子，然后说，就会有重音和连读
   
