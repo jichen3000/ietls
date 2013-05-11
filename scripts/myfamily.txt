@@ -155,7 +155,7 @@ I've learned my culinary skills from watching her. cooking
 You're trying to frighten me.
 It's a compliment.
 
-1.21, 1.22, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07, #5.11
+1.21, 1.22, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07, 5.11, #7.05
 You can't ever learn anything in life without screwing up once in a while.  搞砸 
 Heaven knows you're not obliged to get me coffee. 谁都知道
 live your jet-set life. 富豪的生活
@@ -165,7 +165,7 @@ It isn't something you go into half heartedly.
 shiitake mushrooms 香菇
 harebrained scheme 轻率的
 
-1.22, 1.23, 1.25, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07
+1.22, 1.23, 1.25, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07, 5.11
 You've got to keep this quiet, OK? 保密
 You have a mistress! How continental!
 You obviously have a lot to get off your chest. 你有许多要倾诉的烦恼
@@ -174,7 +174,7 @@ You'll stop picking on me. 停止批评
 nappies, pushchairs, 尿布， 婴儿车
 Your allowance 零用钱 pocket money
 
-1.23, 1.24, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07
+1.23, 1.24, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07, 5.11
 While they're busy with the sprog. 新手，这里指婴儿
 I had~to~at-tend~to a little of mishap at work. 灾难
 A norwegian had her handbag stolen.
@@ -185,7 +185,7 @@ You needn't bother
 act like village~idiot
 I don't want to go through all that again.
 
-1.23, 1.24, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07
+1.23, 1.24, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07, 5.11
 Nothing's foolproof. 万全的
 What can I say? I have low standard.
 Isn't that a bit drastic. 激烈的
@@ -194,7 +194,7 @@ I go~into~a cold sweat. 冷汗
 How to get~out~of~it? 逃避
 It means~it hurts like hell.
 
-1.23, 1.24, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07
+1.23, 1.24, 1.26, 1.29, 2.03, 2.24, 3.04, 3.17, 4.07, 5.11
 We have a money back guarantee.
 How are those carrots coming? 胡萝卜
 But now you've brought it up. 既然你已经提出来了。
@@ -599,7 +599,7 @@ It was like panning for gold. 淘金
 This is not a memory I want to relive at this moment.
 Wrestle a bereaved octogenarian to the ground, 八、九十岁的人 octo
 
-3.18, 3.19, 3.21, 3.24, 3.29, 4.06, 4.19, #5.10
+3.18, 3.19, 3.21, 3.24, 3.29, 4.06, 4.19, 5.10, #6.13
 24.00
 I'm going to reconnoitre. 侦察
 She's going for a fashion statement.走T台
@@ -607,7 +607,7 @@ Cover for me, I'm goning in.
 Don't take tha Load's name in vain. 徒劳的
 What sort of an answer is that?
 
-3.18, 3.19, 3.21, 3.24, 3.29, 4.06, 4.19
+3.18, 3.19, 3.21, 3.24, 3.29, 4.06, 4.19, 5.10
 26.11
 It just leapt into my hand. leap, jump
 I don't care if it pole-vaulted up your arse. 撑杆跳
@@ -757,7 +757,7 @@ good grief. 太伤心了
 leisure center
 cemetery 墓地
 
-4.07, 4.08, 4.10, 4.13, 4.18, 4.26, #5.09
+4.07, 4.08, 4.10, 4.13, 4.18, 4.26, 5.09, #6.12
 20.14
 Now I feel emasculated. 柔弱的, 阉割的
 It sort of got sold.
@@ -767,7 +767,7 @@ Ben, you have no idea how ludicrous that is.
 Are you kidding?
 This is seriously getting on my tits. 我快被烦死了
 
-4.07, 4.08, 4.10, 4.13, 4.18, 4.26
+4.07, 4.08, 4.10, 4.13, 4.18, 4.26, 5.09
 22.21
 That'll really wind him up. 生气
 I've never seen you so dynamic.
@@ -778,7 +778,7 @@ Making an arse of himself. 把自己变成混蛋
 It's the only thing at the world I have worth having.
 Evidently.
 
-4.07, 4.08, 4.10, 4.13, 4.18, 4.26
+4.07, 4.08, 4.10, 4.13, 4.18, 4.26, 5.09
 23.34
 I've decided putting an end that ...
 I'd use my people skills to negotiate a truce. 停火协定
@@ -788,7 +788,7 @@ It's never the case that one side is completely right and the other side is wron
 Isn't there room for give and take? 没有商量的余地了吗？
 Are you trying to be funny?
 
-4.08, 4.09, 4.11, 4.14, 4.19, 4.27, #5.10
+4.08, 4.09, 4.11, 4.14, 4.19, 4.27, 5.10, #5.31
 25.20
 How did the test go?
 Leave this to me, Susan. 
@@ -797,7 +797,7 @@ I'm prepared to bury the hatcher, as long as you agree to my certain conditions.
 fire away 继续吧 informal, used to give someone permission to begin speaking.
 Stoping blasting loud hideous music at night. hideous, adj, ugly or disgusting to look at.
 
-4.08, 4.09, 4.11, 4.14, 4.19, 4.27
+4.08, 4.09, 4.11, 4.14, 4.19, 4.27, 5.10
 26.09
 Arsonist 纵火犯 arson
 Let's consider it done.没问题
@@ -808,7 +808,7 @@ I ran over Mr Casey's dog.
 The estate agency.
 
 s01e01
-4.08, 4.09, 4.11, 4.14, 4.19, 4.27
+4.08, 4.09, 4.11, 4.14, 4.19, 4.27, 5.10
 0.11
 Jane, what if I've told you about painting nails at the table.
 What if I wasn't listening.
@@ -818,7 +818,7 @@ Funny, they both end with "no". 答案都是NO
 Why do you always give me things are broken.
 Portable does not mean submergible.
 
-4.09, 4.10, 4.12, 4.15, 4.20, 4.28, #5.11
+4.09, 4.10, 4.12, 4.15, 4.20, 4.28, 5.11, #6.01
 1.23
 I wrote it in lipstick on the bathroom mirror.
 I hope my next husband has your sense of humour.
@@ -828,7 +828,7 @@ It's guilt, guilt, guilt. It's unbearable. 不可忍受的
 We had a really deep rewarding relationship going.
 Meant a lot to me while it lasted. 当发生时，它对我很重要。
 
-4.09, 4.10, 4.12, 4.15, 4.20, 4.28
+4.09, 4.10, 4.12, 4.15, 4.20, 4.28, 5.11
 3.04
 You might end up with a stalker. 跟踪狂
 The laptop's in the living room desk, top drawer!
@@ -837,7 +837,7 @@ I can't remember booking you in?
 Unless prospect was so awful I screened you out. 除非生意太差，我才会安排你。
 But you keep fobbing her off. fob someone off, deceitfully attempt to satisfy someone by making excuses.
  
-4.09, 4.10, 4.12, 4.15, 4.20, 4.28
+4.09, 4.10, 4.12, 4.15, 4.20, 4.28, 5.11
 3.55
 Your family always come second.
 Against TV, golf and football, that's not bad going. 起码比TV这些重要
@@ -1093,7 +1093,7 @@ We've decided not to let it bother us.
 it's wrong to push the river. 人为的干预
 He feels it goes against nature.
 
-4.21, 4.22, 4.24, 4.27, 5.02, #5.10
+4.21, 4.22, 4.24, 4.27, 5.02, 5.10, #5.23
 22.09
 backtracking a moment. 回溯
 He's flying over my son and crapping custard!
@@ -1103,7 +1103,7 @@ but actually I back him up.
 We're just above indifferent. 不能只是漠不关心
 You, as parents, are scraping the barrel of downright abysmal. 放到一边 深渊 
 
-4.21, 4.22, 4.24, 4.27, 5.02
+4.21, 4.22, 4.24, 4.27, 5.02, 5.10
 23.28
 This was gonna be a rational conversation. 理性的对话
 rational free-range parenting. 自由放养
@@ -1113,7 +1113,7 @@ a heart condition. 心脏不太好
 Still no sign of Michael. 没有消息
 That's buying him off. 收买
 
-4.22, 4.23, 4.25, 4.28, 5.03, #5.11
+4.22, 4.23, 4.25, 4.28, 5.03, 5.11, #5.24
 25.25
 I was having a joke to lighten up things. 放松
 He could be lying in a ditch, his clothes all torn.
@@ -1122,7 +1122,7 @@ How can you be so blase? 若无其事的
 use the language of flowers
 my taughter's a thug. 恶棍
 
-4.22, 4.23, 4.25, 4.28, 5.03
+4.22, 4.23, 4.25, 4.28, 5.03, 5.11
 26.07
 That's no way to behave. 没有办法的办法
 What's the catch? 意图
@@ -1286,7 +1286,7 @@ That was worth every penny. 值
 someone snoring in our row. 打呼噜
 What about the overture and selected highlights? 前奏 直接跳到高潮
 
-4.28, 4.29, 5.01, 5.04, #5.09
+4.28, 4.29, 5.01, 5.04, 5.09, #5.17
 s01e04
 riddle 谜题
 Tuna Wellington, wellington's tuna
@@ -1296,7 +1296,7 @@ beckoning 召唤
 It's a bunch of old people dressed in white.
 play harps 竖琴
 
-4.28, 4.29, 5.01, 5.04
+4.28, 4.29, 5.01, 5.04, 5.09
 1.26
 You might need a running start. 提早准备
 in Mum's case
@@ -1306,7 +1306,7 @@ leaving your toes supple. 脚趾 柔软的，灵活的
 You need something with a personal touch. 亲密感
 satellite dish卫星天线
 
-4.28, 4.29, 5.01, 5.04
+4.28, 4.29, 5.01, 5.04, 5.09
 2.12
 I hardly think, 不认为
 it would make me ecstatic 十分高兴。
@@ -1316,7 +1316,7 @@ I don't want to make a fuss. 大惊小怪
 I just do something quiet.
 I'll start making the arrangements tomorrow.
 
-4.29, 4.30, 5.02, 5.05, #5.10
+4.29, 4.30, 5.02, 5.05, 5.10, #5.18
 3.31
 suprise me with something else.
 What would you want to go back there for?
@@ -1326,7 +1326,7 @@ draws straws, and just eat whoever draws the short one.
 go for it继续
 It might have been right, but
 
-4.29, 4.30, 5.02, 5.05
+4.29, 4.30, 5.02, 5.05, 5.10
 5.19
 We took the scenic route. 风景美
 I don't suppose it is possible to get seven?可不可以
@@ -1336,7 +1336,7 @@ Jane, we can do this the hard way or we can do this easy way.
 I've gotta meet my mates down the pubs.
 I have this plan for ages.
 
-4.29, 4.30, 5.02, 5.05
+4.29, 4.30, 5.02, 5.05, 5.10
 7.35
 It's about your sordid love tryst. 肮脏的小幽会
 I'm trying to act parental.
@@ -1346,7 +1346,7 @@ chest of drawers. 箱子
 I need something more substantial.
 We were a mass of ranging hormones.
 
-4.30, 5.01, 5.03, 5.06, #5.11
+4.30, 5.01, 5.03, 5.06, 5.11, #5.19
 10.08
 complimentary shower cap. 免费的
 Try brushing your teeth.
@@ -1356,7 +1356,7 @@ We have a saying around here.
 How we'll pack this all in. 安排
 address book where you could fill in your all thought. 
 
-4.30, 5.01, 5.03, 5.06
+4.30, 5.01, 5.03, 5.06, 5.11
 13.22
 spread her ashes
 They were such a cheery couple. 多恩爱呀
@@ -1402,7 +1402,7 @@ The solar flare I call Susan.
 You cared enough to lie. 你在意我，所以骗我
 This place is spotless.
 
-5.04, 5.05, 5.07, #5.10
+5.04, 5.05, 5.07, 5.10, #5.15
 s01e05
 I'm upstairs.
 I'm putting away the washing. 我在洗衣服，马上就好。
@@ -1413,7 +1413,7 @@ rearrange a few things.
 Chi is the energy of your life-force.生命源动力
 attain happiness.
 
-5.04, 5.05, 5.07
+5.04, 5.05, 5.07, 5.10
 1.15
 It was oozing negativity. 冒出邪气
 In England we like routine.循规蹈矩
@@ -1423,7 +1423,7 @@ He was mugged. 抢劫
 high-crime areas.
 They've put bars on their windows. 铁栅栏
 
-5.04, 5.05, 5.07
+5.04, 5.05, 5.07, 5.10
 3.25
 I'm terribly sorry.
 As I was saying, ...
@@ -1433,7 +1433,7 @@ You could buy yourself out of dragoons. 龙骑兵
 I don't mean to disturb your evening.
 Tibetan cleansing stones.
 
-5.05, 5.06, 5.08, #5.11  
+5.05, 5.06, 5.08, 5.11, #5.16  
 5.07
 Your husband, I'm afraid to tell you, is like a toxic river.
 It need to be dammed up. 堵上
@@ -1443,7 +1443,7 @@ Scarecrow 稻草人 crow 乌鸦
 My stage name 艺名
 Help me pick a costume.
 
-5.05, 5.06, 5.08
+5.05, 5.06, 5.08, 5.11
 6.54
 pick out cloth. 选出
 thinking ahead.
@@ -1453,7 +1453,7 @@ armed robbery 持械抢劫
 breaking and entering 强闯民宅
 informant 告密者
 
-5.05, 5.06, 5.08
+5.05, 5.06, 5.08, 5.11
 8.00
 Who wears the trousers here? 谁说了算
 Only I get to choose which one you wear. 我决定你穿哪条。
@@ -1463,7 +1463,7 @@ It was there all along. 一直在
 What is the porper attire for confronting criminals? 着装 面对
 I'm your new flatmate. 室友
 
-5.07, 5.08, #5.10
+5.07, 5.08, 5.10, #5.13
 10.36
 You're lacking one fundamental necessity for the job.
 You cannot sublet your room. 转租
@@ -1473,7 +1473,7 @@ The last thing I want to do is to scare.
 hope and aspiration.
 chimney 烟囱
 
-5.07, 5.08
+5.07, 5.08, 5.10
 12.11
 I had my testicles go.
 I recommend the Deluxe protection plan.
@@ -1483,7 +1483,7 @@ you're incapacitated. 无能力的
 You work on commission. 提成
 You could always roll the dice and go with the basic plan.
 
-
+5.08, 5.09, 5.11, #5.14
 13.02
 lowlife yobbos.
 You can't put a price on safety.
@@ -1493,15 +1493,40 @@ I inherited that from grandmother.
 world famous jewel thief.
 crouch down 蹲下
 
-
+5.09, 5.10, #5.12
 15.40
-cover you diffuse the beams.散射
+cover you to diffuse the beams.散射
 Don't I count for anything around here? 这里的事情都与我无关吗？
 At least we'll sleep more soundly tonight.
 The man said there would be a few kinks to be worked out. 缺陷
 have some pity
-I've fled the country with different name.
+I've fled the country and assumed a different name.
 Sergeant 警官
+
+5.10, #5.11
+18.55
+They scream the bad taste.
+We are rehearsing.
 We barely have the manpower to handle the real crimes.
 We'll make more money by appealing to the masses.
-19.50
+you jeopardised your family.
+alarm goes off again. 进行 
+
+5.11, #5.12
+23.14
+All zones now activated.
+my pores, 毛孔
+that is some achievement. 功劳
+they'll give us a full refund if we take it back in good condition.
+toothpaste牙膏
+
+5.11
+s01e06
+what does puzzle me?
+go out with bang. 砰的一下就结束了
+Got all his priorities wrong somewhere.
+God moves in mysterious ways, his wonder to perform. from Hymn by William Cowper
+a bit of a cop-out, isn't it? 站不住的理由
+I'd be hauld in front of an dental ethics committee. 拉
+
+1.08
