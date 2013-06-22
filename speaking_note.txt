@@ -2,15 +2,15 @@ evaluation system
 
 get the right rythme
 
-fluent        3 3 3
-stess         1 2 2
-liaison       1 1 1
-idiom         0 0 0
-communication 1 1 1
-interesting   1 1 1
-feeling       1 1 1
-time tense    1 1 1
-diversity     1 1 1
+fluent        3 3 3 3 3 3
+stess         1 2 2 2 2 2
+liaison       1 1 1 1 0 0
+idiom         0 0 0 0 0 1
+communication 1 1 1 2 1 1
+interesting   1 1 1 1 1 1
+feeling       1 1 1 1 1 1
+time tense    1 1 1 1 0 0
+diversity     1 1 1 1 1 1
 
 
 fluent        2 2 2 2 2 2 2 2 3 3 2 3 3 3 2 2 3 3 3 3 3
