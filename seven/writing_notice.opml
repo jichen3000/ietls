@@ -1,0 +1,127 @@
+<opml version="1.0">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <outline text="writing">
+      <outline text="&#35780;&#20998;&#26631;&#20934;">
+        <outline text="&#23637;&#24320;&#20805;&#20998;">
+          <outline text="well supported"/>
+          <outline text="well developed"/>
+        </outline>
+        <outline text="&#35748;&#35777;&#36923;&#36753;"/>
+        <outline text="&#35789;&#30340;&#38750;&#21333;&#19968;">
+          <outline text="&#26367;&#25442;"/>
+          <outline text="&#36716;&#36848;"/>
+        </outline>
+      </outline>
+      <outline text="&#27573;&#30340;&#32467;&#26500;">
+        <outline text="&#25903;&#25345;&#27573;">
+          <outline text="&#21551;&#65306;
+&#20013;&#24515;&#21477;
+"/>
+          <outline text="&#25215;&#65306;
+because / so / if
+&#35299;&#37322;&#35828;&#26126;&#20013;&#24515;&#21477;&#20013;&#30340;&#25277;&#35937;&#27010;&#24565;&#65292;"/>
+          <outline text="&#36716;&#65306;
+however / for example / if
+&#22914;&#26524;&#26159;&#20004;&#32773;&#27604;&#36739;&#65292;
+disagree&#21644;agree&#65292;&#35201;&#27604;&#36739;&#19968;&#19979;
+"/>
+          <outline text="&#21512;&#65306;
+&#24635;&#32467;&#21477;
+&#19981;&#19968;&#23450;&#38656;&#35201;
+"/>
+        </outline>
+        <outline text="&#35753;&#27493;&#27573;">
+          <outline text="&#21453;&#39539;&#35266;&#28857;"/>
+          <outline text="&#29702;&#30001;"/>
+          <outline text="&#20877;&#21453;&#35777;&#36825;&#20010;&#35266;&#28857;&#19981;&#27491;&#30830;"/>
+        </outline>
+      </outline>
+      <outline text="&#35770;&#35777;">
+        <outline text="1.&#35828;&#29702;">
+          <outline text="because, since"/>
+          <outline text="in other words"/>
+          <outline text="that is to say"/>
+          <outline text="to be more specific"/>
+        </outline>
+        <outline text="2.&#20030;&#20363;">
+          <outline text="&#23458;&#35266;&#30340;
+&#21644;&#20010;&#20154;&#26080;&#20851;&#30340;
+">
+            <outline text="for example/instance"/>
+            <outline text="take sb as an example"/>
+            <outline text="to illustrate / as an illustration"/>
+          </outline>
+        </outline>
+        <outline text="3.&#23545;&#27604;">
+          <outline text="&#27491;&#21453;">
+            <outline text="In contrast"/>
+            <outline text="on the contrary"/>
+            <outline text="conversely"/>
+          </outline>
+          <outline text="&#36807;&#21435;&#29616;&#22312;">
+            <outline text="In the past"/>
+            <outline text="Nowadays"/>
+          </outline>
+        </outline>
+        <outline text="4.&#20551;&#35774;">
+          <outline text="if">
+            <outline text="fail to"/>
+          </outline>
+          <outline text="without"/>
+        </outline>
+        <outline text="5.&#22240;&#26524;/&#25512;&#35770;">
+          <outline text="&#22240;&#26524;/&#25512;&#35770;
+&#22914;&#26524;&#19978;&#38754;&#37027;&#21477;&#27491;&#35299;&#65292;
+&#23601;&#20250;&#20135;&#29983;&#20160;&#20040;&#32467;&#26524;
+">
+            <outline text="as a result"/>
+            <outline text="so, when"/>
+          </outline>
+        </outline>
+        <outline text="6.&#25968;&#25454;&#27861;">
+          <outline text="It is reported that"/>
+          <outline text="Accoding to a recent survey"/>
+          <outline text="reliable statistics"/>
+        </outline>
+      </outline>
+      <outline text="calligraph">
+        <outline text="clear">
+          <outline text="a,o need to be full"/>
+          <outline text="p,v don't connect"/>
+          <outline text="m,n"/>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="Thought">
+      <outline text="&#35821;&#27861;">
+        <outline text="&#25277;&#35937;&#21517;&#35789;&#65292;&#21333;&#25968;">
+          <outline text="the proliferation does ..."/>
+        </outline>
+        <outline text="&#19981;&#23450;&#24335;&#65292;&#21518;&#32622;&#23450;&#35821;">
+          <outline text="ability to distiguish right from wrong"/>
+        </outline>
+        <outline text="&#34394;&#25311;&#35821;&#27668;">
+          <outline text="&#34394;&#25311;&#26102;&#29992;"/>
+        </outline>
+        <outline text="&#20174;&#21477;">
+          <outline text="&#8230; to the fact + reason cause"/>
+        </outline>
+      </outline>
+      <outline text="&#38382;&#39064;&#22914;&#20309;&#25226;&#36825;&#20123;&#35789;&#32452;&#65292;&#21477;&#22411;&#21464;&#25104;&#25105;&#33258;&#24049;&#30340;"/>
+      <outline text="&#25353;&#35805;&#39064;">
+        <outline text="&#35266;&#28857;">
+          <outline text="&#22797;&#26434;&#21477;&#23376;">
+            <outline text="&#30701;&#35821;"/>
+            <outline text="&#35789;&#27719;"/>
+            <outline text="&#21477;&#22411;"/>
+            <outline text="&#20174;&#21477;"/>
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="New Idea"/>
+  </body>
+</opml>
